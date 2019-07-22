@@ -1,68 +1,242 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.pustakadunia.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://www.pustakadunia.com/</loc>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/about-us.html</loc>
+<lastmod>2019-05-20T13:53:40+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\4/About.jpg</image:loc>
+<image:title><![CDATA[Selamat Datang di PustakaDunia.com]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/budidaya-bambu.html</loc>
+<lastmod>2019-06-17T11:32:25+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\16/budidaya-bambu.jpg</image:loc>
+<image:title><![CDATA[Budidaya Bambu]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/budidaya-ikan-baung.html</loc>
+<lastmod>2019-06-04T13:58:52+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\15/manfaat-ikan-baung.jpg</image:loc>
+<image:title><![CDATA[Budidaya Ikan Baung]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati.html</loc>
+<lastmod>2019-05-29T15:01:06+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\14/Tanaman-Bunga-Melati.jpg</image:loc>
+<image:title><![CDATA[Cangkok dan Penanaman Batang Induk Tanaman Bunga Melati]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/cara-membuat-chutney-tomat.html</loc>
+<lastmod>2019-06-27T10:49:47+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\20/chtney-tomat.jpg</image:loc>
+<image:title><![CDATA[Cara Membuat Chutney Tomat]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/contact-us.html</loc>
+<lastmod>2019-05-20T13:53:46+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\5/contact-us.jpg</image:loc>
+<image:title><![CDATA[Contact Us PustakaDunia.com]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/disclaimer.html</loc>
+<lastmod>2019-05-20T13:53:29+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\3/disclaimer.jpg</image:loc>
+<image:title><![CDATA[Disclaimer PustakaDunia.com]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/gambaran-umum-usaha-jasa-transportasi.html</loc>
+<lastmod>2019-06-17T11:07:26+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\18/angkot.jpg</image:loc>
+<image:title><![CDATA[Gambaran Umum Usaha Jasa Transportasi]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/halaman/2/</loc>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/ikan-baung.html</loc>
+<lastmod>2019-06-04T14:06:44+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\17/baung.jpg</image:loc>
+<image:title><![CDATA[Ikan Baung]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/keunggulan-dan-kelebihan-lele-mutiara.html</loc>
+<lastmod>2019-05-20T09:56:36+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\10/benih-lele-mutiara.jpg</image:loc>
+<image:title><![CDATA[Keunggulan dan Kelebihan Lele Mutiara]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\10/pengujian-lele.jpg</image:loc>
+<image:title><![CDATA[Pengujian Lele Mutiara]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\10/kolam-lele.jpg</image:loc>
+<image:title><![CDATA[Nilai Plus Lele Mutiara]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/lele-mutiara.html</loc>
+<lastmod>2019-05-17T10:43:01+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\7/ikan-lele-mutiara.jpg</image:loc>
+<image:title><![CDATA[Lele Mutiara]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\7/Gambar-Lele-Mutiara.jpg</image:loc>
+<image:title><![CDATA[Lele Dumbo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\7/Lele-Afrika.jpg</image:loc>
+<image:title><![CDATA[Lele Afrika]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/membuat-larutan-nutrisi-hidroponik.html</loc>
+<lastmod>2019-05-20T10:51:35+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\12/hidroponik.jpg</image:loc>
+<image:title><![CDATA[Membuat Larutan Nutrisi Hidroponik]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\12/hidroponik-farm.jpg</image:loc>
+<image:title><![CDATA[Nutrisi Hidroponik]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\12/panen-hidroponik.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/mengenal-ikan-baung.html</loc>
+<lastmod>2019-06-04T13:58:43+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\9/green-baung.jpg</image:loc>
+<image:title><![CDATA[Mengenal Ikan Baung]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\9/ikan-baung.jpg</image:loc>
+<image:title><![CDATA[Mengenal ikan Baung]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\9/manfaat-ikan-baung.jpg</image:loc>
+<image:title><![CDATA[Manfaat Ikan Baung]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/mengenal-lele-mutiara.html</loc>
+<lastmod>2019-05-20T09:53:07+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\6/mengenal-lele-mutiara.jpg</image:loc>
+<image:title><![CDATA[Mengenal Lele Mutiara]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\6/clarias-batrachus.jpg</image:loc>
+<image:title><![CDATA[Gambar clarias batrachus (Lele Dumbo)]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\6/lele-mutiara.jpg</image:loc>
+<image:title><![CDATA[Lele Mutiara]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\6/Teknik-Budidaya-Lele-Mutiara.jpg</image:loc>
+<image:title><![CDATA[Teknik Budidaya Lele Mutiara]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/peluang-usaha-budidaya-bunga-melati.html</loc>
+<lastmod>2019-05-29T13:36:38+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\13/bunga-melati.jpg</image:loc>
+<image:title><![CDATA[Peluang Usaha Budidaya Bunga Melati]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\13/jasmine.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/peluang-usaha-budidaya-ikan-baung.html</loc>
+<lastmod>2019-05-20T09:53:44+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\11/peluang-ikan-baung.jpg</image:loc>
+<image:title><![CDATA[Peluang Usaha Budidaya Ikan Baung]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\11/salai-baung.jpg</image:loc>
+<image:title><![CDATA[Usaha Salai Baung]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\11/benih-baung.jpg</image:loc>
+<image:title><![CDATA[Budidaya Ikan Baung]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/pengertian-jasa-transportasi.html</loc>
+<lastmod>2019-06-17T11:03:39+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\19/transport.jpg</image:loc>
+<image:title><![CDATA[Pengertian Jasa Transportasi]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\19/prilaku-konsumen-transportasi.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\19/prilaku-sistem-transportasi.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/privacy-policy.html</loc>
+<lastmod>2019-05-20T13:53:15+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\1/privacy.jpg</image:loc>
+<image:title><![CDATA[Selamat datang di Kebijakan Privasi kami PustakaDunia.com]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/terms-and-conditions.html</loc>
+<lastmod>2019-05-20T13:53:22+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\2/tos.jpg</image:loc>
+<image:title><![CDATA[Terms and Conditions PustakaDunia.com]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://www.pustakadunia.com/usaha-budidaya-bunga-kertas-zinnia.html</loc>
+<lastmod>2019-05-20T10:33:47+07:00</lastmod>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\8/zinnia.jpg</image:loc>
+<image:title><![CDATA[Usaha Budidaya Bunga Kertas Zinnia]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\8/bunga-kertas-zinnia.jpg</image:loc>
+<image:title><![CDATA[Bunga Zinnia]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.pustakadunia.com/media\posts\8/jenis-bunga-zinnia.jpg</image:loc>
+<image:title><![CDATA[zinnia linearis]]></image:title>
+</image:image>
 </url>
 </urlset>
