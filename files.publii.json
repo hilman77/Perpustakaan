@@ -2,17 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "20a54d8776efe0e130ee593e2c3f942b"
+        "md5": "a3c1bb94b67632af69ed022f137362b9"
     },
     {
         "path": "about-us.html",
         "type": "file",
-        "md5": "e163044d66da7f14c6af23abe1140851"
+        "md5": "94d89636715fdd1db31a151ae7ebcaa2"
     },
     {
         "path": "alternatif-media-jamur-kayu-menggunakan-rumput-gajah.html",
         "type": "file",
-        "md5": "20e03feb799fbf9452595ea68cfaa700"
+        "md5": "02ce87446afa58c57e14b8e0b5863c16"
     },
     {
         "path": "amp",
@@ -30,6 +30,11 @@
         "md5": "7e7ad7fb459c651130b501f984dd840d"
     },
     {
+        "path": "/amp/analisa-finansial-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "db3d81dcaa32e9fc475acfd81c48ba45"
+    },
+    {
         "path": "/amp/analisa-finansial-usaha-bunga-dan-tanaman-hias.html",
         "type": "file",
         "md5": "2bd86b6dd5ca5f9866611affc71bf6f1"
@@ -38,6 +43,16 @@
         "path": "/amp/analisa-keuangan-usaha-furniture.html",
         "type": "file",
         "md5": "49360bbf30cfe21a82a0a2a4f0ed6676"
+    },
+    {
+        "path": "/amp/analisa-peluang-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "bc58f9c94f6118eab70a72fb83a1f98c"
+    },
+    {
+        "path": "/amp/analisa-prospek-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "ab05622d835c458415fa14141763d20f"
     },
     {
         "path": "/amp/analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat.html",
@@ -130,6 +145,11 @@
         "md5": "a44c4dd4ce3923e0d74719801410d211"
     },
     {
+        "path": "/amp/dasar-pengelolaan-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "c49d6b48edab105607f5ce34a4e4bc23"
+    },
+    {
         "path": "/amp/disclaimer.html",
         "type": "file",
         "md5": "6eeeefa1b7e7a551c0ccdff4e1065a29"
@@ -160,6 +180,16 @@
         "md5": "2c5db564887c933a67b242f7211d75ea"
     },
     {
+        "path": "/amp/faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "d356b5ef7a20b64cae20f77f2716c125"
+    },
+    {
+        "path": "/amp/gambaran-umum-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "59c2c2efaffa4fb133e8ea9074d15931"
+    },
+    {
         "path": "/amp/gambaran-umum-usaha-jasa-transportasi.html",
         "type": "file",
         "md5": "4ebcd63f1998cd70159fd21723bd839a"
@@ -180,6 +210,16 @@
         "md5": false
     },
     {
+        "path": "amp/halaman/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/halaman/10/index.html",
+        "type": "file",
+        "md5": "ff72a343bc4747794e3a5a859291101b"
+    },
+    {
         "path": "amp/halaman/2",
         "type": "directory",
         "md5": false
@@ -187,7 +227,7 @@
     {
         "path": "/amp/halaman/2/index.html",
         "type": "file",
-        "md5": "21267004a548c94302fe5026264cc6c4"
+        "md5": "1a06a4379a59f016969fe56958c1470f"
     },
     {
         "path": "amp/halaman/3",
@@ -197,7 +237,7 @@
     {
         "path": "/amp/halaman/3/index.html",
         "type": "file",
-        "md5": "470a732c1a4a572188f90f02a4f5b263"
+        "md5": "d5148d8c105b3a15d438c32051e77c89"
     },
     {
         "path": "amp/halaman/4",
@@ -207,7 +247,7 @@
     {
         "path": "/amp/halaman/4/index.html",
         "type": "file",
-        "md5": "41dd1c7c8d8bf6efd47efbcac03e86a6"
+        "md5": "fdd34619011eece2ce793680becf5751"
     },
     {
         "path": "amp/halaman/5",
@@ -217,7 +257,7 @@
     {
         "path": "/amp/halaman/5/index.html",
         "type": "file",
-        "md5": "1ac0604b1e5bb721c8966eff03f9c7c4"
+        "md5": "3993ff434c59bdc540e9104d8f1f1add"
     },
     {
         "path": "amp/halaman/6",
@@ -227,7 +267,7 @@
     {
         "path": "/amp/halaman/6/index.html",
         "type": "file",
-        "md5": "65e3652828685c4b3bafc1b6e9b6e766"
+        "md5": "4357482f9fa4f475fc2737ab174a892e"
     },
     {
         "path": "amp/halaman/7",
@@ -237,7 +277,7 @@
     {
         "path": "/amp/halaman/7/index.html",
         "type": "file",
-        "md5": "91f47d51deb5e0bca23e1be2a8e88be3"
+        "md5": "5873871603a1729131a4ffacb1227f39"
     },
     {
         "path": "amp/halaman/8",
@@ -247,7 +287,7 @@
     {
         "path": "/amp/halaman/8/index.html",
         "type": "file",
-        "md5": "f75bdfa63de19716a648c9413b30ce0a"
+        "md5": "492498992a2cb3b24540bf5abba9eb28"
     },
     {
         "path": "amp/halaman/9",
@@ -257,7 +297,7 @@
     {
         "path": "/amp/halaman/9/index.html",
         "type": "file",
-        "md5": "861510a753b4ae00492c656d13ec3911"
+        "md5": "5a250182dc9863f13526928f6afebcdf"
     },
     {
         "path": "amp/home-industri",
@@ -292,7 +332,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "4296154889ab83be48ba2a3d514368c6"
+        "md5": "221386ea3f69ac910662184fc249314c"
     },
     {
         "path": "/amp/infrastruktur-usaha-tani-bunga-potong-2.html",
@@ -305,9 +345,24 @@
         "md5": false
     },
     {
+        "path": "amp/jasa/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/jasa/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/jasa/halaman/2/index.html",
+        "type": "file",
+        "md5": "425572e4c0c66e4bd03f7dfcb5c96908"
+    },
+    {
         "path": "/amp/jasa/index.html",
         "type": "file",
-        "md5": "f5f4d97a0504682d98e9c58985ad4323"
+        "md5": "f5799379476bf91882c0366910187089"
     },
     {
         "path": "/amp/kajian-prospek-usaha-perkebunan-bunga-potong.html",
@@ -507,7 +562,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/2/index.html",
         "type": "file",
-        "md5": "eeb9cb666254c07832d97385c99ac250"
+        "md5": "d71c37dbaa4c5203584f201eba5a0fb3"
     },
     {
         "path": "amp/penulis/anonymous/halaman/3",
@@ -517,7 +572,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/3/index.html",
         "type": "file",
-        "md5": "ee0210e86b7fa4fd27f2e617d7ea9e8b"
+        "md5": "5428c55793f88b488eab9bdeabfef21f"
     },
     {
         "path": "amp/penulis/anonymous/halaman/4",
@@ -527,7 +582,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/4/index.html",
         "type": "file",
-        "md5": "49b00f97f716f32571562a7334b6195d"
+        "md5": "7724437e69cf6c5c24b67285d98cd83f"
     },
     {
         "path": "amp/penulis/anonymous/halaman/5",
@@ -537,7 +592,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/5/index.html",
         "type": "file",
-        "md5": "6c40a31eee87a8a075771912d25a3393"
+        "md5": "9b49b5e4c6b8884c6e3e2a360eaa4496"
     },
     {
         "path": "amp/penulis/anonymous/halaman/6",
@@ -547,7 +602,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/6/index.html",
         "type": "file",
-        "md5": "876eb538ba8a43134e5ea1c6afa0dea8"
+        "md5": "bfe731f578a393dd8a83f0953d048af8"
     },
     {
         "path": "amp/penulis/anonymous/halaman/7",
@@ -557,7 +612,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/7/index.html",
         "type": "file",
-        "md5": "0eb20178b2f49b693e30650fe0c4ba13"
+        "md5": "1c50995dd6806f7ccef21a75d75636e1"
     },
     {
         "path": "amp/penulis/anonymous/halaman/8",
@@ -567,12 +622,12 @@
     {
         "path": "/amp/penulis/anonymous/halaman/8/index.html",
         "type": "file",
-        "md5": "f4ba3c3c782ff1ba2c278daec1d6079a"
+        "md5": "269085ae10802f243f6063449c74043a"
     },
     {
         "path": "/amp/penulis/anonymous/index.html",
         "type": "file",
-        "md5": "1fc6d15f81b4c15f81f43398b40d3502"
+        "md5": "fbfff67d51aa52fea7a361e92edc9343"
     },
     {
         "path": "amp/penulis/kanghilman",
@@ -777,12 +832,17 @@
     {
         "path": "/amp/strategi-usaha-industri-furniture.html",
         "type": "file",
-        "md5": "d07c81e3fcb7ea35877a80a0a830c3b6"
+        "md5": "f74e2328229f4503fd59053ddab509a5"
     },
     {
         "path": "/amp/sumber-bahan-baku-usaha-furniture.html",
         "type": "file",
         "md5": "fad91140ec831ecf8b07b9c6d6dfa3ea"
+    },
+    {
+        "path": "/amp/syarat-pendirian-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "e3d2921eb4df800265d6f4177334de7b"
     },
     {
         "path": "/amp/syarat-pendirian-usaha-bunga-dan-tanaman-hias.html",
@@ -808,6 +868,11 @@
         "path": "/amp/teknik-dan-cara-usaha-home-industri-furniture.html",
         "type": "file",
         "md5": "939c6a9ed3266c607e37c404923b7e55"
+    },
+    {
+        "path": "/amp/teknik-pemasaran-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "b15dc4155ca9adc658405d24bcf83f18"
     },
     {
         "path": "amp/teknologi-tepat-guna",
@@ -855,29 +920,44 @@
         "md5": "602e52e79f898bee521e4eefb9236bf3"
     },
     {
+        "path": "analisa-finansial-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "03f3791d76515e35aa29efe80836a652"
+    },
+    {
         "path": "analisa-finansial-usaha-bunga-dan-tanaman-hias.html",
         "type": "file",
-        "md5": "7968377962ab78444a58e52e7b4f8f6b"
+        "md5": "7e5421745f0d6725c24a708eee034735"
     },
     {
         "path": "analisa-keuangan-usaha-furniture.html",
         "type": "file",
-        "md5": "e2716fcf7d9de17c7d3d1bae449a212f"
+        "md5": "c59c62bf14c3f3ae689dd01ad1d5ee69"
+    },
+    {
+        "path": "analisa-peluang-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "baad09efca67b921414bf8de141c8d7e"
+    },
+    {
+        "path": "analisa-prospek-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "3be1020bf854e782810f295b68c89a65"
     },
     {
         "path": "analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat.html",
         "type": "file",
-        "md5": "af8b68a753e0b4a6400377b0068f8573"
+        "md5": "d2f4a2214275c350be81a4bf644e85bb"
     },
     {
         "path": "analisis-perkembangan-pasar-gula-dunia.html",
         "type": "file",
-        "md5": "eea3b51a2b87ea382c12e91592b708ef"
+        "md5": "2046470a2c865ec545e6f363c739d408"
     },
     {
         "path": "analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang.html",
         "type": "file",
-        "md5": "b9d466e2d72c32252b04b648591fe64b"
+        "md5": "45407d8908470292eeae16ddff91c7cf"
     },
     {
         "path": "assets",
@@ -982,7 +1062,7 @@
     {
         "path": "autonomic-nervous-system-changes-during-reiki-treatment.html",
         "type": "file",
-        "md5": "76aeb928564f8e11bf7af881ded7d551"
+        "md5": "8bec8ceba0320f850b1e554f97e2fe5c"
     },
     {
         "path": "bisnis-and-keuangan",
@@ -992,82 +1072,87 @@
     {
         "path": "/bisnis-and-keuangan/index.html",
         "type": "file",
-        "md5": "f934c3877ed7d5b675428de998632363"
+        "md5": "c86fef4443cc0b28024cb8f2ad6f0c98"
     },
     {
         "path": "budidaya-bambu.html",
         "type": "file",
-        "md5": "43ed83740c0f446d297fc60756a111d4"
+        "md5": "4227c1271e1f64b5891a795e7ad16352"
     },
     {
         "path": "budidaya-bunga-krisan-potong.html",
         "type": "file",
-        "md5": "f9a9a0da6ddb84e758bf096f15e3981a"
+        "md5": "6bea90778ffc5bc810a16b02c6ff0094"
     },
     {
         "path": "budidaya-ikan-baung.html",
         "type": "file",
-        "md5": "1f7b4ce3782ec75698b10303f98afc06"
+        "md5": "f266efbf7a919842b8d7f3e7e5e43ffe"
     },
     {
         "path": "budidaya-jamur-shiitake.html",
         "type": "file",
-        "md5": "f3dbe99abc6f862b06822174325c9f1f"
+        "md5": "78f7aca57d905a16c30beeeb2f7cdd02"
     },
     {
         "path": "budidaya-krisan-pot.html",
         "type": "file",
-        "md5": "1b0154f4ab28937b0933c501fc383e04"
+        "md5": "b08872107969bf9c6afa3e28fb9cdcb1"
     },
     {
         "path": "budidaya-tanaman-tebu-saccharum-officinarum.html",
         "type": "file",
-        "md5": "22470421fafd7c7d85b8c068528b1a3e"
+        "md5": "146f661d50262dc30dade97ccc89b3c3"
     },
     {
         "path": "cacing-sutra.html",
         "type": "file",
-        "md5": "79cb044b974c532f86eb43d5b86fd8b6"
+        "md5": "399d039bcf72d06e7e8524542f525d04"
     },
     {
         "path": "cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati.html",
         "type": "file",
-        "md5": "354f0d0a273725bc551529fde01d5ef0"
+        "md5": "d89a4f22c7a742d22b7a58e53eaf40dd"
     },
     {
         "path": "cara-membuat-abon.html",
         "type": "file",
-        "md5": "2b536fb63b5fd3c8c8ef13f0560fe833"
+        "md5": "eb5286a9bc6e32248a5b896862df9cb1"
     },
     {
         "path": "cara-membuat-chutney-tomat.html",
         "type": "file",
-        "md5": "721efe45da2222ec07b220d13f49caf9"
+        "md5": "6d600662d979c05f8a3ecb43da979e63"
     },
     {
         "path": "cara-memenangkan-negosiasi.html",
         "type": "file",
-        "md5": "95e274409fda02df121305bb15db5fb3"
+        "md5": "609dbbda585ea2ed4154031bcc539b3e"
     },
     {
         "path": "contact-us.html",
         "type": "file",
-        "md5": "94360723058a49e74c795cf7bd16f595"
+        "md5": "65fe28168383323a86fdc1b2a2deb1e6"
+    },
+    {
+        "path": "dasar-pengelolaan-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "a679aea977df4a2586aebcd3670b66d5"
     },
     {
         "path": "disclaimer.html",
         "type": "file",
-        "md5": "98d5282018f0af151c617eb887327645"
+        "md5": "3892cc858710ecfcaff92171f1e3f7d1"
     },
     {
         "path": "drinking-water-source-deterioration.html",
         "type": "file",
-        "md5": "eaea3ec368b498056cc748dfbf3dbf4a"
+        "md5": "616c2a64e7954867130127f071e01097"
     },
     {
         "path": "electroacupuncture-for-diabetic-gastroparesis.html",
         "type": "file",
-        "md5": "ef0032af9661e832ec1823ed19023356"
+        "md5": "cf23d898555b2b77099aa63352ae2d32"
     },
     {
         "path": "english-journal",
@@ -1077,42 +1162,62 @@
     {
         "path": "/english-journal/index.html",
         "type": "file",
-        "md5": "3f06c11862cf47c1b8aafb424732f6a6"
+        "md5": "c82b61779952e7293f0e564235a80cd6"
     },
     {
         "path": "faktor-keberhasilan-usaha-furniture.html",
         "type": "file",
-        "md5": "e72c1f5512a39946e23a5756a5742b86"
+        "md5": "55cc91556d630b3b72fd514ca53cd4b5"
+    },
+    {
+        "path": "faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "51910f3994bf2af62a06a909bcf85a05"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3939e04de6fdf67f15f405a5622e81ba"
+        "md5": "1d99061dffe6bd33929eeabda303573e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "faa5fd63f979b5b9ea739a015ed15e8a"
+        "md5": "43199d8d501984c0bb800ef90d50e6e6"
+    },
+    {
+        "path": "gambaran-umum-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "b941d9367726ea45b83adc33bfdb9c59"
     },
     {
         "path": "gambaran-umum-usaha-jasa-transportasi.html",
         "type": "file",
-        "md5": "6ade114ac9c544a31526c9a3e36365a5"
+        "md5": "795221ac7b3b1e9fd7f2ee97ebf6cc7f"
     },
     {
         "path": "gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison.html",
         "type": "file",
-        "md5": "9fde781fd5aa3bbdff42452c300b996e"
+        "md5": "845b11c0e781bc0b931482d6b8a9c2d2"
     },
     {
         "path": "game-dalam-bernegosiasi.html",
         "type": "file",
-        "md5": "d64874edf9fb4a2fb6789380ad67ad2d"
+        "md5": "8d3306c95406516a384dcface9cc5031"
     },
     {
         "path": "halaman",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "halaman/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/halaman/10/index.html",
+        "type": "file",
+        "md5": "106a02a94aab6114033847deb131bcfc"
     },
     {
         "path": "halaman/2",
@@ -1122,7 +1227,7 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "df898ded2e88d318c2d2591b495d57cf"
+        "md5": "a6b7b133d4e35d9d492de26063773104"
     },
     {
         "path": "halaman/3",
@@ -1132,7 +1237,7 @@
     {
         "path": "/halaman/3/index.html",
         "type": "file",
-        "md5": "e42c85c76cd3e2c04d1cd3b4d59eb909"
+        "md5": "9f0bab9723570c03d834073073c3e53e"
     },
     {
         "path": "halaman/4",
@@ -1142,7 +1247,7 @@
     {
         "path": "/halaman/4/index.html",
         "type": "file",
-        "md5": "ce80c33b6ce6f94728fbf08b60077a7c"
+        "md5": "5fe4d4466a1e153470605d1d9da31080"
     },
     {
         "path": "halaman/5",
@@ -1152,7 +1257,7 @@
     {
         "path": "/halaman/5/index.html",
         "type": "file",
-        "md5": "ecfb0f7d2baa105079fd90d2568ff01a"
+        "md5": "0cbb6d1ece1161d3f467302e72719c80"
     },
     {
         "path": "halaman/6",
@@ -1162,7 +1267,7 @@
     {
         "path": "/halaman/6/index.html",
         "type": "file",
-        "md5": "74196b5413ad44e820c8aefd273653b0"
+        "md5": "4a18b012d911768859a3cbd328c357df"
     },
     {
         "path": "halaman/7",
@@ -1172,7 +1277,7 @@
     {
         "path": "/halaman/7/index.html",
         "type": "file",
-        "md5": "0a083ed7c6491031ef4d110995f4aa7e"
+        "md5": "4c37179ba919075bdac81c3c15a7c16e"
     },
     {
         "path": "halaman/8",
@@ -1182,7 +1287,7 @@
     {
         "path": "/halaman/8/index.html",
         "type": "file",
-        "md5": "86bd8fe6a7e4a3c82aeb1008503ac0d6"
+        "md5": "22a3a4112436b6eb3502fa6d94edbc3f"
     },
     {
         "path": "halaman/9",
@@ -1192,7 +1297,7 @@
     {
         "path": "/halaman/9/index.html",
         "type": "file",
-        "md5": "893883d47f1740a77f6412c93bf82ee7"
+        "md5": "79190576de1e02a63e167e6fa462e5d4"
     },
     {
         "path": "home-industri",
@@ -1212,27 +1317,27 @@
     {
         "path": "/home-industri/halaman/2/index.html",
         "type": "file",
-        "md5": "63da8bd96ba6f93d9f63fbea445e9004"
+        "md5": "bbc1d6199c96b58d8f0f87441e14231e"
     },
     {
         "path": "/home-industri/index.html",
         "type": "file",
-        "md5": "b8046f0296deaf7d4a1f1f5abf27ce6f"
+        "md5": "dc6ada74dd0615ecda8b86ced32a5719"
     },
     {
         "path": "ikan-baung.html",
         "type": "file",
-        "md5": "83ad17ea5b653e9df237471628b247cc"
+        "md5": "348be7ea2e3119cc495c1da211cea3a1"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1fdc50f3c81fb564d44c2bf24d0de02d"
+        "md5": "467c950f715e296281cb2ac9fd1882ec"
     },
     {
         "path": "infrastruktur-usaha-tani-bunga-potong-2.html",
         "type": "file",
-        "md5": "e444fa9eb279eb61bd5e7c7c9462c8c6"
+        "md5": "7d4e60ef0fc222d0d3df0d4551ff1669"
     },
     {
         "path": "jasa",
@@ -1240,59 +1345,74 @@
         "md5": false
     },
     {
+        "path": "jasa/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "jasa/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/jasa/halaman/2/index.html",
+        "type": "file",
+        "md5": "f38cd3725e0f3b45ef29c4babeba130d"
+    },
+    {
         "path": "/jasa/index.html",
         "type": "file",
-        "md5": "0d95f1ec8aa3512fc0899b7986be13ec"
+        "md5": "3fc70d468909b4c37f924b30ebaab321"
     },
     {
         "path": "kajian-prospek-usaha-perkebunan-bunga-potong.html",
         "type": "file",
-        "md5": "284ba7a296f46300d7d87b1890fa4b13"
+        "md5": "fd3e7dbcdddbadd40d2e1f59b348ed87"
     },
     {
         "path": "karakteristik-industri-furniture.html",
         "type": "file",
-        "md5": "623643bf82b48161e205014c77bf9133"
+        "md5": "174da1c4f6b102cec58651fa3c3daccb"
     },
     {
         "path": "kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula.html",
         "type": "file",
-        "md5": "28349c3d5629e55973cf6035390301e1"
+        "md5": "a8794d6a0b16e3228950eec6499cba98"
     },
     {
         "path": "kebijaksanaan-pemerintah-dalam-industri-furniture.html",
         "type": "file",
-        "md5": "924613e3f566be859b9c643261a578d5"
+        "md5": "1178626149c08cb192117315e89ec8b6"
     },
     {
         "path": "ketersediaan-benih-bibit-bunga-potong.html",
         "type": "file",
-        "md5": "d7f1565969f2f67c47cb680b22a6e6ca"
+        "md5": "fb63f95038718e8b3e02335396bdc620"
     },
     {
         "path": "keunggulan-dan-kelebihan-lele-mutiara.html",
         "type": "file",
-        "md5": "f3b418e1646e91313ff4c8bdbbb9e43b"
+        "md5": "686f263a5976f410666318b372266a37"
     },
     {
         "path": "kondisi-industri-furniture.html",
         "type": "file",
-        "md5": "5ea4673a9042a8cba2132aff6d6baa47"
+        "md5": "c3e449d9700a2e888d6545197588d1c3"
     },
     {
         "path": "kondisi-usaha-bunga-dan-tanaman-hias.html",
         "type": "file",
-        "md5": "5d1f9b6af9e87f4266f82e6230f31e25"
+        "md5": "4e384a73781d05cad3e3a38fe54b342e"
     },
     {
         "path": "lele-mutiara.html",
         "type": "file",
-        "md5": "cc8b6a8c8f847bd99f03516e97adbfb7"
+        "md5": "941929898a62d3efa2980ff832451690"
     },
     {
         "path": "mastering-negosiasi-bisnis.html",
         "type": "file",
-        "md5": "940fd70b8d0ad48320c2db93631fe048"
+        "md5": "5f8c68c339e4931f30437f668d05a7f0"
     },
     {
         "path": "media",
@@ -1468,6 +1588,976 @@
         "path": "/media/posts/10/responsive/pengujian-lele-xs.jpg",
         "type": "file",
         "md5": "da159175d62b5ced9e052c5b727910f3"
+    },
+    {
+        "path": "media/posts/100",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/100/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "2cd441c0a603fed1b85fc1142719369e"
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "2cd441c0a603fed1b85fc1142719369e"
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "2cd441c0a603fed1b85fc1142719369e"
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "907d4a3d28a51483459f922643a39ec3"
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "2cd441c0a603fed1b85fc1142719369e"
+    },
+    {
+        "path": "/media/posts/100/responsive/Syarat-Pendirian-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "913a05714d42826b7680adaa78d9a796"
+    },
+    {
+        "path": "/media/posts/100/Syarat-Pendirian-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "9839dfdebd321413fcbc53aa09c978da"
+    },
+    {
+        "path": "media/posts/101",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/101/Dasar-Pengelolaan-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "39ffb9ac194b5a16c441645c0cd7ea00"
+    },
+    {
+        "path": "/media/posts/101/Jangkauan-lokasi-terhadap-pasar-sasaran.jpg",
+        "type": "file",
+        "md5": "464cc763662e4eb86f1fffbb5e6da01e"
+    },
+    {
+        "path": "/media/posts/101/Lama-usaha-jasa-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "903a740258278f0b48b55eb2fcf6a525"
+    },
+    {
+        "path": "/media/posts/101/Penggunaan-teknologi-komputer-dalam-proses-administrasi.jpg",
+        "type": "file",
+        "md5": "6697de3321affac56032964a7028613b"
+    },
+    {
+        "path": "/media/posts/101/Proses-operasi-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "670bed5bef926477d0ac3e0f46296734"
+    },
+    {
+        "path": "media/posts/101/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "fd900402848c14b4629f794c2dd4c223"
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "fd900402848c14b4629f794c2dd4c223"
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "839f008c2b3939815df26eb07736628a"
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "7c9993018e50181733d5bb85c7123593"
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "fd900402848c14b4629f794c2dd4c223"
+    },
+    {
+        "path": "/media/posts/101/responsive/Dasar-Pengelolaan-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "5015e6ad631ff6ca1aa86f54244b2384"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-2xl.jpg",
+        "type": "file",
+        "md5": "e7c893d336733cc25d33005c96f69288"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-lg.jpg",
+        "type": "file",
+        "md5": "e7c893d336733cc25d33005c96f69288"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-md.jpg",
+        "type": "file",
+        "md5": "e7c893d336733cc25d33005c96f69288"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-sm.jpg",
+        "type": "file",
+        "md5": "e7c893d336733cc25d33005c96f69288"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-xl.jpg",
+        "type": "file",
+        "md5": "e7c893d336733cc25d33005c96f69288"
+    },
+    {
+        "path": "/media/posts/101/responsive/Jangkauan-lokasi-terhadap-pasar-sasaran-xs.jpg",
+        "type": "file",
+        "md5": "84797b9a37eaac508659b7e6fad6c629"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "2a601d7e89b614a681cc3cae4418c366"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "2a601d7e89b614a681cc3cae4418c366"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "2a601d7e89b614a681cc3cae4418c366"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "2a601d7e89b614a681cc3cae4418c366"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "2a601d7e89b614a681cc3cae4418c366"
+    },
+    {
+        "path": "/media/posts/101/responsive/Lama-usaha-jasa-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "7116b5e4a9dd5ca8737a2b644bb4a181"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-2xl.jpg",
+        "type": "file",
+        "md5": "9abc85ea517dc158545ad7c8cde4a0d1"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-lg.jpg",
+        "type": "file",
+        "md5": "9abc85ea517dc158545ad7c8cde4a0d1"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-md.jpg",
+        "type": "file",
+        "md5": "9abc85ea517dc158545ad7c8cde4a0d1"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-sm.jpg",
+        "type": "file",
+        "md5": "9abc85ea517dc158545ad7c8cde4a0d1"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-xl.jpg",
+        "type": "file",
+        "md5": "9abc85ea517dc158545ad7c8cde4a0d1"
+    },
+    {
+        "path": "/media/posts/101/responsive/Penggunaan-teknologi-komputer-dalam-proses-administrasi-xs.jpg",
+        "type": "file",
+        "md5": "d146c2e47bb2f92fdc764b5f76518d15"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "bdea649f806ce4e4f424ba630e252f98"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "bdea649f806ce4e4f424ba630e252f98"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "bdea649f806ce4e4f424ba630e252f98"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "bdea649f806ce4e4f424ba630e252f98"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "bdea649f806ce4e4f424ba630e252f98"
+    },
+    {
+        "path": "/media/posts/101/responsive/Proses-operasi-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "93f128c2e3cad0e3f0dd94f480485ce3"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "8916b0acb49253775d3035c3d8a40e8e"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "8916b0acb49253775d3035c3d8a40e8e"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "8916b0acb49253775d3035c3d8a40e8e"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "8916b0acb49253775d3035c3d8a40e8e"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "8916b0acb49253775d3035c3d8a40e8e"
+    },
+    {
+        "path": "/media/posts/101/responsive/Struktur-Organisasi-Umum-pada-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "d472c001161a4e196627046d3607e249"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-2xl.jpg",
+        "type": "file",
+        "md5": "ab50433c25237c3a41f778112faf5300"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-lg.jpg",
+        "type": "file",
+        "md5": "ab50433c25237c3a41f778112faf5300"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-md.jpg",
+        "type": "file",
+        "md5": "ab50433c25237c3a41f778112faf5300"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-sm.jpg",
+        "type": "file",
+        "md5": "ab50433c25237c3a41f778112faf5300"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-xl.jpg",
+        "type": "file",
+        "md5": "ab50433c25237c3a41f778112faf5300"
+    },
+    {
+        "path": "/media/posts/101/responsive/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil-xs.jpg",
+        "type": "file",
+        "md5": "8bbd887b156472976076c4200a5d9cf9"
+    },
+    {
+        "path": "/media/posts/101/Struktur-Organisasi-Umum-pada-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "a6f101abf87db60401c244110ec92ee5"
+    },
+    {
+        "path": "/media/posts/101/Urutan-prioritas-pemilihan-lokasi-menurut-responden-usaha-jasa-bengkel-mobil.jpg",
+        "type": "file",
+        "md5": "2f43882a444aa5c6addc5f1316555808"
+    },
+    {
+        "path": "media/posts/102",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/102/Dampak-efektivitas-cara-promosi.jpg",
+        "type": "file",
+        "md5": "dd86d08a0c7acecbec3fe7de299eee79"
+    },
+    {
+        "path": "/media/posts/102/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen.jpg",
+        "type": "file",
+        "md5": "7cf86ed0f954ef276c412e01c71a66cb"
+    },
+    {
+        "path": "/media/posts/102/Penyelesaian-keluhan-konsumen.jpg",
+        "type": "file",
+        "md5": "f1a79fab084e7c4541c90977d434177d"
+    },
+    {
+        "path": "/media/posts/102/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "0b0b2d9be4a4baf4eaa0bd6aca86b8bf"
+    },
+    {
+        "path": "/media/posts/102/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "69864dbf9e0b87c97f3c1a1067957b6b"
+    },
+    {
+        "path": "media/posts/102/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-2xl.jpg",
+        "type": "file",
+        "md5": "a114029c1bcc6e4d8b9e4314670860f8"
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-lg.jpg",
+        "type": "file",
+        "md5": "a114029c1bcc6e4d8b9e4314670860f8"
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-md.jpg",
+        "type": "file",
+        "md5": "a114029c1bcc6e4d8b9e4314670860f8"
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-sm.jpg",
+        "type": "file",
+        "md5": "be5f4d316d6016717ad4f9e55579adc4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-xl.jpg",
+        "type": "file",
+        "md5": "a114029c1bcc6e4d8b9e4314670860f8"
+    },
+    {
+        "path": "/media/posts/102/responsive/Dampak-efektivitas-cara-promosi-xs.jpg",
+        "type": "file",
+        "md5": "77f401e98dc0923faaa130c32e4c6b83"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-2xl.jpg",
+        "type": "file",
+        "md5": "6942ac4c61d853b4cfeb1851e7ae2980"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-lg.jpg",
+        "type": "file",
+        "md5": "6942ac4c61d853b4cfeb1851e7ae2980"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-md.jpg",
+        "type": "file",
+        "md5": "6942ac4c61d853b4cfeb1851e7ae2980"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-sm.jpg",
+        "type": "file",
+        "md5": "6942ac4c61d853b4cfeb1851e7ae2980"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-xl.jpg",
+        "type": "file",
+        "md5": "6942ac4c61d853b4cfeb1851e7ae2980"
+    },
+    {
+        "path": "/media/posts/102/responsive/Frekuensi-penggunaan-jasa-bengkel-motor-oleh-konsumen-xs.jpg",
+        "type": "file",
+        "md5": "1093cea40f29cd35bc09af0fc6dea230"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-2xl.jpg",
+        "type": "file",
+        "md5": "d842b06c5e4def18a030acc60ba76fb6"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-lg.jpg",
+        "type": "file",
+        "md5": "d842b06c5e4def18a030acc60ba76fb6"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-md.jpg",
+        "type": "file",
+        "md5": "d842b06c5e4def18a030acc60ba76fb6"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-sm.jpg",
+        "type": "file",
+        "md5": "d842b06c5e4def18a030acc60ba76fb6"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-xl.jpg",
+        "type": "file",
+        "md5": "d842b06c5e4def18a030acc60ba76fb6"
+    },
+    {
+        "path": "/media/posts/102/responsive/Penyelesaian-keluhan-konsumen-xs.jpg",
+        "type": "file",
+        "md5": "faa654bdfed4c66d2cf24dc23cd24a0a"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "29a80ec17d1632c3c11d14761f096c38"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "29a80ec17d1632c3c11d14761f096c38"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "29a80ec17d1632c3c11d14761f096c38"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "29a80ec17d1632c3c11d14761f096c38"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "29a80ec17d1632c3c11d14761f096c38"
+    },
+    {
+        "path": "/media/posts/102/responsive/Pertimbangan-pemilihan-target-konsumen-menurut-responden-usaha-jasa-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "2331ff56156d6f7b0609cd6a850fda41"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "dd641423fed9d946aae100f4c9f9fcaa"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "dd641423fed9d946aae100f4c9f9fcaa"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "dd641423fed9d946aae100f4c9f9fcaa"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "dd641423fed9d946aae100f4c9f9fcaa"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "dd641423fed9d946aae100f4c9f9fcaa"
+    },
+    {
+        "path": "/media/posts/102/responsive/Positioning-tingkat-kualitas-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "4e104868bdcdd409e5af6d64b4c65ab9"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "7ca0c4a92abcb68ade7833f9182f623c"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "7ca0c4a92abcb68ade7833f9182f623c"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "7ca0c4a92abcb68ade7833f9182f623c"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "7ca0c4a92abcb68ade7833f9182f623c"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "7ca0c4a92abcb68ade7833f9182f623c"
+    },
+    {
+        "path": "/media/posts/102/responsive/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "e697f975d7114a13d5742ac51fa0c56a"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "12c48b6c70f65c6a2dc4baa6050ff518"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "12c48b6c70f65c6a2dc4baa6050ff518"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "fdc3b57b8eae11b438bb21899e80197f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "99dc74dc2a52a5bf362d4d83dee42f63"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "12c48b6c70f65c6a2dc4baa6050ff518"
+    },
+    {
+        "path": "/media/posts/102/responsive/Teknik-Pemasaran-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "1fe2154f3cf91ee979b47cbcc4c5aeb8"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "a62bf0e8a5fdf7229ee27fcec3bc9e8f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "a62bf0e8a5fdf7229ee27fcec3bc9e8f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "a62bf0e8a5fdf7229ee27fcec3bc9e8f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "a62bf0e8a5fdf7229ee27fcec3bc9e8f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "a62bf0e8a5fdf7229ee27fcec3bc9e8f"
+    },
+    {
+        "path": "/media/posts/102/responsive/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "4d28f56587e099589420c62ff0fbb42d"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-2xl.jpg",
+        "type": "file",
+        "md5": "40b763b19551d1ac0fc919663c627fa4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-lg.jpg",
+        "type": "file",
+        "md5": "40b763b19551d1ac0fc919663c627fa4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-md.jpg",
+        "type": "file",
+        "md5": "40b763b19551d1ac0fc919663c627fa4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-sm.jpg",
+        "type": "file",
+        "md5": "40b763b19551d1ac0fc919663c627fa4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-xl.jpg",
+        "type": "file",
+        "md5": "40b763b19551d1ac0fc919663c627fa4"
+    },
+    {
+        "path": "/media/posts/102/responsive/Upaya-responden-saat-calon-konsumen-ragu-xs.jpg",
+        "type": "file",
+        "md5": "98180af5be70b578c7a443a33d39fd14"
+    },
+    {
+        "path": "/media/posts/102/Target-konsumen-potensial-target-market-menurut-responden-usaha-jasa-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "d482fe6caa99fa5eb265881aed8a21fd"
+    },
+    {
+        "path": "/media/posts/102/Teknik-Pemasaran-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "ce4503fc6952463b5662d4886eecdf1b"
+    },
+    {
+        "path": "/media/posts/102/Tingkat-harga-relatif-terhadap-pesaing-menurut-responden-usaha-jasa-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "250058a2570f521ab00cb1e83ed9c838"
+    },
+    {
+        "path": "/media/posts/102/Upaya-responden-saat-calon-konsumen-ragu.jpg",
+        "type": "file",
+        "md5": "dded1866b61752258b66ae5542fa750e"
+    },
+    {
+        "path": "media/posts/103",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/103/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "9ccd5809d6e346b162b89c413e3c2495"
+    },
+    {
+        "path": "/media/posts/103/investasi-motor.jpg",
+        "type": "file",
+        "md5": "8afe8ad0afa33ad50aa1f1ee1483960e"
+    },
+    {
+        "path": "/media/posts/103/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen.jpg",
+        "type": "file",
+        "md5": "9a5702fa6be3858cac0f06b4993464d4"
+    },
+    {
+        "path": "/media/posts/103/Reinvestasi-Laba.jpg",
+        "type": "file",
+        "md5": "95ab905c0271c42394ed21913c8dd819"
+    },
+    {
+        "path": "media/posts/103/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "15bd811a7238868efbde3b226d39e807"
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "15bd811a7238868efbde3b226d39e807"
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "9c08a78ff4e2b9409e51523cec77d1de"
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "e40213690a50f31fc8bd19820ef1c9e5"
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "15bd811a7238868efbde3b226d39e807"
+    },
+    {
+        "path": "/media/posts/103/responsive/Faktor-Resiko-dan-Faktor-Keberhasilan-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "b0f41c6242a7619e9ac504e24fc11593"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-2xl.jpg",
+        "type": "file",
+        "md5": "ab5d02fa53f38b3299a5163617726689"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-lg.jpg",
+        "type": "file",
+        "md5": "ab5d02fa53f38b3299a5163617726689"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-md.jpg",
+        "type": "file",
+        "md5": "ab5d02fa53f38b3299a5163617726689"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-sm.jpg",
+        "type": "file",
+        "md5": "ab5d02fa53f38b3299a5163617726689"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-xl.jpg",
+        "type": "file",
+        "md5": "ab5d02fa53f38b3299a5163617726689"
+    },
+    {
+        "path": "/media/posts/103/responsive/investasi-motor-xs.jpg",
+        "type": "file",
+        "md5": "e803e79d5aaf3c13e7590a7883074a28"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-2xl.jpg",
+        "type": "file",
+        "md5": "0ae6f56a8669a062d77463dd00a87d3e"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-lg.jpg",
+        "type": "file",
+        "md5": "0ae6f56a8669a062d77463dd00a87d3e"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-md.jpg",
+        "type": "file",
+        "md5": "0ae6f56a8669a062d77463dd00a87d3e"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-sm.jpg",
+        "type": "file",
+        "md5": "0ae6f56a8669a062d77463dd00a87d3e"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-xl.jpg",
+        "type": "file",
+        "md5": "0ae6f56a8669a062d77463dd00a87d3e"
+    },
+    {
+        "path": "/media/posts/103/responsive/Pengelompokkan-faktor-faktor-keberhasilan-pengusahaan-jasa-bengkel-motor-berdasarkan-aspek-aspek-manajemen-xs.jpg",
+        "type": "file",
+        "md5": "f13b563127f69d5d5c94db53acced4ac"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-2xl.jpg",
+        "type": "file",
+        "md5": "1737eb47ca2fbe7cd9753cd974737e27"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-lg.jpg",
+        "type": "file",
+        "md5": "1737eb47ca2fbe7cd9753cd974737e27"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-md.jpg",
+        "type": "file",
+        "md5": "1737eb47ca2fbe7cd9753cd974737e27"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-sm.jpg",
+        "type": "file",
+        "md5": "1737eb47ca2fbe7cd9753cd974737e27"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-xl.jpg",
+        "type": "file",
+        "md5": "1737eb47ca2fbe7cd9753cd974737e27"
+    },
+    {
+        "path": "/media/posts/103/responsive/Reinvestasi-Laba-xs.jpg",
+        "type": "file",
+        "md5": "20247b736d0f8cf21bb4106c958f7910"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "0eb86383501290a4e152b4371a63d44d"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "0eb86383501290a4e152b4371a63d44d"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "0eb86383501290a4e152b4371a63d44d"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "573e6a52a2c6372d821a8c2cd4199df1"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "0eb86383501290a4e152b4371a63d44d"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Pembiayaan-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "c9b2a058f56cc8fbdaeaf79f9fd2b29c"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "8577b0532f37560c6ad182907f5ac7e6"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "8577b0532f37560c6ad182907f5ac7e6"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "8577b0532f37560c6ad182907f5ac7e6"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "4b92b3c6feb76268f4e1076dd0e8bca4"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "8577b0532f37560c6ad182907f5ac7e6"
+    },
+    {
+        "path": "/media/posts/103/responsive/Tingkat-Risiko-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "d1942bc2fd1c4bc7b5c6ab913f3535fd"
+    },
+    {
+        "path": "/media/posts/103/Tingkat-Risiko-Pembiayaan-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "236050de11a11421c51ddf71a2377e64"
+    },
+    {
+        "path": "/media/posts/103/Tingkat-Risiko-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "3bb3ec451fb31bcc7c3a56c351c4b343"
+    },
+    {
+        "path": "media/posts/104",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/104/Analisa-Finansial-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "2d41dab9dd13a1bfb4f0cf95984ccb3e"
+    },
+    {
+        "path": "media/posts/104/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "49fc8a909d4da902c706c03fec2918e9"
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "49fc8a909d4da902c706c03fec2918e9"
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "49fc8a909d4da902c706c03fec2918e9"
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "f4dd3194ac7bcb637895272a07b26670"
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "49fc8a909d4da902c706c03fec2918e9"
+    },
+    {
+        "path": "/media/posts/104/responsive/Analisa-Finansial-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "c1113cd3aef6c71b482be4455e0e714a"
+    },
+    {
+        "path": "media/posts/105",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/105/analisa-usaha-bengkel-motor.jpg",
+        "type": "file",
+        "md5": "b8fd2cb6483582aea77b9d4c73b0c0b1"
+    },
+    {
+        "path": "/media/posts/105/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "1c9dbbb064858cbcb09f1952e3b5fc34"
+    },
+    {
+        "path": "media/posts/105/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "2ce50ac817a93b79a4c0073bb7f3d7e2"
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "2ce50ac817a93b79a4c0073bb7f3d7e2"
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "a711019f091c2f1f0a63162818fe8e65"
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "f29f26ea80909ace9b41ebad6bef84ec"
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "2ce50ac817a93b79a4c0073bb7f3d7e2"
+    },
+    {
+        "path": "/media/posts/105/responsive/analisa-usaha-bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "d474a4b5c31fa63d994c2a2962f83784"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "0519a814d55fa1aa27e3bece3433f4da"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "0519a814d55fa1aa27e3bece3433f4da"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "0519a814d55fa1aa27e3bece3433f4da"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "0519a814d55fa1aa27e3bece3433f4da"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "0519a814d55fa1aa27e3bece3433f4da"
+    },
+    {
+        "path": "/media/posts/105/responsive/Komposisi-sumber-pemodalan-bagi-sektor-jasa-bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "ade6bfa5db4c8a9013acf6a6f77c7d1e"
     },
     {
         "path": "media/posts/11",
@@ -9540,6 +10630,341 @@
         "md5": "d1c4e6329c99ad36de219f8608c9d46d"
     },
     {
+        "path": "media/posts/98",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/98/bengkel-motor.jpg",
+        "type": "file",
+        "md5": "f03ca28683bcea41d657ab060840cbae"
+    },
+    {
+        "path": "/media/posts/98/PRINSIP-TRIANGULASI.jpg",
+        "type": "file",
+        "md5": "33170c2837dbcd24e20a78954a8b59e0"
+    },
+    {
+        "path": "/media/posts/98/questionnaire.jpg",
+        "type": "file",
+        "md5": "9cbaee3312ddd80bfbcee9513bf053c2"
+    },
+    {
+        "path": "media/posts/98/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-2xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-lg.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-md.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-sm.jpg",
+        "type": "file",
+        "md5": "7c316cf97d221d3d1a5d9d36a7fe26d3"
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-xl.jpg",
+        "type": "file",
+        "md5": "fdbff61b8b20f67c9823e4319a6a90c3"
+    },
+    {
+        "path": "/media/posts/98/responsive/bengkel-motor-xs.jpg",
+        "type": "file",
+        "md5": "054b4fa11ab52e2dc49b3cba9696dfc5"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-2xl.jpg",
+        "type": "file",
+        "md5": "2a9eb6f4dcef92f4fef69668e4f79b84"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-lg.jpg",
+        "type": "file",
+        "md5": "2a9eb6f4dcef92f4fef69668e4f79b84"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-md.jpg",
+        "type": "file",
+        "md5": "2a9eb6f4dcef92f4fef69668e4f79b84"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-sm.jpg",
+        "type": "file",
+        "md5": "773046b9226f9d2574958bd5d2bda30e"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-xl.jpg",
+        "type": "file",
+        "md5": "2a9eb6f4dcef92f4fef69668e4f79b84"
+    },
+    {
+        "path": "/media/posts/98/responsive/PRINSIP-TRIANGULASI-xs.jpg",
+        "type": "file",
+        "md5": "1ecc4b962fea0ec500f13e448ce3a657"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-2xl.jpg",
+        "type": "file",
+        "md5": "553ab55f22c9f7a14a365cdef300e506"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-lg.jpg",
+        "type": "file",
+        "md5": "553ab55f22c9f7a14a365cdef300e506"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-md.jpg",
+        "type": "file",
+        "md5": "553ab55f22c9f7a14a365cdef300e506"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-sm.jpg",
+        "type": "file",
+        "md5": "553ab55f22c9f7a14a365cdef300e506"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-xl.jpg",
+        "type": "file",
+        "md5": "553ab55f22c9f7a14a365cdef300e506"
+    },
+    {
+        "path": "/media/posts/98/responsive/questionnaire-xs.jpg",
+        "type": "file",
+        "md5": "27c63a9716fe3c955ac3ee49fed167ce"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-2xl.jpg",
+        "type": "file",
+        "md5": "aec123b0267e32e703ef1a69e3710e23"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-lg.jpg",
+        "type": "file",
+        "md5": "aec123b0267e32e703ef1a69e3710e23"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-md.jpg",
+        "type": "file",
+        "md5": "8c2b5af61c698ab0fa5b30ccb0010050"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-sm.jpg",
+        "type": "file",
+        "md5": "62390f610c01283fa581355da7c1ef2a"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-xl.jpg",
+        "type": "file",
+        "md5": "aec123b0267e32e703ef1a69e3710e23"
+    },
+    {
+        "path": "/media/posts/98/responsive/Struktur-Sumber-dan-Jenis-Data-Analisis-riset-xs.jpg",
+        "type": "file",
+        "md5": "950287649254097840ca3f526e4d923c"
+    },
+    {
+        "path": "/media/posts/98/Struktur-Sumber-dan-Jenis-Data-Analisis-riset.jpg",
+        "type": "file",
+        "md5": "88f791178462519b6a642d277e86acd7"
+    },
+    {
+        "path": "media/posts/99",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/99/Gambaran-Umum-Usaha-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "e41ef116e1f43def606d1eb8317ee80a"
+    },
+    {
+        "path": "/media/posts/99/Keunggulan-utama-generic-strategy.jpg",
+        "type": "file",
+        "md5": "fabf07e7d5fd3155eb3f3c0d69893ebc"
+    },
+    {
+        "path": "/media/posts/99/Pertumbuhan-Pasar-Motor-Nasional.jpg",
+        "type": "file",
+        "md5": "7a9359c94df2c6391bfba9c6dd642442"
+    },
+    {
+        "path": "media/posts/99/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "a4dad256e851c80d4efffbdb197d6303"
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "a4dad256e851c80d4efffbdb197d6303"
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "a4dad256e851c80d4efffbdb197d6303"
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "227ea6a66043c31621146da3cb9505a8"
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "a4dad256e851c80d4efffbdb197d6303"
+    },
+    {
+        "path": "/media/posts/99/responsive/Gambaran-Umum-Usaha-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "5ad6ffebce44be8dfaec64e78d44fdd8"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-2xl.jpg",
+        "type": "file",
+        "md5": "c6f6d545c45741a97cc26c6a4451cd66"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-lg.jpg",
+        "type": "file",
+        "md5": "c6f6d545c45741a97cc26c6a4451cd66"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-md.jpg",
+        "type": "file",
+        "md5": "c6f6d545c45741a97cc26c6a4451cd66"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-sm.jpg",
+        "type": "file",
+        "md5": "c6f6d545c45741a97cc26c6a4451cd66"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-xl.jpg",
+        "type": "file",
+        "md5": "c6f6d545c45741a97cc26c6a4451cd66"
+    },
+    {
+        "path": "/media/posts/99/responsive/Keunggulan-utama-generic-strategy-xs.jpg",
+        "type": "file",
+        "md5": "c18908f731bcf30524d97d864cac2d27"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-2xl.jpg",
+        "type": "file",
+        "md5": "345a580636122c0f7ce81d2f32a5f807"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-lg.jpg",
+        "type": "file",
+        "md5": "345a580636122c0f7ce81d2f32a5f807"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-md.jpg",
+        "type": "file",
+        "md5": "c7d21ad954589b414fab2f59c7eb88ad"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-sm.jpg",
+        "type": "file",
+        "md5": "40e056e17f482165d102a7ad7a363474"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-xl.jpg",
+        "type": "file",
+        "md5": "345a580636122c0f7ce81d2f32a5f807"
+    },
+    {
+        "path": "/media/posts/99/responsive/Pertumbuhan-Pasar-Motor-Nasional-xs.jpg",
+        "type": "file",
+        "md5": "e20bd25b030640bb2cba8aa92c941bc9"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "9f069144d11080b33c903d67d781dc0d"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "9f069144d11080b33c903d67d781dc0d"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "9f069144d11080b33c903d67d781dc0d"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "daf43436f2a5061cbf111f61490f0100"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "9f069144d11080b33c903d67d781dc0d"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-Industri-Jasa-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "afe58c7b413fce47d839dd9ec8ee2da3"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-2xl.jpg",
+        "type": "file",
+        "md5": "9f777acdaa82659908dbdfc57014f87c"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-lg.jpg",
+        "type": "file",
+        "md5": "9f777acdaa82659908dbdfc57014f87c"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-md.jpg",
+        "type": "file",
+        "md5": "9f777acdaa82659908dbdfc57014f87c"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-sm.jpg",
+        "type": "file",
+        "md5": "411d1075509e3340b790cde63e1eb9d1"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-xl.jpg",
+        "type": "file",
+        "md5": "9f777acdaa82659908dbdfc57014f87c"
+    },
+    {
+        "path": "/media/posts/99/responsive/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor-xs.jpg",
+        "type": "file",
+        "md5": "4cb105a213111633b1ebffb78ca5dea9"
+    },
+    {
+        "path": "/media/posts/99/Struktur-Industri-Jasa-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "613d0e62c94447b4e268d26ddf1d4b5f"
+    },
+    {
+        "path": "/media/posts/99/Struktur-karakteristik-Jasa-Layanan-Bengkel-Motor.jpg",
+        "type": "file",
+        "md5": "a7a742165735a79d2a1369b6932c201c"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -9587,127 +11012,127 @@
     {
         "path": "membuat-larutan-nutrisi-hidroponik.html",
         "type": "file",
-        "md5": "a0186fcdf54b8e07a40511eef227bd63"
+        "md5": "e89e6804de020d53f95490e82dbad530"
     },
     {
         "path": "mengenal-ikan-baung.html",
         "type": "file",
-        "md5": "c8c5cec47ecc46a0c8bd326067a6ae5f"
+        "md5": "2ca8cb74640a20cd36e8f269f0fe6d1d"
     },
     {
         "path": "mengenal-lele-mutiara.html",
         "type": "file",
-        "md5": "b130674219e2c4d9d57188f390dad363"
+        "md5": "92b97b495379832ff340f0c93538609c"
     },
     {
         "path": "negosiasi-bisnis-imperatif.html",
         "type": "file",
-        "md5": "3b2fef33a9ec5596c103786479533375"
+        "md5": "15934c2fc2ad8c0aeb3e8d64be8e4d30"
     },
     {
         "path": "negosiasi-dengan-win-win-solution.html",
         "type": "file",
-        "md5": "a475eba8a4cbb804dace164f6f04ed0a"
+        "md5": "14fdd3dc1ea1ed28bd079ea6405310f6"
     },
     {
         "path": "operasional-mengelola-bengkel-mobil.html",
         "type": "file",
-        "md5": "b12d330aa19dbb9db5141b135ab71e3a"
+        "md5": "e0ff738e5eefdd844fc86be0473cf253"
     },
     {
         "path": "panen-dan-pengolahan-hasil-panen-tebu.html",
         "type": "file",
-        "md5": "ae118e170f40b5c5a80f8c3d3133720d"
+        "md5": "c868fe65a5e2ec1860e2a4534701f815"
     },
     {
         "path": "peluang-investasi-usaha-bengkel-mobil.html",
         "type": "file",
-        "md5": "49eef3c52b697209e8a97aee69ec5d7c"
+        "md5": "69c543483538c38bd8a778d00602a06e"
     },
     {
         "path": "peluang-usaha-bengkel-mobil.html",
         "type": "file",
-        "md5": "a1da98a6b2266c0f13baafbb31438088"
+        "md5": "05b84241a7bd6f267bc2a0610e45972c"
     },
     {
         "path": "peluang-usaha-bisnis-gula-tebu.html",
         "type": "file",
-        "md5": "0c26a6e739e9f911bebc3369644ebaf5"
+        "md5": "7fa531b3ce3f5d7d93b34eeb05616eb7"
     },
     {
         "path": "peluang-usaha-budidaya-bunga-melati.html",
         "type": "file",
-        "md5": "1699915ebcfd8a0d0c0d139a6d286f96"
+        "md5": "d6df88ef164b7705a5ccd776f6eebb98"
     },
     {
         "path": "peluang-usaha-budidaya-ikan-baung.html",
         "type": "file",
-        "md5": "8af5879133840a0ddad9b07c4986a7f7"
+        "md5": "3fac3bf49b3500bda0d6226bfb59327b"
     },
     {
         "path": "pemasaran-bunga-potong.html",
         "type": "file",
-        "md5": "6c2656ffb449dadf277477e0bf256671"
+        "md5": "45a6d647c11271fffd50f85acccd084b"
     },
     {
         "path": "pemasaran-usaha-produksi-furniture.html",
         "type": "file",
-        "md5": "a60cdce1f45c4d19917a0fdf273a6288"
+        "md5": "2627326b0e25c46328467ab530719904"
     },
     {
         "path": "pembuatan-permen-jeli-jamur-tiram.html",
         "type": "file",
-        "md5": "a677fa66f61c708aba908e9834542a83"
+        "md5": "2747cf3a5efd01c129d0ff01545a8125"
     },
     {
         "path": "pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat.html",
         "type": "file",
-        "md5": "56a26cabd851dba265ae017036680b5d"
+        "md5": "5178e0cf7cda2129a9d6956d7bb77e32"
     },
     {
         "path": "pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong.html",
         "type": "file",
-        "md5": "d14ee57a4f842ea4198e4a7bcb7f14ad"
+        "md5": "b99925c871b4f464f4272766571469fb"
     },
     {
         "path": "pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal.html",
         "type": "file",
-        "md5": "0cf8fd626cdf85878798005a3b08307c"
+        "md5": "9ae7ef10e1428639cd79459a3fffd3a1"
     },
     {
         "path": "pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing.html",
         "type": "file",
-        "md5": "a21db99e8ffe6b6a90c9ac004bfac564"
+        "md5": "c7fe575cb81479c08230c515a9f4e7fb"
     },
     {
         "path": "pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum.html",
         "type": "file",
-        "md5": "596d4cf01e2aec1eabbba4e59a3775f4"
+        "md5": "38395f23b41f466975783da0900ddb77"
     },
     {
         "path": "pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas.html",
         "type": "file",
-        "md5": "8ac89b9b5048e478e4ffdd4b9e19eacd"
+        "md5": "67f1391f820f662c56458870af2706fe"
     },
     {
         "path": "pengemukan-sapi-pfh-peranakan-friesian-holstein.html",
         "type": "file",
-        "md5": "24c7be27c0ea99366ece7a8182944047"
+        "md5": "b8d61e52d64b0fa5b3bc73dc87c2e99b"
     },
     {
         "path": "pengertian-jasa-transportasi.html",
         "type": "file",
-        "md5": "54387c72d1525950b0684cde27bb56e0"
+        "md5": "6d447eb6d5392d31b3a8f78dd699c1cc"
     },
     {
         "path": "penggunaan-tepung-ikan-dalam-pakan-konsentrat.html",
         "type": "file",
-        "md5": "1418b410018e6dc4bf2127b61084cd50"
+        "md5": "92c069ff9797795b1606cc003a580d49"
     },
     {
         "path": "pengolahan-air-gambut-rawa-pasang-surut.html",
         "type": "file",
-        "md5": "77154d04b5a72959e0ced46cb314f367"
+        "md5": "fdec8ed646d4a5cae9a1154e0b3b4453"
     },
     {
         "path": "penulis",
@@ -9732,7 +11157,7 @@
     {
         "path": "/penulis/anonymous/halaman/2/index.html",
         "type": "file",
-        "md5": "b4452829d47c29fcb5aae2a3c33f3f4d"
+        "md5": "953d98a8e7baa40d5dc66955e2c5fd45"
     },
     {
         "path": "penulis/anonymous/halaman/3",
@@ -9742,7 +11167,7 @@
     {
         "path": "/penulis/anonymous/halaman/3/index.html",
         "type": "file",
-        "md5": "c1024ae2f564dde9ca87f07abf24005a"
+        "md5": "ecd661b5de533715bc93fca53cdf8d18"
     },
     {
         "path": "penulis/anonymous/halaman/4",
@@ -9752,7 +11177,7 @@
     {
         "path": "/penulis/anonymous/halaman/4/index.html",
         "type": "file",
-        "md5": "4e3822731d18788f6ddfd8234cce6e7f"
+        "md5": "e628dc4f94c44d134f08100715091ee0"
     },
     {
         "path": "penulis/anonymous/halaman/5",
@@ -9762,7 +11187,7 @@
     {
         "path": "/penulis/anonymous/halaman/5/index.html",
         "type": "file",
-        "md5": "d1704b11c5a4ca11cd04d22dc028716e"
+        "md5": "1659a2565e246c19529f13fd67f855fe"
     },
     {
         "path": "penulis/anonymous/halaman/6",
@@ -9772,7 +11197,7 @@
     {
         "path": "/penulis/anonymous/halaman/6/index.html",
         "type": "file",
-        "md5": "dd44a0b1830ccbe317261fa79b315dc1"
+        "md5": "291b204cf602f24482ab7eb36c2b03e9"
     },
     {
         "path": "penulis/anonymous/halaman/7",
@@ -9782,7 +11207,7 @@
     {
         "path": "/penulis/anonymous/halaman/7/index.html",
         "type": "file",
-        "md5": "303edb617e61425ffad40bad17ea49ab"
+        "md5": "4df839ce312ca407d3041da7a01a7da6"
     },
     {
         "path": "penulis/anonymous/halaman/8",
@@ -9792,12 +11217,12 @@
     {
         "path": "/penulis/anonymous/halaman/8/index.html",
         "type": "file",
-        "md5": "76974a3a6f3154b5fe157630d947b5c0"
+        "md5": "7bcc8419ee123fec5ecc4438340c8ed9"
     },
     {
         "path": "/penulis/anonymous/index.html",
         "type": "file",
-        "md5": "9ce95b459abff6118f57299071867a98"
+        "md5": "9a88a0f22677f61c60c250e57c492ba6"
     },
     {
         "path": "penulis/kanghilman",
@@ -9817,12 +11242,12 @@
     {
         "path": "/penulis/kanghilman/halaman/2/index.html",
         "type": "file",
-        "md5": "2e9fff1ea0c7001b66fdde5551eaaf5d"
+        "md5": "3fb03562950887d96b3a7926af75b636"
     },
     {
         "path": "/penulis/kanghilman/index.html",
         "type": "file",
-        "md5": "221aef94e9dd3bf143eabe16ac5e4b10"
+        "md5": "63d3f7606ece71dd0dc8b3105f22bfd4"
     },
     {
         "path": "perikanan",
@@ -9832,7 +11257,7 @@
     {
         "path": "/perikanan/index.html",
         "type": "file",
-        "md5": "f37ac7414547295056e0326296e9e3dc"
+        "md5": "74c0572005fbc554face8edaebbd2d9f"
     },
     {
         "path": "perkebunan",
@@ -9852,7 +11277,7 @@
     {
         "path": "/perkebunan/halaman/2/index.html",
         "type": "file",
-        "md5": "c1b7aa320dcbcb774b9acf00b357daa3"
+        "md5": "afa1cb6b18fe3cc6609b03ad673857fa"
     },
     {
         "path": "perkebunan/halaman/3",
@@ -9862,7 +11287,7 @@
     {
         "path": "/perkebunan/halaman/3/index.html",
         "type": "file",
-        "md5": "cfa411fbdd92eaf52c25faa792a2b480"
+        "md5": "5f34153effa16c3519b803e6455f39b5"
     },
     {
         "path": "perkebunan/halaman/4",
@@ -9872,22 +11297,22 @@
     {
         "path": "/perkebunan/halaman/4/index.html",
         "type": "file",
-        "md5": "f1214e5c07813bf73ebc93700351f6e4"
+        "md5": "0c63d0369738216534cbd442dcf1cfc9"
     },
     {
         "path": "/perkebunan/index.html",
         "type": "file",
-        "md5": "5297d14cb71e912f3d0114cb87504ad1"
+        "md5": "96ec1e749b88489277ccb6248985952d"
     },
     {
         "path": "perkembangan-industri-usaha-furniture-di-indonesia.html",
         "type": "file",
-        "md5": "23da9af611b092d7ea2d429501e02f27"
+        "md5": "24a7d66bbf2e8a83b71c3274cf16a5f2"
     },
     {
         "path": "perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture.html",
         "type": "file",
-        "md5": "95a760bfe7d267fb6d2d975a18fdf946"
+        "md5": "7781cc206c94e59da2bc076b38b1e718"
     },
     {
         "path": "pertanian",
@@ -9897,12 +11322,12 @@
     {
         "path": "/pertanian/index.html",
         "type": "file",
-        "md5": "9c74793c27a1b8c0ded014c66d7675ad"
+        "md5": "32c301c55849d1b2887294efe79f87f1"
     },
     {
         "path": "pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat.html",
         "type": "file",
-        "md5": "71d805b556b4f1d0313d2700ef04c6b7"
+        "md5": "9144b52c58735a0ebdd32e42c0ef08ab"
     },
     {
         "path": "peternakan",
@@ -9922,82 +11347,82 @@
     {
         "path": "/peternakan/halaman/2/index.html",
         "type": "file",
-        "md5": "42c1cc23b16acb44d804e9671b957329"
+        "md5": "91229b1840ab2e8b015148f2140a8183"
     },
     {
         "path": "/peternakan/index.html",
         "type": "file",
-        "md5": "961d61f4165bb112df23ac7beddff454"
+        "md5": "a9f80038e697fafd378863ac9f9464b2"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "5bdd708e6ecd18be76e95ea62d44cc92"
+        "md5": "4705ca06544a38b6aaaefdddfe96550d"
     },
     {
         "path": "problem-gambling-and-depression.html",
         "type": "file",
-        "md5": "8194bdf308c56e69a89cde98a521bd97"
+        "md5": "09daac8b329ef3f3f1e5a7d5127d5a0c"
     },
     {
         "path": "produksi-gula-di-indonesia.html",
         "type": "file",
-        "md5": "429c26644fc27290a85bc809d4cb09cd"
+        "md5": "146b8a00cfce09c35bb508a2b07536cb"
     },
     {
         "path": "profil-investasi-dan-risiko-bisnis-gula-tebu.html",
         "type": "file",
-        "md5": "08ce56c20a1afc9d30db052f33d148bc"
+        "md5": "6b41266bd631dcb1c821e2926047262b"
     },
     {
         "path": "proses-bisnis-organisasi-dalam-business-process-modeling-foundations.html",
         "type": "file",
-        "md5": "db8f8c0a741071513e1543a658ad81fe"
+        "md5": "5fd0f15875e492d9cb101425ab8242f8"
     },
     {
         "path": "proses-pengolahan-tebu-jadi-gula.html",
         "type": "file",
-        "md5": "e040f496133a91e809c5f00ecc4b52ae"
+        "md5": "99d49dbed5c0d26a21308478dfe37a73"
     },
     {
         "path": "prospek-industri-furniture.html",
         "type": "file",
-        "md5": "57c7712e10cc871d72cb7c8c9cec0f88"
+        "md5": "72b1fe337d5f3ef229944027d758f5de"
     },
     {
         "path": "prospek-peluang-usaha-bengkel-mobil.html",
         "type": "file",
-        "md5": "4f787aad1667e2412e08cefd8132dbfb"
+        "md5": "83eac5970a8bb51b7e666abb71a3e314"
     },
     {
         "path": "prospek-usaha-bunga-potong-dan-tanaman-hias.html",
         "type": "file",
-        "md5": "b8699e14328a72cde02c9ca4f63a846f"
+        "md5": "a507ecfcc499b796585110a1a6ae7104"
     },
     {
         "path": "rekomendasi-khusus-industri-gula.html",
         "type": "file",
-        "md5": "a56e9e2c42a7ef5d68233b86f36ce647"
+        "md5": "732fa84a2b25df6cadfa75a04f4854e7"
     },
     {
         "path": "resiko-usaha-bengkel-mobil.html",
         "type": "file",
-        "md5": "4c2b909c4bd8e2f39f1709513ad9b715"
+        "md5": "296271dda5287d96031495a1ded5dfac"
     },
     {
         "path": "resiko-usaha-bunga-potong.html",
         "type": "file",
-        "md5": "f186d707dd846f32016461cf237d2414"
+        "md5": "dc37a446732ceaf58a75e67416ca808f"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "51f99a63d8cab92920da6aa39d911350"
+        "md5": "6d41af71db2acea862243142f7555ec8"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3a34fff2472a679afa227af2e99a1446"
+        "md5": "71900f8e4192efe2ab31b7d927808402"
     },
     {
         "path": "sitemap.xsl",
@@ -10007,47 +11432,57 @@
     {
         "path": "sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging.html",
         "type": "file",
-        "md5": "88bddaaf82815d54d5f4f8f6de50a6ac"
+        "md5": "c43a0b36073f02a361cbace8b51bea79"
     },
     {
         "path": "strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu.html",
         "type": "file",
-        "md5": "a6aaf5787169924c36ef8a10efb4231e"
+        "md5": "1f719a97d48c49d90e46dd420ec32afa"
     },
     {
         "path": "strategi-usaha-industri-furniture.html",
         "type": "file",
-        "md5": "6d76d23d324dc190b72cc10221d3840d"
+        "md5": "fea932268bcada77a92e33335c2fcded"
     },
     {
         "path": "sumber-bahan-baku-usaha-furniture.html",
         "type": "file",
-        "md5": "35f88d3c85b2c880e5750e290bf635e0"
+        "md5": "df97bc2d6df60784566411c71f4d0fc7"
+    },
+    {
+        "path": "syarat-pendirian-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "32d8a798386a12dedcc97a88a23cd4c4"
     },
     {
         "path": "syarat-pendirian-usaha-bunga-dan-tanaman-hias.html",
         "type": "file",
-        "md5": "84736e04499e65321b1b63a356f343db"
+        "md5": "c3c977685c49e75ec84057d48319ae26"
     },
     {
         "path": "tebu-dan-industri-gula-di-indonesia.html",
         "type": "file",
-        "md5": "943a82863bc82297a36d25a4efe9ac66"
+        "md5": "25fb0c83baec72735bbf549b23c46b9c"
     },
     {
         "path": "teknik-budidaya-bunga-mawar.html",
         "type": "file",
-        "md5": "69f4dac7c55f910bc9a4e488b6d0a698"
+        "md5": "e7af65245346650e2a9e0cdd04fdd308"
     },
     {
         "path": "teknik-budidaya-daun-asparagus-bintang.html",
         "type": "file",
-        "md5": "3d5979de6d62827fe22a0da5844c533b"
+        "md5": "fc228ed1dc7af2e61bf2381c5276219b"
     },
     {
         "path": "teknik-dan-cara-usaha-home-industri-furniture.html",
         "type": "file",
-        "md5": "0b308b68a3e76d0f885b984b98440e71"
+        "md5": "b1afada50e2b499fad602748e0be56ea"
+    },
+    {
+        "path": "teknik-pemasaran-usaha-bengkel-motor.html",
+        "type": "file",
+        "md5": "0142c9094ce323c4aa035122f4207dc2"
     },
     {
         "path": "teknologi-tepat-guna",
@@ -10057,41 +11492,41 @@
     {
         "path": "/teknologi-tepat-guna/index.html",
         "type": "file",
-        "md5": "797cdcfe3c628834b279272103aa16f4"
+        "md5": "fe704fd4d291c1c533864de150dba559"
     },
     {
         "path": "terms-and-conditions.html",
         "type": "file",
-        "md5": "cb8b18f2feb2bbb5ddd6afeef5e93f49"
+        "md5": "9455e8c5cfe3dcf0ba58028e9bef8678"
     },
     {
         "path": "usaha-budidaya-bunga-kertas-zinnia.html",
         "type": "file",
-        "md5": "a5add4565215b9cc6771cc8b594ad412"
+        "md5": "84613f2053738d877c180b0eb03980c2"
     },
     {
         "path": "usaha-budidaya-jamur-merang-volvariella-volvaceae.html",
         "type": "file",
-        "md5": "7bf65bf08a844f9baf1e5e0d5ef5b1e1"
+        "md5": "007ac75ff50e73c04e127fdb5591d7cf"
     },
     {
         "path": "usaha-budidaya-jamur-tiram.html",
         "type": "file",
-        "md5": "7f056d923018c3ae12a317975acb81d0"
+        "md5": "4ee60e4c413963a3536fbb21c5f8d355"
     },
     {
         "path": "usaha-budidaya-tanaman-tebu.html",
         "type": "file",
-        "md5": "488f731797a31a888ff6c3ff46b6e4c9"
+        "md5": "9815c9e54c4122aafb0c861b80b111e1"
     },
     {
         "path": "usaha-perkebunan-tanaman-hias.html",
         "type": "file",
-        "md5": "b70fc0850cdd08f8726f456c3346767f"
+        "md5": "60a5cd0d93ceb25883e934d1e7c8ff07"
     },
     {
         "path": "what-are-the-most-harmful-forms-of-gambling.html",
         "type": "file",
-        "md5": "81b298f7ee4f18934df583791190a37a"
+        "md5": "b92a11af48daa1d7dbc097bfd6c104c8"
     }
 ]
