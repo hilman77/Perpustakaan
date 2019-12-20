@@ -2,17 +2,27 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "4c30b187ea65f5b7bcb715d740aeb9fa"
+        "md5": "86190a33438a9361e42ccebd8f4effc5"
     },
     {
-        "path": "about-us.html",
-        "type": "file",
-        "md5": "8fda911220304041ff8ac7c9994a4c07"
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "alternatif-media-jamur-kayu-menggunakan-rumput-gajah.html",
+        "path": "/about-us/index.html",
         "type": "file",
-        "md5": "f3510a98818ef8a4a932dbc13cc66442"
+        "md5": "59bc9daa84c03227d0120adfba5b463d"
+    },
+    {
+        "path": "alternatif-media-jamur-kayu-menggunakan-rumput-gajah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/alternatif-media-jamur-kayu-menggunakan-rumput-gajah/index.html",
+        "type": "file",
+        "md5": "7a8911f752c882f2625f2f779223dab0"
     },
     {
         "path": "amp",
@@ -20,244 +30,649 @@
         "md5": false
     },
     {
-        "path": "/amp/about-us.html",
-        "type": "file",
-        "md5": "04e63c171ebdab285eed762f60f0545c"
-    },
-    {
-        "path": "/amp/alternatif-media-jamur-kayu-menggunakan-rumput-gajah.html",
-        "type": "file",
-        "md5": "393ab264d59776f5170f74d4b3744e31"
-    },
-    {
-        "path": "/amp/analisa-finansial-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "16b975f8d0d2e541d4716a1e191bc470"
-    },
-    {
-        "path": "/amp/analisa-finansial-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "6fde2f4b8bb1d86a3e3e5f886c1701ac"
-    },
-    {
-        "path": "/amp/analisa-finansial-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "a0174f336a023953e8211850dbf666b0"
-    },
-    {
-        "path": "/amp/analisa-keuangan-usaha-furniture.html",
-        "type": "file",
-        "md5": "93457a6bb9bef93f06697f16d77daa00"
-    },
-    {
-        "path": "/amp/analisa-laporan-keuangan-usaha-waralaba-franchise.html",
-        "type": "file",
-        "md5": "4e17e13d0b59eaa6d0cebc6ae6540e6e"
-    },
-    {
-        "path": "/amp/analisa-peluang-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "9028f6da9e07aa2dfb11b0c5f7ef3c65"
-    },
-    {
-        "path": "/amp/analisa-prospek-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "237ba7c565337f1dd4155666f2859fba"
-    },
-    {
-        "path": "/amp/analisa-resiko-usaha-supermarket-atau-minimarket.html",
-        "type": "file",
-        "md5": "3a666b18c638486dda0eedba8bff4324"
-    },
-    {
-        "path": "/amp/analisa-usaha-kost-kostan.html",
-        "type": "file",
-        "md5": "532967ec2c54e2af489c017fc770ceef"
-    },
-    {
-        "path": "/amp/analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat.html",
-        "type": "file",
-        "md5": "5a95cb074c03816da2ef40edb10be8d1"
-    },
-    {
-        "path": "/amp/analisis-perkembangan-pasar-gula-dunia.html",
-        "type": "file",
-        "md5": "fcd9b2cc4e341dd6f0a0133603728e1a"
-    },
-    {
-        "path": "/amp/analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang.html",
-        "type": "file",
-        "md5": "d026bb4d0e7cb5ceb1d336906636f062"
-    },
-    {
-        "path": "/amp/aspek-legalitas-usaha-waralaba-franchise.html",
-        "type": "file",
-        "md5": "9ed3991ea7a740ce92f719bead15786a"
-    },
-    {
-        "path": "/amp/aspek-manajerial-usaha-supermarket-dan-minimarket.html",
-        "type": "file",
-        "md5": "874244c24edd9e99cca2b5a1022b9df5"
-    },
-    {
-        "path": "/amp/autonomic-nervous-system-changes-during-reiki-treatment.html",
-        "type": "file",
-        "md5": "436fcb9e7223ab8711251d26eb677ac0"
-    },
-    {
-        "path": "amp/bisnis-and-keuangan",
+        "path": "amp/about-us",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/bisnis-and-keuangan/index.html",
+        "path": "/amp/about-us/index.html",
         "type": "file",
-        "md5": "92b66340e70e7843ad9ec610824781f1"
+        "md5": "4aa9fdeea71d6b16a3758abd861e1929"
     },
     {
-        "path": "/amp/budidaya-bambu.html",
-        "type": "file",
-        "md5": "c941126085f4acef37e929a434ec458e"
-    },
-    {
-        "path": "/amp/budidaya-bunga-krisan-potong.html",
-        "type": "file",
-        "md5": "3db530cc92539beabc8f9bbbfb730c3f"
-    },
-    {
-        "path": "/amp/budidaya-ikan-baung.html",
-        "type": "file",
-        "md5": "9d2a6b7a2652bfe4b0d5ddd0ba8d5e00"
-    },
-    {
-        "path": "/amp/budidaya-jamur-shiitake.html",
-        "type": "file",
-        "md5": "8ce34e230b04809a36b8838676755385"
-    },
-    {
-        "path": "/amp/budidaya-krisan-pot.html",
-        "type": "file",
-        "md5": "4d9efc6c1ce026c2485b9cd0aa30b90a"
-    },
-    {
-        "path": "/amp/budidaya-tanaman-tebu-saccharum-officinarum.html",
-        "type": "file",
-        "md5": "eaaa2e2142af7ee54024082041661a9d"
-    },
-    {
-        "path": "/amp/bunga-zantedeschia.html",
-        "type": "file",
-        "md5": "a4f9cc3fe379b6950de651ed9073929f"
-    },
-    {
-        "path": "/amp/cacing-sutra.html",
-        "type": "file",
-        "md5": "10af6c6554bde165db2bce6f16092a04"
-    },
-    {
-        "path": "/amp/cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati.html",
-        "type": "file",
-        "md5": "37e120db2e10e700db8f14a423379ad7"
-    },
-    {
-        "path": "/amp/cara-membuat-abon.html",
-        "type": "file",
-        "md5": "67947ee59fb7f067eea9a2ccb82c1fa3"
-    },
-    {
-        "path": "/amp/cara-membuat-chutney-tomat.html",
-        "type": "file",
-        "md5": "16a4b30458ced8180d4646ab51cef87d"
-    },
-    {
-        "path": "/amp/cara-memenangkan-negosiasi.html",
-        "type": "file",
-        "md5": "4f78dba9d7a2345ecee7601e779c7abc"
-    },
-    {
-        "path": "/amp/cara-ternak-kelinci.html",
-        "type": "file",
-        "md5": "34c25bd015f491f68f8a22079bad349a"
-    },
-    {
-        "path": "/amp/contact-us.html",
-        "type": "file",
-        "md5": "a859a4bd03e47d9315cba23d1a75e934"
-    },
-    {
-        "path": "/amp/dasar-pengelolaan-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "8ee6e515e0137af209c8c9dec540e257"
-    },
-    {
-        "path": "/amp/disclaimer.html",
-        "type": "file",
-        "md5": "7c1aa31f677490fb9766f099152e32a3"
-    },
-    {
-        "path": "/amp/drinking-water-source-deterioration.html",
-        "type": "file",
-        "md5": "f0f0872eb653b697b6a4460635e0824d"
-    },
-    {
-        "path": "/amp/electroacupuncture-for-diabetic-gastroparesis.html",
-        "type": "file",
-        "md5": "f61a683706016cdf78c2998451c63a4b"
-    },
-    {
-        "path": "amp/english-journal",
+        "path": "amp/alternatif-media-jamur-kayu-menggunakan-rumput-gajah",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/english-journal/index.html",
+        "path": "/amp/alternatif-media-jamur-kayu-menggunakan-rumput-gajah/index.html",
         "type": "file",
-        "md5": "c835828021a41316b0440862db9e6f33"
+        "md5": "b38b74bde643399818172a525f0df4cc"
     },
     {
-        "path": "/amp/faktor-keberhasilan-usaha-furniture.html",
-        "type": "file",
-        "md5": "b208453e96254db3353538834877a146"
-    },
-    {
-        "path": "/amp/faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "e0275ac4a7cb3dcad9f96b5729cf01fb"
-    },
-    {
-        "path": "/amp/faktor-resiko-dan-keberhasilan-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "c54ee6399ce3c86211f49fbaa6a3b4db"
-    },
-    {
-        "path": "amp/franchise-waralaba",
+        "path": "amp/analisa-finansial-usaha-bengkel-motor",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/franchise-waralaba/index.html",
+        "path": "/amp/analisa-finansial-usaha-bengkel-motor/index.html",
         "type": "file",
-        "md5": "8ce7a0fe9e82d68d18bb04ccaa95e724"
+        "md5": "35894e55872654cdeede6dd371b05996"
     },
     {
-        "path": "/amp/gambaran-umum-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "d42c6e5e324daf4706585dd129d08cc6"
+        "path": "amp/analisa-finansial-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/gambaran-umum-usaha-jasa-transportasi.html",
+        "path": "/amp/analisa-finansial-usaha-bunga-dan-tanaman-hias/index.html",
         "type": "file",
-        "md5": "b3a0bca0e263a04444156622453ae1ae"
+        "md5": "bc469e29fe843826580abe42abce0fb7"
     },
     {
-        "path": "/amp/gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison.html",
-        "type": "file",
-        "md5": "af77398d90824beb3c5b96a0f51b180a"
+        "path": "amp/analisa-finansial-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/game-dalam-bernegosiasi.html",
+        "path": "/amp/analisa-finansial-usaha-rumah-kost/index.html",
         "type": "file",
-        "md5": "b98283704c65f937677b46be0d2a4ab4"
+        "md5": "df9df697d4d509fee9884bfe9df07e8c"
+    },
+    {
+        "path": "amp/analisa-keuangan-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-keuangan-usaha-furniture/index.html",
+        "type": "file",
+        "md5": "15201749f151c6e7022e5f9c76980d61"
+    },
+    {
+        "path": "amp/analisa-laporan-keuangan-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-laporan-keuangan-usaha-waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "0435f7792b5f6463063114995d6ffb4e"
+    },
+    {
+        "path": "amp/analisa-peluang-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-peluang-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "40989126a2f09b40109d321a961344e8"
+    },
+    {
+        "path": "amp/analisa-prospek-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-prospek-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "7c18c4baab89de458eb9ac88050d987a"
+    },
+    {
+        "path": "amp/analisa-resiko-usaha-supermarket-atau-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-resiko-usaha-supermarket-atau-minimarket/index.html",
+        "type": "file",
+        "md5": "0fb95c092a99b197d869c5db15575481"
+    },
+    {
+        "path": "amp/analisa-usaha-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisa-usaha-kost-kostan/index.html",
+        "type": "file",
+        "md5": "565b72f12a2c95dcce78f512ae135222"
+    },
+    {
+        "path": "amp/analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat/index.html",
+        "type": "file",
+        "md5": "cb34656640b5d341199c99f7817e7d1a"
+    },
+    {
+        "path": "amp/analisis-perkembangan-pasar-gula-dunia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisis-perkembangan-pasar-gula-dunia/index.html",
+        "type": "file",
+        "md5": "4b240af72e5dbda42be99080088cc5f7"
+    },
+    {
+        "path": "amp/analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang/index.html",
+        "type": "file",
+        "md5": "9ca52cf9e5b64a759d3630884f4d2151"
+    },
+    {
+        "path": "amp/aspek-legalitas-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/aspek-legalitas-usaha-waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "35a14a08fe1c42147cdd1a7faa39b91f"
+    },
+    {
+        "path": "amp/aspek-manajerial-usaha-supermarket-dan-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/aspek-manajerial-usaha-supermarket-dan-minimarket/index.html",
+        "type": "file",
+        "md5": "ca329e49589b8bb57ae6a892cec81e17"
+    },
+    {
+        "path": "amp/autonomic-nervous-system-changes-during-reiki-treatment",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/autonomic-nervous-system-changes-during-reiki-treatment/index.html",
+        "type": "file",
+        "md5": "04c353843dfc93af29b191f8da5465de"
+    },
+    {
+        "path": "amp/budidaya-bambu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-bambu/index.html",
+        "type": "file",
+        "md5": "8db2933cf48b69f4aad40d41952612a1"
+    },
+    {
+        "path": "amp/budidaya-bunga-krisan-potong",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-bunga-krisan-potong/index.html",
+        "type": "file",
+        "md5": "e27141affb370001e6aae335e6ab24eb"
+    },
+    {
+        "path": "amp/budidaya-ikan-baung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-ikan-baung/index.html",
+        "type": "file",
+        "md5": "17a86a9409d73ded7af2b359411416fa"
+    },
+    {
+        "path": "amp/budidaya-jamur-shiitake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-jamur-shiitake/index.html",
+        "type": "file",
+        "md5": "d89b93d200bd62c232d94998255221c7"
+    },
+    {
+        "path": "amp/budidaya-krisan-pot",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-krisan-pot/index.html",
+        "type": "file",
+        "md5": "821eea662a6aa7af3d607e1ad5a4d9ed"
+    },
+    {
+        "path": "amp/budidaya-tanaman-tebu-saccharum-officinarum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/budidaya-tanaman-tebu-saccharum-officinarum/index.html",
+        "type": "file",
+        "md5": "e997ec1f69552897d5ec37fe0e18d078"
+    },
+    {
+        "path": "amp/bunga-zantedeschia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/bunga-zantedeschia/index.html",
+        "type": "file",
+        "md5": "41c88789df73750a8a0a0ff377776e32"
+    },
+    {
+        "path": "amp/cacing-sutra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cacing-sutra/index.html",
+        "type": "file",
+        "md5": "77ea2bb6763022a47add2f37d332af20"
+    },
+    {
+        "path": "amp/cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati/index.html",
+        "type": "file",
+        "md5": "14c2e49647b1f64b9094fc7e41e17a7b"
+    },
+    {
+        "path": "amp/cara-membuat-abon",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cara-membuat-abon/index.html",
+        "type": "file",
+        "md5": "13b2eb4ebed3ca860e95eb4f909861bf"
+    },
+    {
+        "path": "amp/cara-membuat-chutney-tomat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cara-membuat-chutney-tomat/index.html",
+        "type": "file",
+        "md5": "b33df0b27caad0445824f4a68dee0bf3"
+    },
+    {
+        "path": "amp/cara-memenangkan-negosiasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cara-memenangkan-negosiasi/index.html",
+        "type": "file",
+        "md5": "d56b83b885f07b7f0a60106c0c45e387"
+    },
+    {
+        "path": "amp/cara-ternak-kelinci",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/cara-ternak-kelinci/index.html",
+        "type": "file",
+        "md5": "5ac92f1f6f021cea046fcaf7d7888682"
+    },
+    {
+        "path": "amp/contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/contact-us/index.html",
+        "type": "file",
+        "md5": "054910eed2668967a2f4aaa78734079b"
+    },
+    {
+        "path": "amp/dasar-pengelolaan-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/dasar-pengelolaan-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "b493a715ef6fbc7848147042f5de66b9"
+    },
+    {
+        "path": "amp/disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/disclaimer/index.html",
+        "type": "file",
+        "md5": "60c4487960bfb70199a3a2caeb09d975"
+    },
+    {
+        "path": "amp/drinking-water-source-deterioration",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/drinking-water-source-deterioration/index.html",
+        "type": "file",
+        "md5": "0e07f2487552a2b113361d7fb5d51c1a"
+    },
+    {
+        "path": "amp/electroacupuncture-for-diabetic-gastroparesis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/electroacupuncture-for-diabetic-gastroparesis/index.html",
+        "type": "file",
+        "md5": "7017a29d4c7e9c6b1d7b1cc5486dd5fc"
+    },
+    {
+        "path": "amp/ensiklopedia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/bisnis-and-keuangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/bisnis-and-keuangan/index.html",
+        "type": "file",
+        "md5": "5369c6059baf72b6d02301073a884bc2"
+    },
+    {
+        "path": "amp/ensiklopedia/english-journal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/english-journal/index.html",
+        "type": "file",
+        "md5": "9d0de502fcbf45af01d80ad7558ff720"
+    },
+    {
+        "path": "amp/ensiklopedia/franchise-waralaba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/franchise-waralaba/index.html",
+        "type": "file",
+        "md5": "510e789349cefa42e558e2f01b193039"
+    },
+    {
+        "path": "amp/ensiklopedia/home-industri",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/home-industri/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/home-industri/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/home-industri/halaman/2/index.html",
+        "type": "file",
+        "md5": "799e966d529908321e2e5f7f1c63d991"
+    },
+    {
+        "path": "/amp/ensiklopedia/home-industri/index.html",
+        "type": "file",
+        "md5": "914a3a04a0383e732551af57bfd5d448"
+    },
+    {
+        "path": "amp/ensiklopedia/jasa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/jasa/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/jasa/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/jasa/halaman/2/index.html",
+        "type": "file",
+        "md5": "d7777cece191d73c44dfd06d8df7ae95"
+    },
+    {
+        "path": "amp/ensiklopedia/jasa/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/jasa/halaman/3/index.html",
+        "type": "file",
+        "md5": "62635fcae3cc8099bf0266864e8ab9a0"
+    },
+    {
+        "path": "/amp/ensiklopedia/jasa/index.html",
+        "type": "file",
+        "md5": "db9556aea60f222dce31012b5a97cb10"
+    },
+    {
+        "path": "amp/ensiklopedia/perdagangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/perdagangan/index.html",
+        "type": "file",
+        "md5": "2b21812a70c5623493b85e166d5b6b30"
+    },
+    {
+        "path": "amp/ensiklopedia/perikanan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/perikanan/index.html",
+        "type": "file",
+        "md5": "ff5651f4e6a4cd241f53ead67bbf0f7a"
+    },
+    {
+        "path": "amp/ensiklopedia/perkebunan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/perkebunan/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/perkebunan/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/perkebunan/halaman/2/index.html",
+        "type": "file",
+        "md5": "cbc20d343db77a24fadf4251108a017d"
+    },
+    {
+        "path": "amp/ensiklopedia/perkebunan/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/perkebunan/halaman/3/index.html",
+        "type": "file",
+        "md5": "d0bebc9540c1fa8f1b45343fa4ac80cb"
+    },
+    {
+        "path": "amp/ensiklopedia/perkebunan/halaman/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/perkebunan/halaman/4/index.html",
+        "type": "file",
+        "md5": "ba7ffa025842e0b229498b5e260f5da9"
+    },
+    {
+        "path": "/amp/ensiklopedia/perkebunan/index.html",
+        "type": "file",
+        "md5": "79ba8cc3c957886617681e959450dd47"
+    },
+    {
+        "path": "amp/ensiklopedia/pertanian",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/pertanian/index.html",
+        "type": "file",
+        "md5": "681771d5ff4d7ecccf9558fd4204733f"
+    },
+    {
+        "path": "amp/ensiklopedia/peternakan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/peternakan/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/ensiklopedia/peternakan/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/peternakan/halaman/2/index.html",
+        "type": "file",
+        "md5": "6088d52f773e5761fd08ef7ab7ff032d"
+    },
+    {
+        "path": "/amp/ensiklopedia/peternakan/index.html",
+        "type": "file",
+        "md5": "3d1289c5bb45153b37b76f5dc1f78be7"
+    },
+    {
+        "path": "amp/ensiklopedia/teknologi-pangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/teknologi-pangan/index.html",
+        "type": "file",
+        "md5": "98ee5add04e1cdff51c7d41763bd0986"
+    },
+    {
+        "path": "amp/ensiklopedia/teknologi-tepat-guna",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/teknologi-tepat-guna/index.html",
+        "type": "file",
+        "md5": "a66733e9da39bd9bbbfa8c536795fa33"
+    },
+    {
+        "path": "amp/ensiklopedia/usaha-property",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/ensiklopedia/usaha-property/index.html",
+        "type": "file",
+        "md5": "13a8e64ec311150fce46c4ff179357ce"
+    },
+    {
+        "path": "amp/faktor-keberhasilan-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/faktor-keberhasilan-usaha-furniture/index.html",
+        "type": "file",
+        "md5": "b042da2fe0a59bfb17f0f33a3af32213"
+    },
+    {
+        "path": "amp/faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "0b9caa2dbbb819463bdf11c2ca1ef8b2"
+    },
+    {
+        "path": "amp/faktor-resiko-dan-keberhasilan-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/faktor-resiko-dan-keberhasilan-usaha-rumah-kost/index.html",
+        "type": "file",
+        "md5": "183cc813a199726e986a686f7b9fd305"
+    },
+    {
+        "path": "amp/gambaran-umum-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/gambaran-umum-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "6dc3f090b9a793ced8ec47093988d83f"
+    },
+    {
+        "path": "amp/gambaran-umum-usaha-jasa-transportasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/gambaran-umum-usaha-jasa-transportasi/index.html",
+        "type": "file",
+        "md5": "8d2d750c662eff30791bf7afe3fd2c3c"
+    },
+    {
+        "path": "amp/gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison/index.html",
+        "type": "file",
+        "md5": "6795eb7bdc024bb44ccf4ce6226204d8"
+    },
+    {
+        "path": "amp/game-dalam-bernegosiasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/game-dalam-bernegosiasi/index.html",
+        "type": "file",
+        "md5": "6138a91cd779f7b1edbf0b817ba4f5b0"
     },
     {
         "path": "amp/halaman",
@@ -272,7 +687,7 @@
     {
         "path": "/amp/halaman/10/index.html",
         "type": "file",
-        "md5": "275afe0074d9ff030362a18a07c2f894"
+        "md5": "fbf755df152f440fc061b8f173fbec54"
     },
     {
         "path": "amp/halaman/11",
@@ -282,7 +697,7 @@
     {
         "path": "/amp/halaman/11/index.html",
         "type": "file",
-        "md5": "f3d5e566366cc9ff01ea7a503c54f278"
+        "md5": "87a5dd95f6e14653dc98ca0ada2653fb"
     },
     {
         "path": "amp/halaman/12",
@@ -292,7 +707,7 @@
     {
         "path": "/amp/halaman/12/index.html",
         "type": "file",
-        "md5": "b25495e7f1a6b90d5eed779c79c2901e"
+        "md5": "cf8c0b14b1e9f0a3677a17fe653a446f"
     },
     {
         "path": "amp/halaman/13",
@@ -302,7 +717,7 @@
     {
         "path": "/amp/halaman/13/index.html",
         "type": "file",
-        "md5": "43f5368f370512301590b2682f2ad5fa"
+        "md5": "32a95d93d7559c8d8ff603b4fc3a59b5"
     },
     {
         "path": "amp/halaman/2",
@@ -312,7 +727,7 @@
     {
         "path": "/amp/halaman/2/index.html",
         "type": "file",
-        "md5": "677104b9ae3003046051dc002ccb3584"
+        "md5": "bd22d741173d76a7faa6cef9a777ae96"
     },
     {
         "path": "amp/halaman/3",
@@ -322,7 +737,7 @@
     {
         "path": "/amp/halaman/3/index.html",
         "type": "file",
-        "md5": "1a37ad76b48dc34f91d9944956d9076c"
+        "md5": "f68461bfcf7c011f04e277c8a1b7188e"
     },
     {
         "path": "amp/halaman/4",
@@ -332,7 +747,7 @@
     {
         "path": "/amp/halaman/4/index.html",
         "type": "file",
-        "md5": "e1d02d7bfe2b7b16eaa7ec625a39e6f9"
+        "md5": "f942199204dadc9af401444d86bf3c62"
     },
     {
         "path": "amp/halaman/5",
@@ -342,7 +757,7 @@
     {
         "path": "/amp/halaman/5/index.html",
         "type": "file",
-        "md5": "5954092cf955dc9224e7d88ca2c25a82"
+        "md5": "4584dd6ce920432a3746d0df77a2324a"
     },
     {
         "path": "amp/halaman/6",
@@ -352,7 +767,7 @@
     {
         "path": "/amp/halaman/6/index.html",
         "type": "file",
-        "md5": "e8ba33fc278f25200180b309edc0ac9a"
+        "md5": "6dd76ded7caf31e649277079cf5671f7"
     },
     {
         "path": "amp/halaman/7",
@@ -362,7 +777,7 @@
     {
         "path": "/amp/halaman/7/index.html",
         "type": "file",
-        "md5": "78f6c60aeea727740946166b55e51dda"
+        "md5": "8a105729c3581d8337ea1da70e699902"
     },
     {
         "path": "amp/halaman/8",
@@ -372,7 +787,7 @@
     {
         "path": "/amp/halaman/8/index.html",
         "type": "file",
-        "md5": "16834455fa272374256847e5db9c7cf4"
+        "md5": "ded65afff6965b2baa6a7de073964d8b"
     },
     {
         "path": "amp/halaman/9",
@@ -382,277 +797,422 @@
     {
         "path": "/amp/halaman/9/index.html",
         "type": "file",
-        "md5": "bc323082c883ff81326a197f64ae4303"
+        "md5": "aa422945a6ea917da5dd12047946715e"
     },
     {
-        "path": "amp/home-industri",
+        "path": "amp/ikan-baung",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/home-industri/halaman",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "amp/home-industri/halaman/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/home-industri/halaman/2/index.html",
+        "path": "/amp/ikan-baung/index.html",
         "type": "file",
-        "md5": "79681499b4d38ac996cc16be5c02c0fc"
-    },
-    {
-        "path": "/amp/home-industri/index.html",
-        "type": "file",
-        "md5": "389fb655cac4cfeef0584f1ed86d29ac"
-    },
-    {
-        "path": "/amp/ikan-baung.html",
-        "type": "file",
-        "md5": "3c9ae1c0762c65f505bde85bb8bad7c0"
+        "md5": "7a18d593000ef101203b13d22b8cdeba"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "bd8d378ea02a6c6b4e14fbd8d5b6b07c"
+        "md5": "7d62c79e9ea4169d5237989115d14d0c"
     },
     {
-        "path": "/amp/infrastruktur-usaha-tani-bunga-potong-2.html",
-        "type": "file",
-        "md5": "ff04dae801a18b73cac5cfc502bc734a"
-    },
-    {
-        "path": "amp/jasa",
+        "path": "amp/infrastruktur-usaha-tani-bunga-potong-2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/jasa/halaman",
+        "path": "/amp/infrastruktur-usaha-tani-bunga-potong-2/index.html",
+        "type": "file",
+        "md5": "20e475ce7f0e257ae8603313f42ba051"
+    },
+    {
+        "path": "amp/kajian-prospek-usaha-perkebunan-bunga-potong",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/jasa/halaman/2",
+        "path": "/amp/kajian-prospek-usaha-perkebunan-bunga-potong/index.html",
+        "type": "file",
+        "md5": "63b7e5849cf3efb6078b4df1a7b9b676"
+    },
+    {
+        "path": "amp/karakteristik-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/jasa/halaman/2/index.html",
+        "path": "/amp/karakteristik-industri-furniture/index.html",
         "type": "file",
-        "md5": "4945a99a69b2e8839cd79ff96c75332f"
+        "md5": "21191402a3fea0e619067cb75f874cee"
     },
     {
-        "path": "amp/jasa/halaman/3",
+        "path": "amp/kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/jasa/halaman/3/index.html",
+        "path": "/amp/kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula/index.html",
         "type": "file",
-        "md5": "d5807fd0002413a543fbdec5318a71aa"
+        "md5": "5b95c32c32a847d9ab400de1ad94b7b8"
     },
     {
-        "path": "/amp/jasa/index.html",
-        "type": "file",
-        "md5": "a827e7a573af75701f8cf6a5ba3894f3"
+        "path": "amp/kebijaksanaan-pemerintah-dalam-industri-furniture",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/kajian-prospek-usaha-perkebunan-bunga-potong.html",
+        "path": "/amp/kebijaksanaan-pemerintah-dalam-industri-furniture/index.html",
         "type": "file",
-        "md5": "661277067c22ef9455bd3beabd709490"
+        "md5": "916b99a659c4dcb2651c658a9c5d02a1"
     },
     {
-        "path": "/amp/karakteristik-industri-furniture.html",
-        "type": "file",
-        "md5": "28e6be47cc00bbe881f5b453aa998d50"
+        "path": "amp/ketersediaan-benih-bibit-bunga-potong",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula.html",
+        "path": "/amp/ketersediaan-benih-bibit-bunga-potong/index.html",
         "type": "file",
-        "md5": "0243861b6b8f0a001cf85bc38b840aa3"
+        "md5": "d5c6295accce2f101ab0c96315f5b899"
     },
     {
-        "path": "/amp/kebijaksanaan-pemerintah-dalam-industri-furniture.html",
-        "type": "file",
-        "md5": "bddc05631af2bda9b1863aef31532288"
+        "path": "amp/keunggulan-dan-kelebihan-lele-mutiara",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/ketersediaan-benih-bibit-bunga-potong.html",
+        "path": "/amp/keunggulan-dan-kelebihan-lele-mutiara/index.html",
         "type": "file",
-        "md5": "2bc306cc3b096956a545f52d2220a740"
+        "md5": "e66c36fcdbc1d5465f2ba2cd5409456b"
     },
     {
-        "path": "/amp/keunggulan-dan-kelebihan-lele-mutiara.html",
-        "type": "file",
-        "md5": "23a1b3a485773875d964794128231a03"
+        "path": "amp/kondisi-industri-furniture",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/kondisi-industri-furniture.html",
+        "path": "/amp/kondisi-industri-furniture/index.html",
         "type": "file",
-        "md5": "adb7bd215b883b063fb513cd028bec73"
+        "md5": "2e4ef6e547b82189c99cc8b800f376a5"
     },
     {
-        "path": "/amp/kondisi-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "183e236e1a0c4528240ee99fb3d9f904"
+        "path": "amp/kondisi-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal.html",
+        "path": "/amp/kondisi-usaha-bunga-dan-tanaman-hias/index.html",
         "type": "file",
-        "md5": "64577b008e92c4456c3b02c3fcc203cc"
+        "md5": "75e94fbc27b4d4d97d9cd332dc5bc832"
     },
     {
-        "path": "/amp/lele-mutiara.html",
-        "type": "file",
-        "md5": "bc058df9b978fddeebdc80e4f790f5de"
+        "path": "amp/kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/mastering-negosiasi-bisnis.html",
+        "path": "/amp/kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal/index.html",
         "type": "file",
-        "md5": "23c86e41bd37932bd0504277c0f2741b"
+        "md5": "6831a14ae47f18e738910a405631e0be"
     },
     {
-        "path": "/amp/membuat-larutan-nutrisi-hidroponik.html",
-        "type": "file",
-        "md5": "757ef09b8c00726222073aea1e557f55"
+        "path": "amp/lele-mutiara",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/mengenal-ikan-baung.html",
+        "path": "/amp/lele-mutiara/index.html",
         "type": "file",
-        "md5": "99b0c5983183d31a6797145e7ef70a03"
+        "md5": "45404a728a6970993f2158caefbc2634"
     },
     {
-        "path": "/amp/mengenal-lele-mutiara.html",
-        "type": "file",
-        "md5": "d80dd59d59aa501491676d08926047d3"
+        "path": "amp/mastering-negosiasi-bisnis",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/negosiasi-bisnis-imperatif.html",
+        "path": "/amp/mastering-negosiasi-bisnis/index.html",
         "type": "file",
-        "md5": "37ab3eb8824eec0686d953ece0c4dec7"
+        "md5": "3947e157bda00f39a7bc7d43bc46fe24"
     },
     {
-        "path": "/amp/negosiasi-dengan-win-win-solution.html",
-        "type": "file",
-        "md5": "3292d17471af6739bf32724e2ee5972c"
+        "path": "amp/membuat-larutan-nutrisi-hidroponik",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/operasional-mengelola-bengkel-mobil.html",
+        "path": "/amp/membuat-larutan-nutrisi-hidroponik/index.html",
         "type": "file",
-        "md5": "0f549c0f895d5b9b9c1e1ef70520b95b"
+        "md5": "cff4013c3cc2e56bdaf0ea4b85618091"
     },
     {
-        "path": "/amp/panen-dan-pengolahan-hasil-panen-tebu.html",
-        "type": "file",
-        "md5": "40332f495652adbb0e2f62995f28372b"
+        "path": "amp/mengenal-ikan-baung",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/peluang-aneka-usaha-waralaba-franchise.html",
+        "path": "/amp/mengenal-ikan-baung/index.html",
         "type": "file",
-        "md5": "b5c7a3b6a329362ab6725896979a7f35"
+        "md5": "e81fd6ba2bbe70a7261f7efb690e9ea2"
     },
     {
-        "path": "/amp/peluang-investasi-di-usaha-waralaba-franchise.html",
-        "type": "file",
-        "md5": "ec634e98bf7f5546acc7005097b85acf"
+        "path": "amp/mengenal-lele-mutiara",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/peluang-investasi-usaha-bengkel-mobil.html",
+        "path": "/amp/mengenal-lele-mutiara/index.html",
         "type": "file",
-        "md5": "d69fe4c8b6e500051dbee0d41906adf9"
+        "md5": "519554907fad21c3f2e626c326130b29"
     },
     {
-        "path": "/amp/peluang-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "b4aad04dc9fa843e690e76f9408a41a6"
+        "path": "amp/negosiasi-bisnis-imperatif",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/peluang-usaha-bisnis-gula-tebu.html",
+        "path": "/amp/negosiasi-bisnis-imperatif/index.html",
         "type": "file",
-        "md5": "3b63d426e4ff876db9103aa3cbbc734c"
+        "md5": "a587b5513ec6457356f3211875c3ce82"
     },
     {
-        "path": "/amp/peluang-usaha-budidaya-bunga-melati.html",
-        "type": "file",
-        "md5": "e61892a59bdda028548cd9a63f4beb00"
+        "path": "amp/negosiasi-dengan-win-win-solution",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/peluang-usaha-budidaya-ikan-baung.html",
+        "path": "/amp/negosiasi-dengan-win-win-solution/index.html",
         "type": "file",
-        "md5": "07253bca1dc486e6ce82bc62e8608022"
+        "md5": "5f5ddadbd0d8aebec8ac05e41e96310b"
     },
     {
-        "path": "/amp/pemasaran-bunga-potong.html",
-        "type": "file",
-        "md5": "8e28c2e2a7d1a7a9cd224a97737072d8"
+        "path": "amp/operasional-mengelola-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pemasaran-usaha-produksi-furniture.html",
+        "path": "/amp/operasional-mengelola-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "a3bb81f6dca904911e612a56d900032b"
+        "md5": "0b45cdc263e4959bc1b418eab28fd298"
     },
     {
-        "path": "/amp/pembuatan-permen-jeli-jamur-tiram.html",
-        "type": "file",
-        "md5": "9d4948004b13ba61d14607b3fbd03393"
+        "path": "amp/panen-dan-pengolahan-hasil-panen-tebu",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit.html",
+        "path": "/amp/panen-dan-pengolahan-hasil-panen-tebu/index.html",
         "type": "file",
-        "md5": "c1aa39f782d65d0614b892aaa926f8e1"
+        "md5": "e3c7259f3ff2bc5ccc666cdcb7cfc38e"
     },
     {
-        "path": "/amp/pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat.html",
-        "type": "file",
-        "md5": "d23d5954721cdd54cb390dd35237b6d6"
+        "path": "amp/peluang-aneka-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong.html",
+        "path": "/amp/peluang-aneka-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "3172305476c786d10e75bab93e793463"
+        "md5": "3bcea8b4af2fa143b914b60c8c2b0d07"
     },
     {
-        "path": "/amp/pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal.html",
-        "type": "file",
-        "md5": "05a5f2c97c4426d27b3488f339c7e9e2"
+        "path": "amp/peluang-investasi-di-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing.html",
+        "path": "/amp/peluang-investasi-di-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "107d26ad328465f69f33b209402c7e86"
+        "md5": "93d8e596c6628f7d8611d46bfb0225ed"
     },
     {
-        "path": "/amp/pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum.html",
-        "type": "file",
-        "md5": "b762d92117c608121027e39b443a9f28"
+        "path": "amp/peluang-investasi-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas.html",
+        "path": "/amp/peluang-investasi-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "ff1f2015719a37aeee625b47cb99b6d1"
+        "md5": "3cf6e602c9def1031e3b3961996ef833"
     },
     {
-        "path": "/amp/pengemukan-sapi-pfh-peranakan-friesian-holstein.html",
-        "type": "file",
-        "md5": "eabed449cdd9e65ac8d6e7cef5df09e2"
+        "path": "amp/peluang-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pengertian-jasa-transportasi.html",
+        "path": "/amp/peluang-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "29b54749f8cb8f247526ed75f62815ca"
+        "md5": "098fd88c5cffb0b4b4a22092606c1f75"
     },
     {
-        "path": "/amp/penggunaan-tepung-ikan-dalam-pakan-konsentrat.html",
-        "type": "file",
-        "md5": "d411bf7a0bd1022ebc0e0fcfc249a16c"
+        "path": "amp/peluang-usaha-bisnis-gula-tebu",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/pengolahan-air-gambut-rawa-pasang-surut.html",
+        "path": "/amp/peluang-usaha-bisnis-gula-tebu/index.html",
         "type": "file",
-        "md5": "67be9625f8dd5cd096740803475ca099"
+        "md5": "57634cefd7cbf45e3e91a915616d9200"
+    },
+    {
+        "path": "amp/peluang-usaha-budidaya-bunga-melati",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/peluang-usaha-budidaya-bunga-melati/index.html",
+        "type": "file",
+        "md5": "5a816de0eae1cee68ed6d28e7cddfaf9"
+    },
+    {
+        "path": "amp/peluang-usaha-budidaya-ikan-baung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/peluang-usaha-budidaya-ikan-baung/index.html",
+        "type": "file",
+        "md5": "089ee6f31c3fa08c9ab7197e4f27c492"
+    },
+    {
+        "path": "amp/pemasaran-bunga-potong",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pemasaran-bunga-potong/index.html",
+        "type": "file",
+        "md5": "d2ba0fecb5d4eff4c4840fa7b379e440"
+    },
+    {
+        "path": "amp/pemasaran-usaha-produksi-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pemasaran-usaha-produksi-furniture/index.html",
+        "type": "file",
+        "md5": "83228d5174763e9689e1be2d4d885604"
+    },
+    {
+        "path": "amp/pembuatan-permen-jeli-jamur-tiram",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pembuatan-permen-jeli-jamur-tiram/index.html",
+        "type": "file",
+        "md5": "39585e83c361a0f16b6c147313103bdc"
+    },
+    {
+        "path": "amp/penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit/index.html",
+        "type": "file",
+        "md5": "17f710613e8cb0d8217f2d707f2fd02d"
+    },
+    {
+        "path": "amp/pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat/index.html",
+        "type": "file",
+        "md5": "d60813a9635ccd0182ab206a2bb2bb3e"
+    },
+    {
+        "path": "amp/pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong/index.html",
+        "type": "file",
+        "md5": "d5576b303407cfd0285c9e6f426e0599"
+    },
+    {
+        "path": "amp/pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal/index.html",
+        "type": "file",
+        "md5": "38c62bae6c479491f49099fbf6aed169"
+    },
+    {
+        "path": "amp/pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing/index.html",
+        "type": "file",
+        "md5": "11feed52b7af0fc088dc95a503949da0"
+    },
+    {
+        "path": "amp/pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum/index.html",
+        "type": "file",
+        "md5": "d551210dee31f287d1ce0a2b5eb7cd24"
+    },
+    {
+        "path": "amp/pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas/index.html",
+        "type": "file",
+        "md5": "38a9464848d9bee84b149075378b3c0e"
+    },
+    {
+        "path": "amp/pengemukan-sapi-pfh-peranakan-friesian-holstein",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengemukan-sapi-pfh-peranakan-friesian-holstein/index.html",
+        "type": "file",
+        "md5": "abfeb7efa2342bfa27429f1881e3ce77"
+    },
+    {
+        "path": "amp/pengertian-jasa-transportasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengertian-jasa-transportasi/index.html",
+        "type": "file",
+        "md5": "4159fea32b4caecd72d477cb7676cfda"
+    },
+    {
+        "path": "amp/penggunaan-tepung-ikan-dalam-pakan-konsentrat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/penggunaan-tepung-ikan-dalam-pakan-konsentrat/index.html",
+        "type": "file",
+        "md5": "98cbd648143a0d7343d807c3269b647a"
+    },
+    {
+        "path": "amp/pengolahan-air-gambut-rawa-pasang-surut",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/pengolahan-air-gambut-rawa-pasang-surut/index.html",
+        "type": "file",
+        "md5": "a70f00f59c64e340c5bdebdb1ecf9364"
     },
     {
         "path": "amp/penulis",
@@ -677,7 +1237,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/10/index.html",
         "type": "file",
-        "md5": "c4c8f55c34833991ddbea47c24636268"
+        "md5": "08727f6a7fb5250fe202c13f8327f136"
     },
     {
         "path": "amp/penulis/anonymous/halaman/11",
@@ -687,7 +1247,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/11/index.html",
         "type": "file",
-        "md5": "cb9dbdb81dab67fbcc552c1c1751d091"
+        "md5": "91404421aa1ea4ecbb6b591183591805"
     },
     {
         "path": "amp/penulis/anonymous/halaman/2",
@@ -697,7 +1257,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/2/index.html",
         "type": "file",
-        "md5": "b2fce9593b0afacb456a8f985b751a7f"
+        "md5": "9ac9fb3ff99604f733e37fffa3590014"
     },
     {
         "path": "amp/penulis/anonymous/halaman/3",
@@ -707,7 +1267,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/3/index.html",
         "type": "file",
-        "md5": "9bf828487c2dbf51dad6145c92a08cf6"
+        "md5": "774b9988a7e67729b2164ce37d1608ce"
     },
     {
         "path": "amp/penulis/anonymous/halaman/4",
@@ -717,7 +1277,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/4/index.html",
         "type": "file",
-        "md5": "1deee8caf4f9add5f694ae4c6e679ec2"
+        "md5": "5d5516a58c01f77f0682599520e9aba4"
     },
     {
         "path": "amp/penulis/anonymous/halaman/5",
@@ -727,7 +1287,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/5/index.html",
         "type": "file",
-        "md5": "6ac37ca18f395fe5e964c5ad8dd7d14b"
+        "md5": "e21044ab5a1c098d3c4882a1ffa0a994"
     },
     {
         "path": "amp/penulis/anonymous/halaman/6",
@@ -737,7 +1297,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/6/index.html",
         "type": "file",
-        "md5": "efa8d1e69699096f186c3adc31d338de"
+        "md5": "aac0adca411b647e927786eb79049003"
     },
     {
         "path": "amp/penulis/anonymous/halaman/7",
@@ -747,7 +1307,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/7/index.html",
         "type": "file",
-        "md5": "91a385f59458a68df618f00e4fab8fa3"
+        "md5": "9e53a9625efb93ae4244102868eaf4de"
     },
     {
         "path": "amp/penulis/anonymous/halaman/8",
@@ -757,7 +1317,7 @@
     {
         "path": "/amp/penulis/anonymous/halaman/8/index.html",
         "type": "file",
-        "md5": "10f80bda61ca1a99f39b17690e5b5c6c"
+        "md5": "a7bc3c603664e68dc0137e625e75a481"
     },
     {
         "path": "amp/penulis/anonymous/halaman/9",
@@ -767,12 +1327,12 @@
     {
         "path": "/amp/penulis/anonymous/halaman/9/index.html",
         "type": "file",
-        "md5": "d533071ac7cafc9a3261f2c55f4e8113"
+        "md5": "ffaf9dc37d189cc56c1d43d45ee241e2"
     },
     {
         "path": "/amp/penulis/anonymous/index.html",
         "type": "file",
-        "md5": "4ef0a87099ce4f012a1fd3ba88bb53fd"
+        "md5": "5a3fed91e49e9440bb0e496b753afdfa"
     },
     {
         "path": "amp/penulis/kanghilman",
@@ -792,417 +1352,602 @@
     {
         "path": "/amp/penulis/kanghilman/halaman/2/index.html",
         "type": "file",
-        "md5": "3046df5fcdc838b35d38e0cae9bd79f6"
+        "md5": "45a0d76e1ac104ae0d14d9a84653b3fe"
+    },
+    {
+        "path": "amp/penulis/kanghilman/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/penulis/kanghilman/halaman/3/index.html",
+        "type": "file",
+        "md5": "01afb3ce9df1827c1c83533f1338d587"
     },
     {
         "path": "/amp/penulis/kanghilman/index.html",
         "type": "file",
-        "md5": "535fc5c1c830b6367bbb22278c794ad5"
+        "md5": "079b6f5e75d4d3edea675973b8bbcd9d"
     },
     {
-        "path": "amp/perdagangan",
+        "path": "amp/perkembangan-industri-usaha-furniture-di-indonesia",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/perdagangan/index.html",
+        "path": "/amp/perkembangan-industri-usaha-furniture-di-indonesia/index.html",
         "type": "file",
-        "md5": "fad2ffb112a460058eab0b0a2742beef"
+        "md5": "a4f703c5d7768c1fe9d798e8e1a1b457"
     },
     {
-        "path": "amp/perikanan",
+        "path": "amp/perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/perikanan/index.html",
+        "path": "/amp/perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture/index.html",
         "type": "file",
-        "md5": "7638cfc7c142e0b857d2f9e1593d68d1"
+        "md5": "4bc19dd72ac74ac762ec0e3d580047fa"
     },
     {
-        "path": "amp/perkebunan",
+        "path": "amp/persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/perkebunan/halaman",
+        "path": "/amp/persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan/index.html",
+        "type": "file",
+        "md5": "09fd460582095cc2ca04e06b4b6f2754"
+    },
+    {
+        "path": "amp/pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/perkebunan/halaman/2",
+        "path": "/amp/pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat/index.html",
+        "type": "file",
+        "md5": "2fc3b19f3d47994dcdcd2fdfa456b45e"
+    },
+    {
+        "path": "amp/privacy-policy",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/perkebunan/halaman/2/index.html",
+        "path": "/amp/privacy-policy/index.html",
         "type": "file",
-        "md5": "d15674c545c3976de72e09084fcfff9f"
+        "md5": "31a179cf0997700a85d6187e3e037651"
     },
     {
-        "path": "amp/perkebunan/halaman/3",
+        "path": "amp/problem-gambling-and-depression",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/perkebunan/halaman/3/index.html",
+        "path": "/amp/problem-gambling-and-depression/index.html",
         "type": "file",
-        "md5": "bf8c4929cf5e537bb0aaf95aaca8f60f"
+        "md5": "0c809164eda51b5f13691460fcf6ae41"
     },
     {
-        "path": "amp/perkebunan/halaman/4",
+        "path": "amp/produksi-gula-di-indonesia",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/perkebunan/halaman/4/index.html",
+        "path": "/amp/produksi-gula-di-indonesia/index.html",
         "type": "file",
-        "md5": "8881bf5be76943d98abd73d461b998df"
+        "md5": "d5e89389a575a486258d3ebe17f2edf6"
     },
     {
-        "path": "/amp/perkebunan/index.html",
-        "type": "file",
-        "md5": "88f791e103898ad6e322207b06f7c46a"
-    },
-    {
-        "path": "/amp/perkembangan-industri-usaha-furniture-di-indonesia.html",
-        "type": "file",
-        "md5": "3e3a70c80a44fc6639e574f5f7372a19"
-    },
-    {
-        "path": "/amp/perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture.html",
-        "type": "file",
-        "md5": "7764296edbfd987dcc0dff371318cbd5"
-    },
-    {
-        "path": "/amp/persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan.html",
-        "type": "file",
-        "md5": "5348a37e9edb8b2b733d9cb6505a8bc4"
-    },
-    {
-        "path": "amp/pertanian",
+        "path": "amp/profil-investasi-dan-risiko-bisnis-gula-tebu",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/pertanian/index.html",
+        "path": "/amp/profil-investasi-dan-risiko-bisnis-gula-tebu/index.html",
         "type": "file",
-        "md5": "d49c465854c24a156b878517d454d5da"
+        "md5": "6f3941aab9dd78ccc2de5c9215f46f0a"
     },
     {
-        "path": "/amp/pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat.html",
-        "type": "file",
-        "md5": "c957c2b8d4f2f91ada9b5ae495d9b07f"
-    },
-    {
-        "path": "amp/peternakan",
+        "path": "amp/proses-bisnis-organisasi-dalam-business-process-modeling-foundations",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/peternakan/halaman",
+        "path": "/amp/proses-bisnis-organisasi-dalam-business-process-modeling-foundations/index.html",
+        "type": "file",
+        "md5": "69c3e8a4a2a799c6ae12560990b855d3"
+    },
+    {
+        "path": "amp/proses-pengolahan-tebu-jadi-gula",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "amp/peternakan/halaman/2",
+        "path": "/amp/proses-pengolahan-tebu-jadi-gula/index.html",
+        "type": "file",
+        "md5": "ed7651572bb62d835f416d1598fa73fc"
+    },
+    {
+        "path": "amp/prospek-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/peternakan/halaman/2/index.html",
+        "path": "/amp/prospek-industri-furniture/index.html",
         "type": "file",
-        "md5": "1b12834600931106870bf340f10e512f"
+        "md5": "17bdf630373729410151fdad255f64a6"
     },
     {
-        "path": "/amp/peternakan/index.html",
-        "type": "file",
-        "md5": "ab1624e205684da83624a6713bdf56de"
-    },
-    {
-        "path": "/amp/privacy-policy.html",
-        "type": "file",
-        "md5": "ad2b9bfbd532453dc8f4fb086567a5da"
-    },
-    {
-        "path": "/amp/problem-gambling-and-depression.html",
-        "type": "file",
-        "md5": "ab1cc17beb2ee1e01eb2d2f1f72818db"
-    },
-    {
-        "path": "/amp/produksi-gula-di-indonesia.html",
-        "type": "file",
-        "md5": "a1314b50ad3e869f01750ae0a9ebd3b8"
-    },
-    {
-        "path": "/amp/profil-investasi-dan-risiko-bisnis-gula-tebu.html",
-        "type": "file",
-        "md5": "8e47b565c30408449568fb5391bf2cd6"
-    },
-    {
-        "path": "/amp/proses-bisnis-organisasi-dalam-business-process-modeling-foundations.html",
-        "type": "file",
-        "md5": "245c83fc3308e022840e7a0ec43067ed"
-    },
-    {
-        "path": "/amp/proses-pengolahan-tebu-jadi-gula.html",
-        "type": "file",
-        "md5": "a503c4c3c615c589cd65122730e23564"
-    },
-    {
-        "path": "/amp/prospek-industri-furniture.html",
-        "type": "file",
-        "md5": "b2fa6a374104cdf4300a7fb7ee2dd023"
-    },
-    {
-        "path": "/amp/prospek-peluang-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "958ba5da83daa569dbfbea0db87479e1"
-    },
-    {
-        "path": "/amp/prospek-usaha-bunga-potong-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "30c046253bfa8eca0ef2c26fa00fbf05"
-    },
-    {
-        "path": "/amp/prospek-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "54c8aa050b5208348d7e5da924edbd45"
-    },
-    {
-        "path": "/amp/rekomendasi-khusus-industri-gula.html",
-        "type": "file",
-        "md5": "6782de40df99250bd2123857ca327c1e"
-    },
-    {
-        "path": "/amp/resiko-bisnis-usaha-pengembang.html",
-        "type": "file",
-        "md5": "bf1411bb19e8f912cca2bfef918aa733"
-    },
-    {
-        "path": "/amp/resiko-bisnis-usaha-waralaba-franchise.html",
-        "type": "file",
-        "md5": "c48e451a6ad5e7459694177352a076bc"
-    },
-    {
-        "path": "/amp/resiko-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "198e2a1dd7f5f16219b560bb9b6db8e8"
-    },
-    {
-        "path": "/amp/resiko-usaha-bunga-potong.html",
-        "type": "file",
-        "md5": "12b35f750d05eddcd225f9eef6c8c1ff"
-    },
-    {
-        "path": "/amp/sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging.html",
-        "type": "file",
-        "md5": "9b88cd505c1adbb255b2bd5937aafa3f"
-    },
-    {
-        "path": "/amp/strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu.html",
-        "type": "file",
-        "md5": "c1e38bf4230c7a888b2bf61740777fbc"
-    },
-    {
-        "path": "/amp/strategi-usaha-industri-furniture.html",
-        "type": "file",
-        "md5": "fd9cc77ae5181679e7318c298b5855d7"
-    },
-    {
-        "path": "/amp/sumber-bahan-baku-usaha-furniture.html",
-        "type": "file",
-        "md5": "01e36fc6a63541ec79907cf4e6427456"
-    },
-    {
-        "path": "/amp/syarat-pendirian-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "0a6f48ac938f5b0849eaeb5f13ddec57"
-    },
-    {
-        "path": "/amp/syarat-pendirian-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "0b4bbe051802d0ebea31aee6d66bec1f"
-    },
-    {
-        "path": "/amp/syarat-pendirian-usaha-rumah-kost-kostan.html",
-        "type": "file",
-        "md5": "fb24bebab97ee34a2b2293676ac4e70c"
-    },
-    {
-        "path": "/amp/tebu-dan-industri-gula-di-indonesia.html",
-        "type": "file",
-        "md5": "d349ff5a9c3915443d5a8db39dbde475"
-    },
-    {
-        "path": "/amp/teknik-budidaya-bunga-mawar.html",
-        "type": "file",
-        "md5": "b89e96ce25e273a692daf17540c2a485"
-    },
-    {
-        "path": "/amp/teknik-budidaya-daun-asparagus-bintang.html",
-        "type": "file",
-        "md5": "ae1dd186d14e04cb11d65cc684e8e5e2"
-    },
-    {
-        "path": "/amp/teknik-dan-cara-usaha-home-industri-furniture.html",
-        "type": "file",
-        "md5": "3cb43dbd29f7db520ac1b20d7b1d1bb5"
-    },
-    {
-        "path": "/amp/teknik-mengelola-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "26c69288efc6722e0d3b3aaaef7f5a56"
-    },
-    {
-        "path": "/amp/teknik-pemasaran-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "bc27e4ce29f784cccf56e7824c64488b"
-    },
-    {
-        "path": "amp/teknologi-tepat-guna",
+        "path": "amp/prospek-peluang-usaha-bengkel-mobil",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/teknologi-tepat-guna/index.html",
+        "path": "/amp/prospek-peluang-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "a087d780b853f43d9d8db52348802a9a"
+        "md5": "5a2ad0b03f68eacf6c95939d09cab745"
     },
     {
-        "path": "/amp/terms-and-conditions.html",
-        "type": "file",
-        "md5": "7bdb9df199a019713da103dd19d9047c"
-    },
-    {
-        "path": "/amp/usaha-budidaya-bunga-kertas-zinnia.html",
-        "type": "file",
-        "md5": "054f0126215a4e76b0b1b9ac84d8d377"
-    },
-    {
-        "path": "/amp/usaha-budidaya-jamur-merang-volvariella-volvaceae.html",
-        "type": "file",
-        "md5": "6d463fc8d262edc4d86ea8cbf9d783a2"
-    },
-    {
-        "path": "/amp/usaha-budidaya-jamur-tiram.html",
-        "type": "file",
-        "md5": "0a51b6722f7ab798944ecde0f99a4bf6"
-    },
-    {
-        "path": "/amp/usaha-budidaya-tanaman-tebu.html",
-        "type": "file",
-        "md5": "15bcc4ae63e77bb57ecdd1ae2c0ed881"
-    },
-    {
-        "path": "/amp/usaha-kost-kostan.html",
-        "type": "file",
-        "md5": "52f75bacda7390076c8e086aaa1a3acc"
-    },
-    {
-        "path": "/amp/usaha-pengembang-pusat-perbelanjaan-mall.html",
-        "type": "file",
-        "md5": "507e9ad872aa03ab3cdfda5a363f7fa7"
-    },
-    {
-        "path": "/amp/usaha-perkebunan-tanaman-hias.html",
-        "type": "file",
-        "md5": "c8e8d6ff8334e91e98f73285ed1cdb27"
-    },
-    {
-        "path": "amp/usaha-property",
+        "path": "amp/prospek-usaha-bunga-potong-dan-tanaman-hias",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/usaha-property/index.html",
+        "path": "/amp/prospek-usaha-bunga-potong-dan-tanaman-hias/index.html",
         "type": "file",
-        "md5": "30f61ad576227e430b51df34d06ab6b8"
+        "md5": "3e123a9f3445ce8ec06582a9e67650e7"
     },
     {
-        "path": "/amp/usaha-supermarket-dan-minimarket.html",
-        "type": "file",
-        "md5": "33890a8384be89ff9d0cf1eb75c81b9b"
+        "path": "amp/prospek-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/amp/waralaba-franchise.html",
+        "path": "/amp/prospek-usaha-rumah-kost/index.html",
         "type": "file",
-        "md5": "f76480496e7d2de03aefb84c1f4cb01f"
+        "md5": "7defa2149cb3a9a655bfc1ec9740f920"
     },
     {
-        "path": "/amp/what-are-the-most-harmful-forms-of-gambling.html",
-        "type": "file",
-        "md5": "47fe0d09bf9445667cd6bb295175273b"
+        "path": "amp/rekomendasi-khusus-industri-gula",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisa-finansial-usaha-bengkel-motor.html",
+        "path": "/amp/rekomendasi-khusus-industri-gula/index.html",
         "type": "file",
-        "md5": "040f8062f6c0a2390f2fddc540aa3335"
+        "md5": "a829a5522660ccfd9547410da1d27880"
     },
     {
-        "path": "analisa-finansial-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "125cb6fccf63519bbc89b39206c78c8d"
+        "path": "amp/resiko-bisnis-usaha-pengembang",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisa-finansial-usaha-rumah-kost.html",
+        "path": "/amp/resiko-bisnis-usaha-pengembang/index.html",
         "type": "file",
-        "md5": "b33291fdd076259558bde20e6c3a4237"
+        "md5": "310dd2ffff3eb7bbd3b17c8fbc2e996e"
     },
     {
-        "path": "analisa-keuangan-usaha-furniture.html",
-        "type": "file",
-        "md5": "bccfe1d93f0927c65fa53b89ed80bb0b"
+        "path": "amp/resiko-bisnis-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisa-laporan-keuangan-usaha-waralaba-franchise.html",
+        "path": "/amp/resiko-bisnis-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "3d48ef43f7535eaf098b4104042cf78f"
+        "md5": "70e206463fdbeaa16e8aae347a5eca5e"
     },
     {
-        "path": "analisa-peluang-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "51fdf1c7f7d2e34b3f6ce4ff76b3a0ee"
+        "path": "amp/resiko-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisa-prospek-usaha-bengkel-motor.html",
+        "path": "/amp/resiko-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "7d1aa93a848ebb319d2f716c90bdf3c9"
+        "md5": "e921e1de1d26a7291367875d120863a7"
     },
     {
-        "path": "analisa-resiko-usaha-supermarket-atau-minimarket.html",
-        "type": "file",
-        "md5": "a994b4dd98d0e5a2cb89187200e80025"
+        "path": "amp/resiko-usaha-bunga-potong",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisa-usaha-kost-kostan.html",
+        "path": "/amp/resiko-usaha-bunga-potong/index.html",
         "type": "file",
-        "md5": "dcd6aa7e17185c3f5ad72778d00ea447"
+        "md5": "87566c11430b02db0a84b3d003d42eeb"
     },
     {
-        "path": "analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat.html",
-        "type": "file",
-        "md5": "ef865b56f2c2b208e37462f88638a00a"
+        "path": "amp/sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "analisis-perkembangan-pasar-gula-dunia.html",
+        "path": "/amp/sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging/index.html",
         "type": "file",
-        "md5": "ecb0837bfd7a4e5adfb279dbea73741b"
+        "md5": "95cad2741d16432cd795e530e48b0106"
     },
     {
-        "path": "analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang.html",
-        "type": "file",
-        "md5": "d1a4f99ad539a197b178f4696b2ad6ef"
+        "path": "amp/strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "aspek-legalitas-usaha-waralaba-franchise.html",
+        "path": "/amp/strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu/index.html",
         "type": "file",
-        "md5": "ebe1321a5c1da7a7b3aa88ed6c80190a"
+        "md5": "08660548c7b33a3f3836c8d9a638e213"
     },
     {
-        "path": "aspek-manajerial-usaha-supermarket-dan-minimarket.html",
+        "path": "amp/strategi-usaha-industri-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/strategi-usaha-industri-furniture/index.html",
         "type": "file",
-        "md5": "e4b9669722efe62ba0a4dd3a880080d4"
+        "md5": "a64ca225789c168fe412ae88684f6096"
+    },
+    {
+        "path": "amp/sumber-bahan-baku-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/sumber-bahan-baku-usaha-furniture/index.html",
+        "type": "file",
+        "md5": "bb37ca06e70eb2e93d792a9526ec4a59"
+    },
+    {
+        "path": "amp/syarat-pendirian-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/syarat-pendirian-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "d721c6e236b57620f7bef48227651d6d"
+    },
+    {
+        "path": "amp/syarat-pendirian-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/syarat-pendirian-usaha-bunga-dan-tanaman-hias/index.html",
+        "type": "file",
+        "md5": "9b7ad1f7ac4a887e63e103f2fe876029"
+    },
+    {
+        "path": "amp/syarat-pendirian-usaha-rumah-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/syarat-pendirian-usaha-rumah-kost-kostan/index.html",
+        "type": "file",
+        "md5": "fb647e06fec182cfaa89132d4bd2f8bf"
+    },
+    {
+        "path": "amp/tebu-dan-industri-gula-di-indonesia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tebu-dan-industri-gula-di-indonesia/index.html",
+        "type": "file",
+        "md5": "1664f73acedd7a91cc2c41a758d2ecd6"
+    },
+    {
+        "path": "amp/teknik-budidaya-bunga-mawar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/teknik-budidaya-bunga-mawar/index.html",
+        "type": "file",
+        "md5": "f51c10a3d76598b7158813e2aa5ececf"
+    },
+    {
+        "path": "amp/teknik-budidaya-daun-asparagus-bintang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/teknik-budidaya-daun-asparagus-bintang/index.html",
+        "type": "file",
+        "md5": "7dcbbe492be90f6a3533897babbf9e4a"
+    },
+    {
+        "path": "amp/teknik-dan-cara-usaha-home-industri-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/teknik-dan-cara-usaha-home-industri-furniture/index.html",
+        "type": "file",
+        "md5": "c73ebf223f8fb550d8caf87fd23d7f9c"
+    },
+    {
+        "path": "amp/teknik-mengelola-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/teknik-mengelola-usaha-rumah-kost/index.html",
+        "type": "file",
+        "md5": "e119e00cf50532f749af3fdef0897cb6"
+    },
+    {
+        "path": "amp/teknik-pemasaran-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/teknik-pemasaran-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "9ca294431b83d2a68c5975896eab1dd3"
+    },
+    {
+        "path": "amp/tepung-mocaf",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tepung-mocaf/index.html",
+        "type": "file",
+        "md5": "4554334a69ac77d4f35a7e92a092e3ee"
+    },
+    {
+        "path": "amp/terms-and-conditions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/terms-and-conditions/index.html",
+        "type": "file",
+        "md5": "ef0ab0fb73cfd64e2de520c84e5faa16"
+    },
+    {
+        "path": "amp/usaha-budidaya-bunga-kertas-zinnia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-budidaya-bunga-kertas-zinnia/index.html",
+        "type": "file",
+        "md5": "d138048714cc844a2159fea259e42c02"
+    },
+    {
+        "path": "amp/usaha-budidaya-jamur-merang-volvariella-volvaceae",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-budidaya-jamur-merang-volvariella-volvaceae/index.html",
+        "type": "file",
+        "md5": "ee2d982a0b42239cf1e1f85cceed447a"
+    },
+    {
+        "path": "amp/usaha-budidaya-jamur-tiram",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-budidaya-jamur-tiram/index.html",
+        "type": "file",
+        "md5": "a1b72a40d5c35567dd6c180aeb13b1d0"
+    },
+    {
+        "path": "amp/usaha-budidaya-tanaman-tebu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-budidaya-tanaman-tebu/index.html",
+        "type": "file",
+        "md5": "a2c713620ad9f9f217e3720a6f4c2f0f"
+    },
+    {
+        "path": "amp/usaha-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-kost-kostan/index.html",
+        "type": "file",
+        "md5": "f6073f52bf4473d9f1d355951af638ff"
+    },
+    {
+        "path": "amp/usaha-pengembang-pusat-perbelanjaan-mall",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-pengembang-pusat-perbelanjaan-mall/index.html",
+        "type": "file",
+        "md5": "d78a138d9ad06d94d869286820904114"
+    },
+    {
+        "path": "amp/usaha-perkebunan-tanaman-hias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-perkebunan-tanaman-hias/index.html",
+        "type": "file",
+        "md5": "c8525b4d991dca8e4c520e0b4d099086"
+    },
+    {
+        "path": "amp/usaha-supermarket-dan-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/usaha-supermarket-dan-minimarket/index.html",
+        "type": "file",
+        "md5": "18e3b5092fe26643500b7f597a3abfa7"
+    },
+    {
+        "path": "amp/waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "436eaab5ba92f690fcc13262c7f352fb"
+    },
+    {
+        "path": "amp/what-are-the-most-harmful-forms-of-gambling",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/what-are-the-most-harmful-forms-of-gambling/index.html",
+        "type": "file",
+        "md5": "5e7bb379d4a567b150b89451ac56b6b8"
+    },
+    {
+        "path": "analisa-finansial-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-finansial-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "16fd33f1986bf0d9fb58305857c79666"
+    },
+    {
+        "path": "analisa-finansial-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-finansial-usaha-bunga-dan-tanaman-hias/index.html",
+        "type": "file",
+        "md5": "4bc9063e9447736782d092681e9a4f51"
+    },
+    {
+        "path": "analisa-finansial-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-finansial-usaha-rumah-kost/index.html",
+        "type": "file",
+        "md5": "73aaff56e1d7cff332db7a483fc5bc0e"
+    },
+    {
+        "path": "analisa-keuangan-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-keuangan-usaha-furniture/index.html",
+        "type": "file",
+        "md5": "ad19beba341fdb4470725744c2958617"
+    },
+    {
+        "path": "analisa-laporan-keuangan-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-laporan-keuangan-usaha-waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "44a8ba2161584e1fa1cbc91e32428763"
+    },
+    {
+        "path": "analisa-peluang-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-peluang-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "f284df9b7e2900e2b075f8b7ef49ecd8"
+    },
+    {
+        "path": "analisa-prospek-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-prospek-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "4a11515bf060b2b1c198880f7d4c784b"
+    },
+    {
+        "path": "analisa-resiko-usaha-supermarket-atau-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-resiko-usaha-supermarket-atau-minimarket/index.html",
+        "type": "file",
+        "md5": "a29875053d9a2d7db87dc513e00ab703"
+    },
+    {
+        "path": "analisa-usaha-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisa-usaha-kost-kostan/index.html",
+        "type": "file",
+        "md5": "4afbb145700653de3fb82ae1a25e69f0"
+    },
+    {
+        "path": "analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisis-harga-pokok-produksi-dalam-penetapan-harga-jual-konsentrat/index.html",
+        "type": "file",
+        "md5": "41df37d0451553d250c63d2faab7548e"
+    },
+    {
+        "path": "analisis-perkembangan-pasar-gula-dunia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisis-perkembangan-pasar-gula-dunia/index.html",
+        "type": "file",
+        "md5": "1ab994418666cf439059991f273a7f8d"
+    },
+    {
+        "path": "analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/analisis-swot-pengadaan-bahan-baku-pakan-konsentrat-sapi-perah-di-koperasi-sae-pujon-kabupaten-malang/index.html",
+        "type": "file",
+        "md5": "177feb18f52dcda0d1587db91e19c594"
+    },
+    {
+        "path": "aspek-legalitas-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aspek-legalitas-usaha-waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "1db6cff298fe16cac2227fb4ac7ac575"
+    },
+    {
+        "path": "aspek-manajerial-usaha-supermarket-dan-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/aspek-manajerial-usaha-supermarket-dan-minimarket/index.html",
+        "type": "file",
+        "md5": "2820ba32df57d7d3fb22718cb009183d"
     },
     {
         "path": "assets",
@@ -1222,7 +1967,7 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "25969f196eb378359afee110e828bd0f"
+        "md5": "a6ed28d136fd028458f58f777da2d720"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -1232,7 +1977,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "157abd264eca3626ca0c072e4c050dd0"
+        "md5": "de0387b76078b69347bb85453d913eeb"
     },
     {
         "path": "assets/js",
@@ -1247,7 +1992,7 @@
     {
         "path": "/assets/js/lazysizes.min.js",
         "type": "file",
-        "md5": "dc4b666bb3324aea4ead22e26059c761"
+        "md5": "2b604cc54166522c287f131ead6e4d44"
     },
     {
         "path": "/assets/js/photoswipe-ui-default.min.js",
@@ -1305,174 +2050,499 @@
         "md5": "8f3b21cda7e2e65dbd896aecac3a6d89"
     },
     {
-        "path": "autonomic-nervous-system-changes-during-reiki-treatment.html",
-        "type": "file",
-        "md5": "9e64b848f46a8ddab3194eb84fd86c19"
-    },
-    {
-        "path": "bisnis-and-keuangan",
+        "path": "autonomic-nervous-system-changes-during-reiki-treatment",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/bisnis-and-keuangan/index.html",
+        "path": "/autonomic-nervous-system-changes-during-reiki-treatment/index.html",
         "type": "file",
-        "md5": "f5b50887e91995e357dd20b9ead048fb"
+        "md5": "04743467e56930012f47e65642775b1c"
     },
     {
-        "path": "budidaya-bambu.html",
-        "type": "file",
-        "md5": "5dd2579bfdf1dcfda643861dfab4c764"
-    },
-    {
-        "path": "budidaya-bunga-krisan-potong.html",
-        "type": "file",
-        "md5": "fbb309a8f6e0c3eadb1e160a0fe2c86c"
-    },
-    {
-        "path": "budidaya-ikan-baung.html",
-        "type": "file",
-        "md5": "26366d7e80f7bf8eca50082d3c6790e0"
-    },
-    {
-        "path": "budidaya-jamur-shiitake.html",
-        "type": "file",
-        "md5": "664ca0bb775ccc0650a73273ea4cbbe5"
-    },
-    {
-        "path": "budidaya-krisan-pot.html",
-        "type": "file",
-        "md5": "fe86ba67a79bd1ea5ef3894bf790e72c"
-    },
-    {
-        "path": "budidaya-tanaman-tebu-saccharum-officinarum.html",
-        "type": "file",
-        "md5": "8ccea4aa8124b123a37efb152906ac62"
-    },
-    {
-        "path": "bunga-zantedeschia.html",
-        "type": "file",
-        "md5": "911f08d5a37073c54069d2daad5cde65"
-    },
-    {
-        "path": "cacing-sutra.html",
-        "type": "file",
-        "md5": "b5ed8f430dce7372634318c4e6540ba6"
-    },
-    {
-        "path": "cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati.html",
-        "type": "file",
-        "md5": "34d75de84006774d2c82ca2e699f4c49"
-    },
-    {
-        "path": "cara-membuat-abon.html",
-        "type": "file",
-        "md5": "7587bd993724697fc87a3bd485d759f0"
-    },
-    {
-        "path": "cara-membuat-chutney-tomat.html",
-        "type": "file",
-        "md5": "e09c0a3064a92c0083c3cf362b6676a5"
-    },
-    {
-        "path": "cara-memenangkan-negosiasi.html",
-        "type": "file",
-        "md5": "ff3c5ac624fbae0714860d9ef022d223"
-    },
-    {
-        "path": "cara-ternak-kelinci.html",
-        "type": "file",
-        "md5": "344217fef52b8822eeae7ffe6cc61601"
-    },
-    {
-        "path": "contact-us.html",
-        "type": "file",
-        "md5": "0f0c9e780191453a97c41eaf96c63852"
-    },
-    {
-        "path": "dasar-pengelolaan-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "e0acc020a606a2d96be5b163b95fad64"
-    },
-    {
-        "path": "disclaimer.html",
-        "type": "file",
-        "md5": "b390c8f2fe50b35c913811c42b690209"
-    },
-    {
-        "path": "drinking-water-source-deterioration.html",
-        "type": "file",
-        "md5": "a93486c1a9e88b5fbbd2f5aded62c774"
-    },
-    {
-        "path": "electroacupuncture-for-diabetic-gastroparesis.html",
-        "type": "file",
-        "md5": "b4a95c5ef0c3f387f65fbac1d19daebc"
-    },
-    {
-        "path": "english-journal",
+        "path": "budidaya-bambu",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/english-journal/index.html",
+        "path": "/budidaya-bambu/index.html",
         "type": "file",
-        "md5": "ddb1463867a3aab380962310a6e30aed"
+        "md5": "aef333864af0042f17337d9ab4aadf27"
     },
     {
-        "path": "faktor-keberhasilan-usaha-furniture.html",
-        "type": "file",
-        "md5": "854beae61429ffcca8b23a9bb4cfb71e"
+        "path": "budidaya-bunga-krisan-potong",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor.html",
+        "path": "/budidaya-bunga-krisan-potong/index.html",
         "type": "file",
-        "md5": "609e558ce00435a1fe29e6444fc4c794"
+        "md5": "e24d370c0f6266324ddb74f9f9425552"
     },
     {
-        "path": "faktor-resiko-dan-keberhasilan-usaha-rumah-kost.html",
+        "path": "budidaya-ikan-baung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/budidaya-ikan-baung/index.html",
         "type": "file",
-        "md5": "d49830a1a51157dcc400ca015df5c912"
+        "md5": "44dcef19a13b82a6c5b931256c82b86a"
+    },
+    {
+        "path": "budidaya-jamur-shiitake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/budidaya-jamur-shiitake/index.html",
+        "type": "file",
+        "md5": "19c0d04860942a918e02ef89da4f3af1"
+    },
+    {
+        "path": "budidaya-krisan-pot",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/budidaya-krisan-pot/index.html",
+        "type": "file",
+        "md5": "d6496f3c5b31354844e3ead04afe2379"
+    },
+    {
+        "path": "budidaya-tanaman-tebu-saccharum-officinarum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/budidaya-tanaman-tebu-saccharum-officinarum/index.html",
+        "type": "file",
+        "md5": "f214f45d3b7ff966834702b9f966936d"
+    },
+    {
+        "path": "bunga-zantedeschia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bunga-zantedeschia/index.html",
+        "type": "file",
+        "md5": "75cc004501993ce5bebe79becd6e5d56"
+    },
+    {
+        "path": "cacing-sutra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cacing-sutra/index.html",
+        "type": "file",
+        "md5": "78f6a935b316dfeca4091c93f2400b96"
+    },
+    {
+        "path": "cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cangkok-dan-penanaman-batang-induk-tanaman-bunga-melati/index.html",
+        "type": "file",
+        "md5": "dc3b5a289cb6efb715243dcf50f448b1"
+    },
+    {
+        "path": "cara-membuat-abon",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cara-membuat-abon/index.html",
+        "type": "file",
+        "md5": "eac593f30e86a9c2cbc6e131da0b204a"
+    },
+    {
+        "path": "cara-membuat-chutney-tomat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cara-membuat-chutney-tomat/index.html",
+        "type": "file",
+        "md5": "5a18b738d7cf65fc44ea820ce9069018"
+    },
+    {
+        "path": "cara-memenangkan-negosiasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cara-memenangkan-negosiasi/index.html",
+        "type": "file",
+        "md5": "5afd1d13c8034490657e52d2fbd6116b"
+    },
+    {
+        "path": "cara-ternak-kelinci",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cara-ternak-kelinci/index.html",
+        "type": "file",
+        "md5": "99e337e6403f2a51c156599714d71be8"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "7d1b67d3ca35c96e3bf937b92f150a94"
+    },
+    {
+        "path": "dasar-pengelolaan-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dasar-pengelolaan-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "2045fc7eb031c90eaea8397a3ac90000"
+    },
+    {
+        "path": "disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/disclaimer/index.html",
+        "type": "file",
+        "md5": "9fd017d6e347e55673ab0942803b162b"
+    },
+    {
+        "path": "drinking-water-source-deterioration",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/drinking-water-source-deterioration/index.html",
+        "type": "file",
+        "md5": "d07cced2c15e5ac0b4c120d8f6a3c355"
+    },
+    {
+        "path": "electroacupuncture-for-diabetic-gastroparesis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/electroacupuncture-for-diabetic-gastroparesis/index.html",
+        "type": "file",
+        "md5": "b425a0e0cf3bdb459cb25e3b5b3f228f"
+    },
+    {
+        "path": "ensiklopedia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/bisnis-and-keuangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/bisnis-and-keuangan/index.html",
+        "type": "file",
+        "md5": "ab2fcdb59712b86a6237a0c477a3ff13"
+    },
+    {
+        "path": "ensiklopedia/english-journal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/english-journal/index.html",
+        "type": "file",
+        "md5": "4970cad81ff7809557483c47ccee2b6a"
+    },
+    {
+        "path": "ensiklopedia/franchise-waralaba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/franchise-waralaba/index.html",
+        "type": "file",
+        "md5": "c7020cb5c2af5f54b93b82e9f4ad4a02"
+    },
+    {
+        "path": "ensiklopedia/home-industri",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/home-industri/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/home-industri/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/home-industri/halaman/2/index.html",
+        "type": "file",
+        "md5": "ce5502e86cb31d971129ca17141fdcfc"
+    },
+    {
+        "path": "/ensiklopedia/home-industri/index.html",
+        "type": "file",
+        "md5": "da722d35cdcca5b52b5b8854180255f3"
+    },
+    {
+        "path": "ensiklopedia/jasa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/jasa/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/jasa/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/jasa/halaman/2/index.html",
+        "type": "file",
+        "md5": "5681483295d4202f27d4d1a3f002d497"
+    },
+    {
+        "path": "ensiklopedia/jasa/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/jasa/halaman/3/index.html",
+        "type": "file",
+        "md5": "b0468d57431bae195a2f19ebe54abee2"
+    },
+    {
+        "path": "/ensiklopedia/jasa/index.html",
+        "type": "file",
+        "md5": "cbfe6d7e9b66e387c3af5280cb50ba4f"
+    },
+    {
+        "path": "ensiklopedia/perdagangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/perdagangan/index.html",
+        "type": "file",
+        "md5": "658c570e699e96c35972d70d2869da19"
+    },
+    {
+        "path": "ensiklopedia/perikanan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/perikanan/index.html",
+        "type": "file",
+        "md5": "e01b08af9b31b4761931d43b3dfd59da"
+    },
+    {
+        "path": "ensiklopedia/perkebunan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/perkebunan/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/perkebunan/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/perkebunan/halaman/2/index.html",
+        "type": "file",
+        "md5": "9051cdc63797c68004a3e86781fbaa2d"
+    },
+    {
+        "path": "ensiklopedia/perkebunan/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/perkebunan/halaman/3/index.html",
+        "type": "file",
+        "md5": "4d609f693cbc4e992390ea3b867b27f4"
+    },
+    {
+        "path": "ensiklopedia/perkebunan/halaman/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/perkebunan/halaman/4/index.html",
+        "type": "file",
+        "md5": "16bd099656c9a869415062a61d4f66fb"
+    },
+    {
+        "path": "/ensiklopedia/perkebunan/index.html",
+        "type": "file",
+        "md5": "867c11462f8b898bc07164f76bc52aef"
+    },
+    {
+        "path": "ensiklopedia/pertanian",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/pertanian/index.html",
+        "type": "file",
+        "md5": "e8da1662d6f546d706afe286d7b70a90"
+    },
+    {
+        "path": "ensiklopedia/peternakan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/peternakan/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "ensiklopedia/peternakan/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/peternakan/halaman/2/index.html",
+        "type": "file",
+        "md5": "4e061d8fc47952aa4d035134b98aa272"
+    },
+    {
+        "path": "/ensiklopedia/peternakan/index.html",
+        "type": "file",
+        "md5": "a5d38095404d271b477cf2ba2f1434fc"
+    },
+    {
+        "path": "ensiklopedia/teknologi-pangan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/teknologi-pangan/index.html",
+        "type": "file",
+        "md5": "6a983d7029b39fe50f6a249534d84f15"
+    },
+    {
+        "path": "ensiklopedia/teknologi-tepat-guna",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/teknologi-tepat-guna/index.html",
+        "type": "file",
+        "md5": "e47e482a97f137db36a58d7fffb231db"
+    },
+    {
+        "path": "ensiklopedia/usaha-property",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ensiklopedia/usaha-property/index.html",
+        "type": "file",
+        "md5": "73b4138bd4c42e27f2e7bc3162e5dfb9"
+    },
+    {
+        "path": "faktor-keberhasilan-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faktor-keberhasilan-usaha-furniture/index.html",
+        "type": "file",
+        "md5": "9563b35ddd39840ec2157ea7c72c6b4e"
+    },
+    {
+        "path": "faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faktor-resiko-dan-faktor-keberhasilan-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "51dd75b925b1e4f1b8367b79b7c6944c"
+    },
+    {
+        "path": "faktor-resiko-dan-keberhasilan-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faktor-resiko-dan-keberhasilan-usaha-rumah-kost/index.html",
+        "type": "file",
+        "md5": "55b25a1e7085433a2a9749a2bd912238"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "94528c8c0fcc50c271c6df76e34a7c1d"
+        "md5": "b1045d5d26ec06f7b0c21a83e16cbe69"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5a80c41599ab5bcaa42b23c353af6385"
+        "md5": "480bba2aefdba85de5bfb691a5456bb5"
     },
     {
-        "path": "franchise-waralaba",
+        "path": "gambaran-umum-usaha-bengkel-motor",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/franchise-waralaba/index.html",
+        "path": "/gambaran-umum-usaha-bengkel-motor/index.html",
         "type": "file",
-        "md5": "6dc0aba5d9a5c681ef17419882127ac6"
+        "md5": "485cd9734c56f2bf215facf364f0f1af"
     },
     {
-        "path": "gambaran-umum-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "d334c0c72f4df365bbc7e42b2dc3d38a"
+        "path": "gambaran-umum-usaha-jasa-transportasi",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "gambaran-umum-usaha-jasa-transportasi.html",
+        "path": "/gambaran-umum-usaha-jasa-transportasi/index.html",
         "type": "file",
-        "md5": "944836ff4e6a4c2507be585c112d8dad"
+        "md5": "2bd2ce9b6bd5af8c00f57056cd956361"
     },
     {
-        "path": "gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison.html",
-        "type": "file",
-        "md5": "a1ed03e19ac6404fa5116d260903422d"
+        "path": "gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "game-dalam-bernegosiasi.html",
+        "path": "/gambling-across-cultures-mapping-worldwide-occurrence-and-learning-from-ethnographic-comparison/index.html",
         "type": "file",
-        "md5": "fdbf6722245aee3fa6e5731b44e138c6"
+        "md5": "b9010740beeb579db22ac64221ec36bb"
+    },
+    {
+        "path": "game-dalam-bernegosiasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/game-dalam-bernegosiasi/index.html",
+        "type": "file",
+        "md5": "1677d133e85cbab56e50ebb8225be656"
     },
     {
         "path": "halaman",
@@ -1487,7 +2557,7 @@
     {
         "path": "/halaman/10/index.html",
         "type": "file",
-        "md5": "d5639b7d1a9320c9bf25a5c97dbb6f95"
+        "md5": "1f3bf31ee1415ffba7480c791f5bb433"
     },
     {
         "path": "halaman/11",
@@ -1497,7 +2567,7 @@
     {
         "path": "/halaman/11/index.html",
         "type": "file",
-        "md5": "24e3339800650c0894ad76248bad9935"
+        "md5": "12c6f3876bd143f5bbe1ba9cd491e702"
     },
     {
         "path": "halaman/12",
@@ -1507,7 +2577,7 @@
     {
         "path": "/halaman/12/index.html",
         "type": "file",
-        "md5": "4105cfae2a0ebcd0c5b2451a885a6f3d"
+        "md5": "2f2073cd2b3b92bfe74b47e43373630d"
     },
     {
         "path": "halaman/13",
@@ -1517,7 +2587,7 @@
     {
         "path": "/halaman/13/index.html",
         "type": "file",
-        "md5": "b7dbe1f106bf3631a076c541027aa85a"
+        "md5": "6812e065625e152047d2b6e0fd5cc734"
     },
     {
         "path": "halaman/2",
@@ -1527,7 +2597,7 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "e6fc65b0196f621b5f038fc9c3431a7d"
+        "md5": "df0ff3759cac517ee97ec892b30cba6d"
     },
     {
         "path": "halaman/3",
@@ -1537,7 +2607,7 @@
     {
         "path": "/halaman/3/index.html",
         "type": "file",
-        "md5": "6a568bab6c901a403cc2e63dad1fba30"
+        "md5": "7904e6aaa3599fd1be7b4a518291ee9f"
     },
     {
         "path": "halaman/4",
@@ -1547,7 +2617,7 @@
     {
         "path": "/halaman/4/index.html",
         "type": "file",
-        "md5": "ef05bd4147a9aec5c50f9de17c0e4e45"
+        "md5": "829c2f4ec783bc26957f4b7bfc78ee46"
     },
     {
         "path": "halaman/5",
@@ -1557,7 +2627,7 @@
     {
         "path": "/halaman/5/index.html",
         "type": "file",
-        "md5": "8ccb00e993c2a2a694d72cb1f61cd7fa"
+        "md5": "3a82fa963cbf1f4f56cd1744939cfc5b"
     },
     {
         "path": "halaman/6",
@@ -1567,7 +2637,7 @@
     {
         "path": "/halaman/6/index.html",
         "type": "file",
-        "md5": "5cb257e4a98d2e4f536ca91f1417445e"
+        "md5": "3a503c4e1e41cf6d8f128f4a6391e15f"
     },
     {
         "path": "halaman/7",
@@ -1577,7 +2647,7 @@
     {
         "path": "/halaman/7/index.html",
         "type": "file",
-        "md5": "08897d8f488f798e2e2aaa99a5e5965d"
+        "md5": "b48438ab32ddcc408e22fa302bf222f7"
     },
     {
         "path": "halaman/8",
@@ -1587,7 +2657,7 @@
     {
         "path": "/halaman/8/index.html",
         "type": "file",
-        "md5": "d27b3c3a1545dc9f44b99a5fd6ea73d2"
+        "md5": "ec72d7e0595b7612774e8a192bb5cc5a"
     },
     {
         "path": "halaman/9",
@@ -1597,137 +2667,142 @@
     {
         "path": "/halaman/9/index.html",
         "type": "file",
-        "md5": "d92c8368b1e15c92dd6e56bb55e609ed"
+        "md5": "0e620e4a2d66b989cf0ef3c128bbc74e"
     },
     {
-        "path": "home-industri",
+        "path": "ikan-baung",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "home-industri/halaman",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "home-industri/halaman/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/home-industri/halaman/2/index.html",
+        "path": "/ikan-baung/index.html",
         "type": "file",
-        "md5": "21c40ccd7696f444454793ea2ab9b249"
-    },
-    {
-        "path": "/home-industri/index.html",
-        "type": "file",
-        "md5": "856abdcfcae6f0750bbfa32600a763dd"
-    },
-    {
-        "path": "ikan-baung.html",
-        "type": "file",
-        "md5": "d28ef32991d6316b4625b3f8f739d2b1"
+        "md5": "f72ad5b581393667932f735e732e6ba3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ac9f0f2e78e3891f0b949c21067af06a"
+        "md5": "2c48082c067c6ab6921b41ef838a78a5"
     },
     {
-        "path": "infrastruktur-usaha-tani-bunga-potong-2.html",
-        "type": "file",
-        "md5": "ed4534ff1a98c13a0e85b192a996092c"
-    },
-    {
-        "path": "jasa",
+        "path": "infrastruktur-usaha-tani-bunga-potong-2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "jasa/halaman",
+        "path": "/infrastruktur-usaha-tani-bunga-potong-2/index.html",
+        "type": "file",
+        "md5": "c8dfe01a1e8f5a03bde707971ebb391d"
+    },
+    {
+        "path": "kajian-prospek-usaha-perkebunan-bunga-potong",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "jasa/halaman/2",
+        "path": "/kajian-prospek-usaha-perkebunan-bunga-potong/index.html",
+        "type": "file",
+        "md5": "7f743054f5f716b43337afff6c50aeb9"
+    },
+    {
+        "path": "karakteristik-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/jasa/halaman/2/index.html",
+        "path": "/karakteristik-industri-furniture/index.html",
         "type": "file",
-        "md5": "4dc54186cbb30741aeb08ea26c454f3b"
+        "md5": "7d9f893795dff39e00390fd11af1daf1"
     },
     {
-        "path": "jasa/halaman/3",
+        "path": "kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/jasa/halaman/3/index.html",
+        "path": "/kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula/index.html",
         "type": "file",
-        "md5": "ad365ee53e69503a5a89451f6c58d00d"
+        "md5": "5428fd558e77e7972cc2468d0bf9e0a8"
     },
     {
-        "path": "/jasa/index.html",
-        "type": "file",
-        "md5": "b359abdb30d174594d9bee94be62092c"
+        "path": "kebijaksanaan-pemerintah-dalam-industri-furniture",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "kajian-prospek-usaha-perkebunan-bunga-potong.html",
+        "path": "/kebijaksanaan-pemerintah-dalam-industri-furniture/index.html",
         "type": "file",
-        "md5": "8c85e3982bfea0f5f5aeec55cec9088f"
+        "md5": "279ba9284fdbde6ffa1a3d215a4c436f"
     },
     {
-        "path": "karakteristik-industri-furniture.html",
-        "type": "file",
-        "md5": "a750e4edb2c9410e31243c928b059a7b"
+        "path": "ketersediaan-benih-bibit-bunga-potong",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "kebijakan-pemerintah-di-bidang-tebu-dan-industri-gula.html",
+        "path": "/ketersediaan-benih-bibit-bunga-potong/index.html",
         "type": "file",
-        "md5": "710b03aa0bdb8594ffea2eaa3c0c4e53"
+        "md5": "5316fc6126908a7cb89d54ec7768ecd1"
     },
     {
-        "path": "kebijaksanaan-pemerintah-dalam-industri-furniture.html",
-        "type": "file",
-        "md5": "19bcdf35b444bca2a9f443b9fd568eed"
+        "path": "keunggulan-dan-kelebihan-lele-mutiara",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "ketersediaan-benih-bibit-bunga-potong.html",
+        "path": "/keunggulan-dan-kelebihan-lele-mutiara/index.html",
         "type": "file",
-        "md5": "c65f20001e11444ab4dc32e3ecd026ba"
+        "md5": "b7d12c6f19a305a0011afcbb1ada17e6"
     },
     {
-        "path": "keunggulan-dan-kelebihan-lele-mutiara.html",
-        "type": "file",
-        "md5": "724c7268b3035d4762bdea269fe88037"
+        "path": "kondisi-industri-furniture",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "kondisi-industri-furniture.html",
+        "path": "/kondisi-industri-furniture/index.html",
         "type": "file",
-        "md5": "12431d7c735c6d6bd72ac8af352715c0"
+        "md5": "eba88728ba57afb450add835f82bf499"
     },
     {
-        "path": "kondisi-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "b9128c5344dadd077cfe47256c730c04"
+        "path": "kondisi-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal.html",
+        "path": "/kondisi-usaha-bunga-dan-tanaman-hias/index.html",
         "type": "file",
-        "md5": "8838b39bcc90e71e343a92822b661aa7"
+        "md5": "ff6f1aa9e36ddee76f6e6867b71e54f1"
     },
     {
-        "path": "lele-mutiara.html",
-        "type": "file",
-        "md5": "9de796254036f65cd2d91e94dfecd839"
+        "path": "kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "mastering-negosiasi-bisnis.html",
+        "path": "/kriopreservasi-premordial-germ-cell-untuk-konservasi-sumber-daya-genetik-unggas-lokal/index.html",
         "type": "file",
-        "md5": "1efbf9bb26192c8342c63df75a1e55d4"
+        "md5": "ca3d47f51a24e089a2377b9d22a1cde3"
+    },
+    {
+        "path": "lele-mutiara",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lele-mutiara/index.html",
+        "type": "file",
+        "md5": "8413595ed8115fca7dbb90ff45b1c8b0"
+    },
+    {
+        "path": "mastering-negosiasi-bisnis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mastering-negosiasi-bisnis/index.html",
+        "type": "file",
+        "md5": "7a25d90951e89f21700b4fc8a01bcf72"
     },
     {
         "path": "media",
@@ -1788,6 +2863,11 @@
         "path": "/media/posts/1/responsive/privacy-xs.jpg",
         "type": "file",
         "md5": "692d6050e97880c3e6f4803b1fb8e436"
+    },
+    {
+        "path": "/media/posts/1/Thumbs.db",
+        "type": "file",
+        "md5": "e969ad610897c38808d640f7b23d8c81"
     },
     {
         "path": "media/posts/10",
@@ -4990,6 +6070,121 @@
         "md5": "a1f629dcacdd599faafdca2de491649a"
     },
     {
+        "path": "media/posts/130",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/130/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember.jpg",
+        "type": "file",
+        "md5": "021055cf2ebca9c1bc7fda13f2e92cd3"
+    },
+    {
+        "path": "media/posts/130/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-2xl.jpg",
+        "type": "file",
+        "md5": "315f8533ba34499acb32a43d83584432"
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-lg.jpg",
+        "type": "file",
+        "md5": "315f8533ba34499acb32a43d83584432"
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-md.jpg",
+        "type": "file",
+        "md5": "315f8533ba34499acb32a43d83584432"
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-sm.jpg",
+        "type": "file",
+        "md5": "315f8533ba34499acb32a43d83584432"
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-xl.jpg",
+        "type": "file",
+        "md5": "315f8533ba34499acb32a43d83584432"
+    },
+    {
+        "path": "/media/posts/130/responsive/Achmad-Subagio-Fakultas-Pertanian-Universitas-Jember-xs.jpg",
+        "type": "file",
+        "md5": "860dd42d87d3d3c183c9b3587022386e"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-2xl.jpg",
+        "type": "file",
+        "md5": "d61feea8f6abb5d2c6cf3efdcabb0951"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-lg.jpg",
+        "type": "file",
+        "md5": "d61feea8f6abb5d2c6cf3efdcabb0951"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-md.jpg",
+        "type": "file",
+        "md5": "d61feea8f6abb5d2c6cf3efdcabb0951"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-sm.jpg",
+        "type": "file",
+        "md5": "5e47f8ddf43cf3dfc2474b1bfe3dfcdd"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-xl.jpg",
+        "type": "file",
+        "md5": "d61feea8f6abb5d2c6cf3efdcabb0951"
+    },
+    {
+        "path": "/media/posts/130/responsive/singkong-penghasil-mocaf-xs.jpg",
+        "type": "file",
+        "md5": "452790b02b4af2de087592fdb3f9773b"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-2xl.jpg",
+        "type": "file",
+        "md5": "f8769ce0916fd2870d65964bcfcb8baa"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-lg.jpg",
+        "type": "file",
+        "md5": "f8769ce0916fd2870d65964bcfcb8baa"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-md.jpg",
+        "type": "file",
+        "md5": "f8769ce0916fd2870d65964bcfcb8baa"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-sm.jpg",
+        "type": "file",
+        "md5": "fc0e809f40469381ee9b7ea49b3fa35f"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-xl.jpg",
+        "type": "file",
+        "md5": "f8769ce0916fd2870d65964bcfcb8baa"
+    },
+    {
+        "path": "/media/posts/130/responsive/tepung-mocaf-xs.jpg",
+        "type": "file",
+        "md5": "4a2319a8694953c9ea273a86e2c6ac28"
+    },
+    {
+        "path": "/media/posts/130/singkong-penghasil-mocaf.jpg",
+        "type": "file",
+        "md5": "fd50c6853d9850f31c461ca5e72a73c3"
+    },
+    {
+        "path": "/media/posts/130/tepung-mocaf.jpg",
+        "type": "file",
+        "md5": "7a549c8305481d20c23384de3caae172"
+    },
+    {
         "path": "media/posts/14",
         "type": "directory",
         "md5": false
@@ -5368,6 +6563,11 @@
         "path": "/media/posts/2/responsive/tos-xs.jpg",
         "type": "file",
         "md5": "575a1987d50c3005418be9320c04d995"
+    },
+    {
+        "path": "/media/posts/2/Thumbs.db",
+        "type": "file",
+        "md5": "e437b7bf66b48340a7975c56bbaddced"
     },
     {
         "path": "/media/posts/2/tos.jpg",
@@ -7475,6 +8675,11 @@
         "md5": "59fd0adf805311ad7840945fff25f7ff"
     },
     {
+        "path": "/media/posts/4/Thumbs.db",
+        "type": "file",
+        "md5": "2f1a92419196c5f87cafb6d461a18c18"
+    },
+    {
         "path": "media/posts/40",
         "type": "directory",
         "md5": false
@@ -7953,6 +9158,11 @@
         "path": "/media/posts/45/responsive/Gambling-and-Depression-xs.jpg",
         "type": "file",
         "md5": "73f0666b393af75433c371edeff4780b"
+    },
+    {
+        "path": "/media/posts/45/Thumbs.db",
+        "type": "file",
+        "md5": "4e66c6ce86000357c0622d1b5d22362d"
     },
     {
         "path": "media/posts/46",
@@ -13095,19 +14305,14 @@
         "md5": "a2abfc90bf6f765c10a34b59383dbf9f"
     },
     {
-        "path": "/media/website/logo-pustakadunia-kotak-2.ico",
+        "path": "/media/website/iconPustakaDunia.ico",
         "type": "file",
-        "md5": "ae2e8287467a3e57009fb7ebef702513"
+        "md5": "c7b7d68bc7b1f819603aa0476d6e3367"
     },
     {
-        "path": "/media/website/logo-pustakadunia.png",
+        "path": "/media/website/logo1.png",
         "type": "file",
-        "md5": "ea08d3a96c15db2d11c417de37cb521c"
-    },
-    {
-        "path": "/media/website/logo.png",
-        "type": "file",
-        "md5": "670482cd0193b22422b70fbdb72838e3"
+        "md5": "14d6497ed86a7cf783c908c87c3a8d4e"
     },
     {
         "path": "media/website/responsive",
@@ -13120,154 +14325,289 @@
         "md5": "e739f4d392878aac6f9eceeb870a1036"
     },
     {
-        "path": "/media/website/responsive/logo-pustakadunia-xs.png",
+        "path": "/media/website/responsive/logo1-xs.png",
         "type": "file",
-        "md5": "8b5df83f3c661bb8bd5143c7f0a87edb"
+        "md5": "42078ee48715ce1e4316cc30eb608821"
     },
     {
-        "path": "/media/website/responsive/logo-xs.png",
-        "type": "file",
-        "md5": "46359951753283737103fa38e09ce1d6"
+        "path": "membuat-larutan-nutrisi-hidroponik",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "membuat-larutan-nutrisi-hidroponik.html",
+        "path": "/membuat-larutan-nutrisi-hidroponik/index.html",
         "type": "file",
-        "md5": "e2c640daf223eeb88a1831a2c8693dd6"
+        "md5": "9ae2064b54f68f902903dc2aad78cac3"
     },
     {
-        "path": "mengenal-ikan-baung.html",
-        "type": "file",
-        "md5": "7b56101234de7b868c9b81e56c74cec5"
+        "path": "mengenal-ikan-baung",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "mengenal-lele-mutiara.html",
+        "path": "/mengenal-ikan-baung/index.html",
         "type": "file",
-        "md5": "e867d951bb1bc5a8f7b5dcad796500e4"
+        "md5": "243dc5c0795a2305cde1df2bddfe1158"
     },
     {
-        "path": "negosiasi-bisnis-imperatif.html",
-        "type": "file",
-        "md5": "dd9394910604f9bf4ab367cd0c746805"
+        "path": "mengenal-lele-mutiara",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "negosiasi-dengan-win-win-solution.html",
+        "path": "/mengenal-lele-mutiara/index.html",
         "type": "file",
-        "md5": "4b55fa01bf4281d81f45c744337c9941"
+        "md5": "b186234df6aea4e2957c597df78744f2"
     },
     {
-        "path": "operasional-mengelola-bengkel-mobil.html",
-        "type": "file",
-        "md5": "db27d29a26aed8df57b73fc33d2043a5"
+        "path": "negosiasi-bisnis-imperatif",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "panen-dan-pengolahan-hasil-panen-tebu.html",
+        "path": "/negosiasi-bisnis-imperatif/index.html",
         "type": "file",
-        "md5": "056519ae60f1615e2185b6f3abc7eb39"
+        "md5": "25fc60622a8d6910a77b6a264d08321f"
     },
     {
-        "path": "peluang-aneka-usaha-waralaba-franchise.html",
-        "type": "file",
-        "md5": "4c7334adb610358f0b5e74fd7cd6f138"
+        "path": "negosiasi-dengan-win-win-solution",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "peluang-investasi-di-usaha-waralaba-franchise.html",
+        "path": "/negosiasi-dengan-win-win-solution/index.html",
         "type": "file",
-        "md5": "fe8992154ed644821a8cf3f3c45d39b6"
+        "md5": "d328d023a0085698960de9b2e2274189"
     },
     {
-        "path": "peluang-investasi-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "5ba6eb89704b3d933b84e1720679643b"
+        "path": "operasional-mengelola-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "peluang-usaha-bengkel-mobil.html",
+        "path": "/operasional-mengelola-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "4b06f342f8c05d0cf3c038381b5fb4a2"
+        "md5": "44fa600530c2d3a84722fec10bbc49aa"
     },
     {
-        "path": "peluang-usaha-bisnis-gula-tebu.html",
-        "type": "file",
-        "md5": "6da434be63eb105b29fc347b105f1411"
+        "path": "panen-dan-pengolahan-hasil-panen-tebu",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "peluang-usaha-budidaya-bunga-melati.html",
+        "path": "/panen-dan-pengolahan-hasil-panen-tebu/index.html",
         "type": "file",
-        "md5": "e5a4d1a80092624f6a0bbf3f6c5c7725"
+        "md5": "384f7441ed5c7818f8fa2ced10299c62"
     },
     {
-        "path": "peluang-usaha-budidaya-ikan-baung.html",
-        "type": "file",
-        "md5": "6c6ce00d2d67517163f7ace28bb49697"
+        "path": "peluang-aneka-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pemasaran-bunga-potong.html",
+        "path": "/peluang-aneka-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "7228674ed29eb1e1cd30bcbc1dba6b12"
+        "md5": "f7e9d81d21b574affa07101cecac507b"
     },
     {
-        "path": "pemasaran-usaha-produksi-furniture.html",
-        "type": "file",
-        "md5": "70d9a2e9f1c14c9c93fa5887d12092a0"
+        "path": "peluang-investasi-di-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pembuatan-permen-jeli-jamur-tiram.html",
+        "path": "/peluang-investasi-di-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "c71cdd8c56c443fbf8387021824c0a44"
+        "md5": "3873ba392b43aeddde63f39513b0ec97"
     },
     {
-        "path": "penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit.html",
-        "type": "file",
-        "md5": "b7c855c245ae244896c2a68dc45eca75"
+        "path": "peluang-investasi-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat.html",
+        "path": "/peluang-investasi-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "9ab92dbc1af612d455c33dc6c3c7aca2"
+        "md5": "a928ffb204b2c2ac8d0e4e420c3aabe0"
     },
     {
-        "path": "pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong.html",
-        "type": "file",
-        "md5": "aaa43dd22d32c18d6d1ed17f99968913"
+        "path": "peluang-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal.html",
+        "path": "/peluang-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "dd06002e98e084bd7d8073ca5e047c70"
+        "md5": "48724119037ae2176a24a60a1d573ab0"
     },
     {
-        "path": "pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing.html",
-        "type": "file",
-        "md5": "a4526bd491cd3bf575120af11daed9d2"
+        "path": "peluang-usaha-bisnis-gula-tebu",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum.html",
+        "path": "/peluang-usaha-bisnis-gula-tebu/index.html",
         "type": "file",
-        "md5": "267e3143100dfc4e0499a04e70bd1f23"
+        "md5": "6b366234e51fcbeaa9768dfab3b3d545"
     },
     {
-        "path": "pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas.html",
-        "type": "file",
-        "md5": "8d8749c286be887997c5f8f8d63993fa"
+        "path": "peluang-usaha-budidaya-bunga-melati",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "pengemukan-sapi-pfh-peranakan-friesian-holstein.html",
+        "path": "/peluang-usaha-budidaya-bunga-melati/index.html",
         "type": "file",
-        "md5": "81ffbb3366f3bf2193992c97dbd3c8e9"
+        "md5": "0f440923f11fbdea220c4bec5a9a2ab2"
     },
     {
-        "path": "pengertian-jasa-transportasi.html",
-        "type": "file",
-        "md5": "4aeb9f21a51b277b6d71517d28fb60e0"
+        "path": "peluang-usaha-budidaya-ikan-baung",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "penggunaan-tepung-ikan-dalam-pakan-konsentrat.html",
+        "path": "/peluang-usaha-budidaya-ikan-baung/index.html",
         "type": "file",
-        "md5": "8fe461a31e1a4d407bd32800bc379f44"
+        "md5": "a27d7566daa5fe24cc4810b2b5101e6b"
     },
     {
-        "path": "pengolahan-air-gambut-rawa-pasang-surut.html",
+        "path": "pemasaran-bunga-potong",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pemasaran-bunga-potong/index.html",
         "type": "file",
-        "md5": "ae01488b99bae90024b078769f06f52c"
+        "md5": "46a0943f565dc3b7ad243bd6590e212e"
+    },
+    {
+        "path": "pemasaran-usaha-produksi-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pemasaran-usaha-produksi-furniture/index.html",
+        "type": "file",
+        "md5": "4c4447ddf73f4fa99d9475743ca1980b"
+    },
+    {
+        "path": "pembuatan-permen-jeli-jamur-tiram",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pembuatan-permen-jeli-jamur-tiram/index.html",
+        "type": "file",
+        "md5": "9963b71d90ddfcddb3295a023de8a6db"
+    },
+    {
+        "path": "penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penampilan-sapi-bali-jantan-muda-yang-diberikan-ransum-komplit/index.html",
+        "type": "file",
+        "md5": "b81bb77fab184a06b5f9686d3ccd11ee"
+    },
+    {
+        "path": "pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengaruh-pemberian-konsentrat-selama-prapartum-dan-menyusui-terhadap-kinerja-anak-babi-di-peternakan-rakyat/index.html",
+        "type": "file",
+        "md5": "473658dbbc7d2f32b310c626d96e7b07"
+    },
+    {
+        "path": "pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengaruh-pemberian-pakan-konsentrat-dan-urea-molases-blok-umb-terhadap-pertambahan-berat-badan-sapi-potong/index.html",
+        "type": "file",
+        "md5": "c3e248d8385dc310e35fd41ba6e37b2f"
+    },
+    {
+        "path": "pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengaruh-penggunaan-konsentrat-dalam-pakan-berbasis-rumput-panicum-maximum-terhadap-kecernaan-hemiselulosa-dan-selulosa-pada-kambing-lokal/index.html",
+        "type": "file",
+        "md5": "2ed3b5e0fbafff0f194a868c7c798a63"
+    },
+    {
+        "path": "pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengaruh-proporsi-limbah-daun-rami-dalam-konsentrat-pakan-lengkap-terhadap-pertumbuhan-kambing/index.html",
+        "type": "file",
+        "md5": "b8678ef91286a27a42e97e88a298c5c8"
+    },
+    {
+        "path": "pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengaruh-tingkat-pemberian-konsentrat-terhadap-daya-cerna-bahan-kering-dan-protein-kasar-ransum-pada-sapi-bali-jantan-yang-mendapatkan-rumput-raja-pennisetum-purpurephoides-ad-libitum/index.html",
+        "type": "file",
+        "md5": "1436dfede687756f358902c785d0f563"
+    },
+    {
+        "path": "pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengembangan-model-bisnis-pada-lokawisata-baturaden-menggunakan-business-model-canvas/index.html",
+        "type": "file",
+        "md5": "2b0bbff97367cb4818404868036d7ba0"
+    },
+    {
+        "path": "pengemukan-sapi-pfh-peranakan-friesian-holstein",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengemukan-sapi-pfh-peranakan-friesian-holstein/index.html",
+        "type": "file",
+        "md5": "58552ac98447ff1960a17d8f56fe1cb6"
+    },
+    {
+        "path": "pengertian-jasa-transportasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengertian-jasa-transportasi/index.html",
+        "type": "file",
+        "md5": "c4982dd7bc00f3baacfa5ddd14dfca46"
+    },
+    {
+        "path": "penggunaan-tepung-ikan-dalam-pakan-konsentrat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penggunaan-tepung-ikan-dalam-pakan-konsentrat/index.html",
+        "type": "file",
+        "md5": "2852012efc90ea66ef51043245fd88d4"
+    },
+    {
+        "path": "pengolahan-air-gambut-rawa-pasang-surut",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/pengolahan-air-gambut-rawa-pasang-surut/index.html",
+        "type": "file",
+        "md5": "dd552e3ff1bf0ff882d2b67f92c02407"
     },
     {
         "path": "penulis",
@@ -13292,7 +14632,7 @@
     {
         "path": "/penulis/anonymous/halaman/10/index.html",
         "type": "file",
-        "md5": "84fc7cfd300ef6faf25d5140072a8481"
+        "md5": "6c50d2d1a17ac08cc85c659f93942bef"
     },
     {
         "path": "penulis/anonymous/halaman/11",
@@ -13302,7 +14642,7 @@
     {
         "path": "/penulis/anonymous/halaman/11/index.html",
         "type": "file",
-        "md5": "ab66ae75acc2f29240355ea49baa19f0"
+        "md5": "6ebd9faf7af08365ee7f44f9a3a645e0"
     },
     {
         "path": "penulis/anonymous/halaman/2",
@@ -13312,7 +14652,7 @@
     {
         "path": "/penulis/anonymous/halaman/2/index.html",
         "type": "file",
-        "md5": "dc78ae7bb5444487050f72bd3d9af863"
+        "md5": "ac4ebdfcafddfcafd67291eec637bd62"
     },
     {
         "path": "penulis/anonymous/halaman/3",
@@ -13322,7 +14662,7 @@
     {
         "path": "/penulis/anonymous/halaman/3/index.html",
         "type": "file",
-        "md5": "bbbfb4e946dd53477875b72604acdbc1"
+        "md5": "06210159aec56d934ca755db6a2f9c08"
     },
     {
         "path": "penulis/anonymous/halaman/4",
@@ -13332,7 +14672,7 @@
     {
         "path": "/penulis/anonymous/halaman/4/index.html",
         "type": "file",
-        "md5": "8ef506042d06a92e410df3b9c8358e67"
+        "md5": "ea2d8ab0592efcf06f67c33158e6365d"
     },
     {
         "path": "penulis/anonymous/halaman/5",
@@ -13342,7 +14682,7 @@
     {
         "path": "/penulis/anonymous/halaman/5/index.html",
         "type": "file",
-        "md5": "98bf5fba46f3c7cf2fdd7eb6a4d7a4af"
+        "md5": "39236e9c988c5f23b3d17c209d661ecd"
     },
     {
         "path": "penulis/anonymous/halaman/6",
@@ -13352,7 +14692,7 @@
     {
         "path": "/penulis/anonymous/halaman/6/index.html",
         "type": "file",
-        "md5": "aa23e9a05b514a10fced4075707ea86f"
+        "md5": "3320043a52db0dcc06da18825f215c29"
     },
     {
         "path": "penulis/anonymous/halaman/7",
@@ -13362,7 +14702,7 @@
     {
         "path": "/penulis/anonymous/halaman/7/index.html",
         "type": "file",
-        "md5": "03c2f633193e791db40686f76f82e95a"
+        "md5": "bdb11237e3dc9bcffcb3541cad914e54"
     },
     {
         "path": "penulis/anonymous/halaman/8",
@@ -13372,7 +14712,7 @@
     {
         "path": "/penulis/anonymous/halaman/8/index.html",
         "type": "file",
-        "md5": "9c7075451fa7b967f03138918393fbe9"
+        "md5": "e968aa3912155ce8073b7b0749532cbf"
     },
     {
         "path": "penulis/anonymous/halaman/9",
@@ -13382,12 +14722,12 @@
     {
         "path": "/penulis/anonymous/halaman/9/index.html",
         "type": "file",
-        "md5": "73b674b712b4b99159155126a4ffe2a2"
+        "md5": "84a5dfb833718179c2aa2759d0fa26e7"
     },
     {
         "path": "/penulis/anonymous/index.html",
         "type": "file",
-        "md5": "8f3514bfe34bc5ef51ffe5af23b1f48b"
+        "md5": "254401a7032a670c30cd1ba9f0efc4a2"
     },
     {
         "path": "penulis/kanghilman",
@@ -13407,217 +14747,222 @@
     {
         "path": "/penulis/kanghilman/halaman/2/index.html",
         "type": "file",
-        "md5": "4f79ec5e7e00dc94e505f4c086705412"
+        "md5": "1bc3d221f25c8b4b445c874294f85a3f"
+    },
+    {
+        "path": "penulis/kanghilman/halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/kanghilman/halaman/3/index.html",
+        "type": "file",
+        "md5": "d0a6b13636ca28f9ccef3de8f2a7dff1"
     },
     {
         "path": "/penulis/kanghilman/index.html",
         "type": "file",
-        "md5": "55cdb4e4d1556b4e2ad6768c8c3d3c6f"
+        "md5": "5576bc4b04c28290e7199b4a66792148"
     },
     {
-        "path": "perdagangan",
+        "path": "perkembangan-industri-usaha-furniture-di-indonesia",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/perdagangan/index.html",
+        "path": "/perkembangan-industri-usaha-furniture-di-indonesia/index.html",
         "type": "file",
-        "md5": "0892d48708cf76ba1a01d7ba9678cdb5"
+        "md5": "f9bce03cb88d21e803afcb64b4ff6994"
     },
     {
-        "path": "perikanan",
+        "path": "perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/perikanan/index.html",
+        "path": "/perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture/index.html",
         "type": "file",
-        "md5": "8a00c040615034a4c07b5d710d1efbc0"
+        "md5": "e6b50dfbb89fd47b68332f33622ea6a7"
     },
     {
-        "path": "perkebunan",
+        "path": "persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "perkebunan/halaman",
+        "path": "/persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan/index.html",
+        "type": "file",
+        "md5": "f8cc630e2ddab018be5ada7db0943aa8"
+    },
+    {
+        "path": "pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "perkebunan/halaman/2",
+        "path": "/pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat/index.html",
+        "type": "file",
+        "md5": "2dfb2be810bf3b3f5c07e93f8a2e29b1"
+    },
+    {
+        "path": "privacy-policy",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/perkebunan/halaman/2/index.html",
+        "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "c77fa496c2e31824813365eb75c21bb6"
+        "md5": "ac993ff7eb8c3259bef2314b9aa814b4"
     },
     {
-        "path": "perkebunan/halaman/3",
+        "path": "problem-gambling-and-depression",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/perkebunan/halaman/3/index.html",
+        "path": "/problem-gambling-and-depression/index.html",
         "type": "file",
-        "md5": "53b2e1e0bc2fcce9ed36ec48cf75d010"
+        "md5": "cafad436898bc847550eddd419a0339d"
     },
     {
-        "path": "perkebunan/halaman/4",
+        "path": "produksi-gula-di-indonesia",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/perkebunan/halaman/4/index.html",
+        "path": "/produksi-gula-di-indonesia/index.html",
         "type": "file",
-        "md5": "d0b678cf37b23c4b5961881beacd84b3"
+        "md5": "4f83302c23a818a4e54a0c729c769f65"
     },
     {
-        "path": "/perkebunan/index.html",
-        "type": "file",
-        "md5": "15b598e16097a5701f8487e2c7d80ec4"
-    },
-    {
-        "path": "perkembangan-industri-usaha-furniture-di-indonesia.html",
-        "type": "file",
-        "md5": "611c0a96c52aee6bda7581090f0c9ab4"
-    },
-    {
-        "path": "perkembangan-makro-ekonomi-dan-pengaruhnya-terhadap-industri-furniture.html",
-        "type": "file",
-        "md5": "2843bc483b082b7b9a423d67de0497b6"
-    },
-    {
-        "path": "persaingan-dan-kunci-sukses-bisnis-pusat-perbelanjaan.html",
-        "type": "file",
-        "md5": "9511f68eb975ede7bca179503178717e"
-    },
-    {
-        "path": "pertanian",
+        "path": "profil-investasi-dan-risiko-bisnis-gula-tebu",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/pertanian/index.html",
+        "path": "/profil-investasi-dan-risiko-bisnis-gula-tebu/index.html",
         "type": "file",
-        "md5": "0127c94c9e91deb3fa6071f2dc327308"
+        "md5": "074a5abc067216bb31b4aae6b4b6812d"
     },
     {
-        "path": "pertumbuhan-sapi-jawa-yang-diberi-pakan-jerami-padi-dan-konsentrat.html",
-        "type": "file",
-        "md5": "9fffa11c98d9285e8459544e4f97b662"
-    },
-    {
-        "path": "peternakan",
+        "path": "proses-bisnis-organisasi-dalam-business-process-modeling-foundations",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "peternakan/halaman",
+        "path": "/proses-bisnis-organisasi-dalam-business-process-modeling-foundations/index.html",
+        "type": "file",
+        "md5": "20c50cdabde2686556e09434b57c8113"
+    },
+    {
+        "path": "proses-pengolahan-tebu-jadi-gula",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "peternakan/halaman/2",
+        "path": "/proses-pengolahan-tebu-jadi-gula/index.html",
+        "type": "file",
+        "md5": "6f6c821c089afd14a9abfafb16784233"
+    },
+    {
+        "path": "prospek-industri-furniture",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/peternakan/halaman/2/index.html",
+        "path": "/prospek-industri-furniture/index.html",
         "type": "file",
-        "md5": "1dc6b13bd20dd381b07209622e16348e"
+        "md5": "0feaf47b0ba573edaecbbc5c83df44ca"
     },
     {
-        "path": "/peternakan/index.html",
-        "type": "file",
-        "md5": "0ab7d89f60f8c64b3e1b2b08ec7b5ca9"
+        "path": "prospek-peluang-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "privacy-policy.html",
+        "path": "/prospek-peluang-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "8b5fca2f13a54c8c883e2b1d3e416985"
+        "md5": "355f7d6e8505508e0160dd415ed4b923"
     },
     {
-        "path": "problem-gambling-and-depression.html",
-        "type": "file",
-        "md5": "da1df351b2c32298e02ddb2692c1ec5a"
+        "path": "prospek-usaha-bunga-potong-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "produksi-gula-di-indonesia.html",
+        "path": "/prospek-usaha-bunga-potong-dan-tanaman-hias/index.html",
         "type": "file",
-        "md5": "7b6dd2ff2c3deca6dc99987b15645dcb"
+        "md5": "9cf867e30d11b9de0fe45394c75edad0"
     },
     {
-        "path": "profil-investasi-dan-risiko-bisnis-gula-tebu.html",
-        "type": "file",
-        "md5": "8966a80ded022589d80053769b7f8539"
+        "path": "prospek-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "proses-bisnis-organisasi-dalam-business-process-modeling-foundations.html",
+        "path": "/prospek-usaha-rumah-kost/index.html",
         "type": "file",
-        "md5": "6c929c521eb8b5d3a77ac628e6bdaaf2"
+        "md5": "f5beca85fcfc1a25e93145058e986af0"
     },
     {
-        "path": "proses-pengolahan-tebu-jadi-gula.html",
-        "type": "file",
-        "md5": "0e5b769d6f41b91e104620902c820949"
+        "path": "rekomendasi-khusus-industri-gula",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "prospek-industri-furniture.html",
+        "path": "/rekomendasi-khusus-industri-gula/index.html",
         "type": "file",
-        "md5": "ef1ded686c7770723a751827f44d0b02"
+        "md5": "7938b63fcfadf392325955bd7ee354bd"
     },
     {
-        "path": "prospek-peluang-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "f2192e4814a25ee8340a893f55afd1e5"
+        "path": "resiko-bisnis-usaha-pengembang",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "prospek-usaha-bunga-potong-dan-tanaman-hias.html",
+        "path": "/resiko-bisnis-usaha-pengembang/index.html",
         "type": "file",
-        "md5": "14319f8cd9e76497a5a6ef59a29713d6"
+        "md5": "9bfa6911f1542678a9a963c2b2daa42f"
     },
     {
-        "path": "prospek-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "d8914c70d00948f3c61d8dd78a5051cb"
+        "path": "resiko-bisnis-usaha-waralaba-franchise",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "rekomendasi-khusus-industri-gula.html",
+        "path": "/resiko-bisnis-usaha-waralaba-franchise/index.html",
         "type": "file",
-        "md5": "34c4f9e44df53ce326814396f390a089"
+        "md5": "7e8f4a7196ffc222d06534e051653156"
     },
     {
-        "path": "resiko-bisnis-usaha-pengembang.html",
-        "type": "file",
-        "md5": "5c58ad54ee96f8f590b3d5d53b7397de"
+        "path": "resiko-usaha-bengkel-mobil",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "resiko-bisnis-usaha-waralaba-franchise.html",
+        "path": "/resiko-usaha-bengkel-mobil/index.html",
         "type": "file",
-        "md5": "ce7e5916403eae464733fa6ca8c4a809"
+        "md5": "33136b3b894cac5ed7d2709c7d492d35"
     },
     {
-        "path": "resiko-usaha-bengkel-mobil.html",
-        "type": "file",
-        "md5": "6fabacf6c4d69e10a24b78e5ed092f6d"
+        "path": "resiko-usaha-bunga-potong",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "resiko-usaha-bunga-potong.html",
+        "path": "/resiko-usaha-bunga-potong/index.html",
         "type": "file",
-        "md5": "d0471e6244f49633a5e79caa978f44af"
+        "md5": "d98ff266ca1d29a578134a21be47d894"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "cf4fb1b1b1ef78fa1c420349aa0b0428"
+        "md5": "84ee5cebb059f9cb8d416aad0bfffce9"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3a5279fad3c58b95f204932c54e6143e"
+        "md5": "36af4e0dcbfcfb980fcb92f3a3caf0d9"
     },
     {
         "path": "sitemap.xsl",
@@ -13625,143 +14970,253 @@
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
-        "path": "sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging.html",
-        "type": "file",
-        "md5": "4877ab234699adc73a7c115dcbb01995"
-    },
-    {
-        "path": "strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu.html",
-        "type": "file",
-        "md5": "50907c52db7fcf25bfd63e264ac05d56"
-    },
-    {
-        "path": "strategi-usaha-industri-furniture.html",
-        "type": "file",
-        "md5": "90977e4384be4357b0d568832158e730"
-    },
-    {
-        "path": "sumber-bahan-baku-usaha-furniture.html",
-        "type": "file",
-        "md5": "19ce0efb3a05a35f35db3bcead0fa47c"
-    },
-    {
-        "path": "syarat-pendirian-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "e05a1bcfb2660d0d9accd46ac62f4697"
-    },
-    {
-        "path": "syarat-pendirian-usaha-bunga-dan-tanaman-hias.html",
-        "type": "file",
-        "md5": "3163474da95b5ff8fedbf8cf47564f90"
-    },
-    {
-        "path": "syarat-pendirian-usaha-rumah-kost-kostan.html",
-        "type": "file",
-        "md5": "7932ddf14518fa02620fecc82af527a5"
-    },
-    {
-        "path": "tebu-dan-industri-gula-di-indonesia.html",
-        "type": "file",
-        "md5": "8ad5b10859b8047401fdbbe1b24652ce"
-    },
-    {
-        "path": "teknik-budidaya-bunga-mawar.html",
-        "type": "file",
-        "md5": "3d91783ff02ab06d130fc59924122fbc"
-    },
-    {
-        "path": "teknik-budidaya-daun-asparagus-bintang.html",
-        "type": "file",
-        "md5": "add6d9dda38240a694fd23fe86723373"
-    },
-    {
-        "path": "teknik-dan-cara-usaha-home-industri-furniture.html",
-        "type": "file",
-        "md5": "04783cabb082548c61b97f329248d2d2"
-    },
-    {
-        "path": "teknik-mengelola-usaha-rumah-kost.html",
-        "type": "file",
-        "md5": "cb02bf0e59d2913a2bbd3ebf783eb55a"
-    },
-    {
-        "path": "teknik-pemasaran-usaha-bengkel-motor.html",
-        "type": "file",
-        "md5": "646855c19ad33c525768c9b920beec38"
-    },
-    {
-        "path": "teknologi-tepat-guna",
+        "path": "sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/teknologi-tepat-guna/index.html",
+        "path": "/sni-standar-nasional-indonesia-pakan-konsentrat-ayam-ras-pedaging/index.html",
         "type": "file",
-        "md5": "5966a6e46aa17612044b32e4c4ec8a1c"
+        "md5": "82e39b0e5436da7bf300d134e3517b7f"
     },
     {
-        "path": "terms-and-conditions.html",
-        "type": "file",
-        "md5": "4da5f97fefa530e7de679c12c0903952"
-    },
-    {
-        "path": "usaha-budidaya-bunga-kertas-zinnia.html",
-        "type": "file",
-        "md5": "dcda32642e84d82056da21f65800ce77"
-    },
-    {
-        "path": "usaha-budidaya-jamur-merang-volvariella-volvaceae.html",
-        "type": "file",
-        "md5": "1f91fab287be82f3d9a87fb4dd5e24e5"
-    },
-    {
-        "path": "usaha-budidaya-jamur-tiram.html",
-        "type": "file",
-        "md5": "c0861bc1d384d11b831022b1e5cda2e2"
-    },
-    {
-        "path": "usaha-budidaya-tanaman-tebu.html",
-        "type": "file",
-        "md5": "1333998e14a8b58652f6e9cd573b0b38"
-    },
-    {
-        "path": "usaha-kost-kostan.html",
-        "type": "file",
-        "md5": "03bb9a8b7d0544d11bdace42a7629730"
-    },
-    {
-        "path": "usaha-pengembang-pusat-perbelanjaan-mall.html",
-        "type": "file",
-        "md5": "f045474897bdeac46e817361f2df3907"
-    },
-    {
-        "path": "usaha-perkebunan-tanaman-hias.html",
-        "type": "file",
-        "md5": "b4dbd8f9e19e166c98ac00d022315713"
-    },
-    {
-        "path": "usaha-property",
+        "path": "strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/usaha-property/index.html",
+        "path": "/strategi-peluang-risiko-dan-analisa-swot-perkebunan-tebu/index.html",
         "type": "file",
-        "md5": "a6fd8c72bb387b9ae9dc92d49f5fac1f"
+        "md5": "92eb72d5b9a50a396c4043d9a21aba20"
     },
     {
-        "path": "usaha-supermarket-dan-minimarket.html",
-        "type": "file",
-        "md5": "b9805cdec6082e3b123ba03a8203cb64"
+        "path": "strategi-usaha-industri-furniture",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "waralaba-franchise.html",
+        "path": "/strategi-usaha-industri-furniture/index.html",
         "type": "file",
-        "md5": "422c2006b0a663ff3c4457cc85fdca50"
+        "md5": "cf3b956fa37d133871eb7da1ad59e801"
     },
     {
-        "path": "what-are-the-most-harmful-forms-of-gambling.html",
+        "path": "sumber-bahan-baku-usaha-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sumber-bahan-baku-usaha-furniture/index.html",
         "type": "file",
-        "md5": "e9b1b55b7559f83614da35876e323d29"
+        "md5": "aa00c5ba22686fa6c4fee20764c45a45"
+    },
+    {
+        "path": "syarat-pendirian-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/syarat-pendirian-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "63baea5ed16fa8043bc2652bd6aeeaf8"
+    },
+    {
+        "path": "syarat-pendirian-usaha-bunga-dan-tanaman-hias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/syarat-pendirian-usaha-bunga-dan-tanaman-hias/index.html",
+        "type": "file",
+        "md5": "ae77d53c8e227a09caeaa2670165f2d0"
+    },
+    {
+        "path": "syarat-pendirian-usaha-rumah-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/syarat-pendirian-usaha-rumah-kost-kostan/index.html",
+        "type": "file",
+        "md5": "6a6856b0de28ba8792a2d8637b407504"
+    },
+    {
+        "path": "tebu-dan-industri-gula-di-indonesia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tebu-dan-industri-gula-di-indonesia/index.html",
+        "type": "file",
+        "md5": "ea3036b4d3634c7f90a68b6d478ded89"
+    },
+    {
+        "path": "teknik-budidaya-bunga-mawar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/teknik-budidaya-bunga-mawar/index.html",
+        "type": "file",
+        "md5": "399b076c651655d2a262faf460c25df6"
+    },
+    {
+        "path": "teknik-budidaya-daun-asparagus-bintang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/teknik-budidaya-daun-asparagus-bintang/index.html",
+        "type": "file",
+        "md5": "9a82a8df1877c2c15d746e91f38b0887"
+    },
+    {
+        "path": "teknik-dan-cara-usaha-home-industri-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/teknik-dan-cara-usaha-home-industri-furniture/index.html",
+        "type": "file",
+        "md5": "579770b5103def244c6f31f2d21ebfcb"
+    },
+    {
+        "path": "teknik-mengelola-usaha-rumah-kost",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/teknik-mengelola-usaha-rumah-kost/index.html",
+        "type": "file",
+        "md5": "53562d8cc447ef895788ebc8ee79c26e"
+    },
+    {
+        "path": "teknik-pemasaran-usaha-bengkel-motor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/teknik-pemasaran-usaha-bengkel-motor/index.html",
+        "type": "file",
+        "md5": "4ad50d95af20138829485335f86522c8"
+    },
+    {
+        "path": "tepung-mocaf",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tepung-mocaf/index.html",
+        "type": "file",
+        "md5": "1bb8bdf33197f48e294ff1067d9ab170"
+    },
+    {
+        "path": "terms-and-conditions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/terms-and-conditions/index.html",
+        "type": "file",
+        "md5": "98a69c267424c9871869e26ec016e2a6"
+    },
+    {
+        "path": "usaha-budidaya-bunga-kertas-zinnia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-budidaya-bunga-kertas-zinnia/index.html",
+        "type": "file",
+        "md5": "3dcad5861700d2c0794a0023380c051d"
+    },
+    {
+        "path": "usaha-budidaya-jamur-merang-volvariella-volvaceae",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-budidaya-jamur-merang-volvariella-volvaceae/index.html",
+        "type": "file",
+        "md5": "bec014c74104a761740a16e59aa91f79"
+    },
+    {
+        "path": "usaha-budidaya-jamur-tiram",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-budidaya-jamur-tiram/index.html",
+        "type": "file",
+        "md5": "79454451585a424a8c032cf35d498e46"
+    },
+    {
+        "path": "usaha-budidaya-tanaman-tebu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-budidaya-tanaman-tebu/index.html",
+        "type": "file",
+        "md5": "974a9a56d9d6897d4c490c053fa9620d"
+    },
+    {
+        "path": "usaha-kost-kostan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-kost-kostan/index.html",
+        "type": "file",
+        "md5": "365c69a98bb574c8126c109991e75487"
+    },
+    {
+        "path": "usaha-pengembang-pusat-perbelanjaan-mall",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-pengembang-pusat-perbelanjaan-mall/index.html",
+        "type": "file",
+        "md5": "6e96e9c8187fa3d259e5101001645245"
+    },
+    {
+        "path": "usaha-perkebunan-tanaman-hias",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-perkebunan-tanaman-hias/index.html",
+        "type": "file",
+        "md5": "e3cb83ec47a2bc57556040a6c2e7f678"
+    },
+    {
+        "path": "usaha-supermarket-dan-minimarket",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/usaha-supermarket-dan-minimarket/index.html",
+        "type": "file",
+        "md5": "d1d201a7a651ff3f4040d122a6e2bd0a"
+    },
+    {
+        "path": "waralaba-franchise",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/waralaba-franchise/index.html",
+        "type": "file",
+        "md5": "50952654e72daeaf41ed7279a98262a9"
+    },
+    {
+        "path": "what-are-the-most-harmful-forms-of-gambling",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/what-are-the-most-harmful-forms-of-gambling/index.html",
+        "type": "file",
+        "md5": "15b956b4c675847587b9f075f3677253"
     }
 ]
