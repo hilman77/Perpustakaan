@@ -10,6 +10,39 @@
     },
     "items": [
         {
+            "id": "https://www.pustakadunia.com/tepung-terigu/",
+            "url": "https://www.pustakadunia.com/tepung-terigu/",
+            "title": "Tepung Terigu",
+            "summary": "Tepung terigu juga mengandung banyak zat pati, yaitu karbohidrat kompleks yang tidak larut dalam air. Jenis tepung terigu dibedakan atas kandungan protein yang dimiliki oleh tepung terigu, kandungan protein pada terigu menentukan kandungan gluten. Kualitas protein serta gluten ditentukan oleh kualitas jenis gandum. Protein sangat&hellip;",
+            "author": {
+                "name": "KangHilman"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-25T12:32:00+07:00",
+            "date_modified": "2019-12-25T12:32:00+07:00"
+        },
+        {
+            "id": "https://www.pustakadunia.com/apa-itu-tepung-mocaf/",
+            "url": "https://www.pustakadunia.com/apa-itu-tepung-mocaf/",
+            "title": "Apa Itu Tepung Mocaf",
+            "summary": "Artikel : Apa itu Tepung Mocaf merupakan kelanjutan dari artikel berjudul Tepung Mocaf di artikel ini akan lebih spesifik menjelaskan tentang tepung mocaf. Pengertian tepung mocaf perlu di pahami agar para pengguna tepung mocaf baik produsen atau konsumen menyadari bahwa tepung mocaf merupakan tepung hasil kearifan&hellip;",
+            "image": "https://www.pustakadunia.com/media/posts/131/apa-itu-tepung-mocaf.jpg",
+            "author": {
+                "name": "KangHilman"
+            },
+            "tags": [
+                   "Teknologi Tepat Guna",
+                   "Teknologi Pangan",
+                   "Pertanian",
+                   "Perkebunan",
+                   "Home Industri",
+                   "Bisnis &amp; Keuangan"
+            ],
+            "date_published": "2019-12-23T10:26:32+07:00",
+            "date_modified": "2019-12-23T13:47:56+07:00"
+        },
+        {
             "id": "https://www.pustakadunia.com/tepung-mocaf/",
             "url": "https://www.pustakadunia.com/tepung-mocaf/",
             "title": "Tepung Mocaf",
@@ -24,7 +57,7 @@
                    "Home Industri"
             ],
             "date_published": "2019-12-20T13:26:26+07:00",
-            "date_modified": "2019-12-20T19:14:28+07:00"
+            "date_modified": "2019-12-23T12:28:53+07:00"
         },
         {
             "id": "https://www.pustakadunia.com/bunga-zantedeschia/",
@@ -130,36 +163,6 @@
             ],
             "date_published": "2019-12-04T11:06:10+07:00",
             "date_modified": "2019-12-04T11:23:40+07:00"
-        },
-        {
-            "id": "https://www.pustakadunia.com/aspek-manajerial-usaha-supermarket-dan-minimarket/",
-            "url": "https://www.pustakadunia.com/aspek-manajerial-usaha-supermarket-dan-minimarket/",
-            "title": "Aspek Manajerial Usaha Supermarket dan Minimarket",
-            "summary": "Aspek Manajerial Usaha Supermarket dan Minimarket - Faktor manajemen merupakan salah satu kunci keberhasilan pengelolaan dalam bisnis supermarket dan minimarket. Pembagian tugas dan kewenangan didalam bisnis supermarket ini harus jelas, sehingga pengelolaan usaha sudah terstruktur dengan jelas.Adapun struktur organisasi yang biasa dimiliki perusahaan ini, adalah&hellip;",
-            "image": "https://www.pustakadunia.com/media/posts/121/Aspek-Manajerial-Usaha-Supermarket-dan-Minimarket.jpg",
-            "author": {
-                "name": "KangHilman"
-            },
-            "tags": [
-                   "Perdagangan"
-            ],
-            "date_published": "2019-12-04T11:03:03+07:00",
-            "date_modified": "2019-12-04T11:03:03+07:00"
-        },
-        {
-            "id": "https://www.pustakadunia.com/analisa-resiko-usaha-supermarket-atau-minimarket/",
-            "url": "https://www.pustakadunia.com/analisa-resiko-usaha-supermarket-atau-minimarket/",
-            "title": "Analisa Resiko Usaha Supermarket atau Minimarket",
-            "summary": "Analisa Resiko Usaha Supermarket atau Minimarket - Risiko bisnis merupakan kombinasi dari tantangan dan keunggulan pada suatu perusahaan yang merupakan hasil dari strategi tertentu dan ketrampilan manajemen perusahaan tersebut. Meskipun semua perusahan menghadapi risiko industri yang sama tetapi tiap – tiap perusahaan berbeda dalam mengelolanya. Adapun&hellip;",
-            "image": "https://www.pustakadunia.com/media/posts/120/Analisa-Resiko-Usaha-Supermarket-atau-Minimarket.jpg",
-            "author": {
-                "name": "KangHilman"
-            },
-            "tags": [
-                   "Perdagangan"
-            ],
-            "date_published": "2019-12-04T10:49:08+07:00",
-            "date_modified": "2019-12-04T10:53:44+07:00"
         }
     ]
 }
