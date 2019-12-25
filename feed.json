@@ -10,6 +10,27 @@
     },
     "items": [
         {
+            "id": "https://www.pustakadunia.com/konsumsi-tepung-terigu-nasional/",
+            "url": "https://www.pustakadunia.com/konsumsi-tepung-terigu-nasional/",
+            "title": "Konsumsi Tepung Terigu Nasional",
+            "summary": "Salah satu bahan makanan yang begitu besar kebutuhannya dalam masyarakat Indonesia yaitu Tepung Terigu. Tepung terigu sudah seperti kebutuhan pokok masyarakat Indonesia. Penggunaan tepung terigu sangatlah luas, dari mulai penggunaan skala rumah tangga, hingga penggunaan skala Industri. Konsumsi Tepung Terigu Nasional hingga akhir 2019 diperkirakan&hellip;",
+            "image": "https://www.pustakadunia.com/media/posts/134/Konsumsi-Tepung-Terigu-Nasional.jpg",
+            "author": {
+                "name": "KangHilman"
+            },
+            "tags": [
+                   "Teknologi Tepat Guna",
+                   "Teknologi Pangan",
+                   "Pertanian",
+                   "Perkebunan",
+                   "Perdagangan",
+                   "Home Industri",
+                   "Bisnis &amp; Keuangan"
+            ],
+            "date_published": "2019-12-25T17:37:37+07:00",
+            "date_modified": "2019-12-25T17:38:00+07:00"
+        },
+        {
             "id": "https://www.pustakadunia.com/tepung-mocaf-sebagai-pengganti-tepung-terigu/",
             "url": "https://www.pustakadunia.com/tepung-mocaf-sebagai-pengganti-tepung-terigu/",
             "title": "Tepung Mocaf sebagai Pengganti Tepung Terigu",
@@ -45,8 +66,8 @@
                    "Home Industri",
                    "Bisnis &amp; Keuangan"
             ],
-            "date_published": "2019-12-25T12:32:00+07:00",
-            "date_modified": "2019-12-25T12:32:00+07:00"
+            "date_published": "2019-12-25T00:32:00+07:00",
+            "date_modified": "2019-12-25T17:18:00+07:00"
         },
         {
             "id": "https://www.pustakadunia.com/apa-itu-tepung-mocaf/",
@@ -159,21 +180,6 @@
             ],
             "date_published": "2019-12-04T11:45:51+07:00",
             "date_modified": "2019-12-04T12:17:04+07:00"
-        },
-        {
-            "id": "https://www.pustakadunia.com/resiko-bisnis-usaha-pengembang/",
-            "url": "https://www.pustakadunia.com/resiko-bisnis-usaha-pengembang/",
-            "title": "Resiko Bisnis Usaha Pengembang Pusat Perbelanjaan / Mall",
-            "summary": "Resiko Bisnis Usaha Pengembang Pusat Perbelanjaan / Mall - Risiko bisnis merupakan kombinasi dari tantangan dan keunggulan pada suatu perusahaan yang merupakan hasil dari strategi tertentu dan ketrampilan manajemen perusahaan tersebut. Meskipun semua perusahaan menghadapi risiko industri yang sama tetapi tiap – tiap perusahaan berbeda&hellip;",
-            "image": "https://www.pustakadunia.com/media/posts/124/Resiko-Bisnis-Usaha-Pengembang-Pusat-Perbelanjaan.jpg",
-            "author": {
-                "name": "KangHilman"
-            },
-            "tags": [
-                   "Usaha Property"
-            ],
-            "date_published": "2019-12-04T11:31:00+07:00",
-            "date_modified": "2019-12-04T11:41:05+07:00"
         }
     ]
 }
